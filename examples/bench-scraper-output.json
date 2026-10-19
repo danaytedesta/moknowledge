@@ -1,0 +1,1485 @@
+{
+  "schemaVersion": "1.0",
+  "id": "da64c89c-336b-4d87-8b21-d4bad97049b0",
+  "createdAt": "2026-10-19T03:23:42.180Z",
+  "updatedAt": "2026-10-19T03:23:42.186Z",
+  "company": {
+    "name": {
+      "value": "Bench",
+      "origin": "inferred",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "Online Bookkeeping Done for You | Bench"
+        },
+        {
+          "sourceUrl": "https://www.bench.co/hire-a-bookkeeper",
+          "snippet": "Hire a Bookkeeper for Your Small Business | Bench"
+        },
+        {
+          "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+          "snippet": "Small Business Bookkeeping Services | Bench"
+        },
+        {
+          "sourceUrl": "https://www.bench.co/campaign/catch-up-service",
+          "snippet": "Catch-up Service | Bench"
+        },
+        {
+          "sourceUrl": "https://www.bench.co/industry/home-services",
+          "snippet": "Bookkeeping for Home Service Businesses | Bench"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.186Z"
+    },
+    "description": {
+      "value": "Bench pairs you with a dedicated bookkeeper and simple software, so your books get done for you. Trusted by 35,000+ U.S. businesses. See how Bench works.",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "Bench pairs you with a dedicated bookkeeper and simple software, so your books get done for you. Trusted by 35,000+ U.S. businesses. See how Bench works."
+        },
+        {
+          "sourceUrl": "https://www.bench.co/about",
+          "snippet": "Bench is an online bookkeeping service for U.S.-based businesses, small and growing. Now an Employer.com company, Bench is fully operational today."
+        },
+        {
+          "sourceUrl": "https://www.bench.co/hire-a-bookkeeper",
+          "snippet": "Hire a dedicated bookkeeper who works in your existing accounting software. Clean, tax-ready books every month from real experts. See how Bench works."
+        },
+        {
+          "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+          "snippet": "Monthly bookkeeping done for you by a dedicated Bench bookkeeper, plus software to see your financials anytime. Accurate, tax-ready books. See how it works."
+        },
+        {
+          "sourceUrl": "https://www.bench.co/pricing",
+          "snippet": "Simple, transparent Bench pricing for bookkeeping, tax, catch-up, and fractional bookkeeping. Flat monthly or save 20% annually. 100% tax-deductible."
+        },
+        {
+          "sourceUrl": "https://www.bench.co/industry/home-services",
+          "snippet": "Bookkeeping for plumbers, contractors & home service pros. Bench pairs you with a dedicated bookkeeper and software so your books stay current and tax-ready."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "website": {
+      "value": "https://www.bench.co/",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "https://www.bench.co/"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "industry": {
+      "value": "Accounting / bookkeeping",
+      "origin": "inferred",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "Online Bookkeeping Done for You | Bench Bench pairs you with a dedicated bookkeeper and simple software, so your books get done for you. Trusted by 35,000+ U.S. businesses. See how Bench works. Bookkeeping done for you."
+        },
+        {
+          "sourceUrl": "https://www.bench.co/about",
+          "snippet": "About Bench — Operating Today as an Employer.com Company Bench is an online bookkeeping service for U.S.-based businesses, small and growing. Now an Employer.com company, Bench is fully operational today. About Bench"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.187Z"
+    },
+    "businessModel": {
+      "value": "Business-to-business services",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "Bench pairs you with a dedicated bookkeeper and simple software, so your books get done for you. Trusted by 35,000+ U.S. businesses. See how Bench works."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.186Z"
+    },
+    "companyRole": {
+      "value": "Service provider",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "Bench pairs you with a dedicated bookkeeper and simple software, so your books get done for you. Trusted by 35,000+ U.S. businesses. See how Bench works."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.186Z"
+    },
+    "yearFounded": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "legalEntityType": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "employeeCount": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "mainAddress": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "otherLocations": [],
+    "serviceAreas": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "alternativeNames": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    }
+  },
+  "positioning": {
+    "pitch": {
+      "value": "Rule-based pitch suggestion: Bench pairs you with a dedicated bookkeeper and simple software, so your books get done for you. Trusted by 35,000+ U.S. businesses. See how Bench works.",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "Bench pairs you with a dedicated bookkeeper and simple software, so your books get done for you. Trusted by 35,000+ U.S. businesses. See how Bench works."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.186Z"
+    },
+    "foundingStory": {
+      "value": "We started Bench to take bookkeeping off business owners' plates for good — so you can spend your time running your business, not reconciling it.",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/about",
+          "snippet": "We started Bench to take bookkeeping off business owners' plates for good — so you can spend your time running your business, not reconciling it."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.187Z"
+    },
+    "differentiators": []
+  },
+  "market": {
+    "targetBuyers": {
+      "value": [
+        "Bench supports businesses of all shapes and sizes."
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "Bench supports businesses of all shapes and sizes."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.186Z"
+    },
+    "customerNeeds": {
+      "value": [
+        "We started Bench to take bookkeeping off business owners' plates for good — so you can spend your time running your business, not reconciling it."
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/about",
+          "snippet": "We started Bench to take bookkeeping off business owners' plates for good — so you can spend your time running your business, not reconciling it."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.186Z"
+    },
+    "idealCustomerPersona": {
+      "value": "Rule-based audience summary: Bench supports businesses of all shapes and sizes. Need: We started Bench to take bookkeeping off business owners' plates for good — so you can spend your time running your business, not reconciling it.",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "Bench supports businesses of all shapes and sizes."
+        },
+        {
+          "sourceUrl": "https://www.bench.co/about",
+          "snippet": "We started Bench to take bookkeeping off business owners' plates for good — so you can spend your time running your business, not reconciling it."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.186Z"
+    },
+    "industryGroupings": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "industryOutlook": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "channels": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "funnels": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "callsToAction": [
+      {
+        "value": "Get started",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Get started | href: https://www.bench.co/#schedule-call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Get started | href: https://www.bench.co/#schedule-call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.186Z"
+      },
+      {
+        "value": "Contact",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Contact | href: https://www.bench.co/#schedule-call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/about",
+            "snippet": "Contact | href: https://www.bench.co/#schedule-call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/hire-a-bookkeeper",
+            "snippet": "Contact | href: https://www.bench.co/#schedule-call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+            "snippet": "Contact | href: https://www.bench.co/#schedule-call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Contact | href: https://www.bench.co/#schedule-call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/industry/home-services",
+            "snippet": "Contact | href: https://www.bench.co/#schedule-call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.186Z"
+      },
+      {
+        "value": "Explore catch-up bookkeeping",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+            "snippet": "Explore catch-up bookkeeping | href: https://www.bench.co/campaign/catch-up-service"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.186Z"
+      },
+      {
+        "value": "Explore Bench Tax",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+            "snippet": "Explore Bench Tax | href: /tax-2026"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.186Z"
+      }
+    ],
+    "suppliersAndPartners": []
+  },
+  "branding": {
+    "writingStyle": {
+      "value": "Measured website text: 20 paragraphs; about 10 words per sentence. 13 paragraphs address the reader as you/your. This describes language patterns, not owner-approved tone.",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "A dedicated bookkeeper does your books. Simple software keeps your financials at your fingertips."
+        },
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "Trusted by 35,000+ business owners. We support every industry, from the hair salon on Main Street to the growing digital marketing agency, legal firm, and local coffee shop."
+        },
+        {
+          "sourceUrl": "https://www.bench.co/",
+          "snippet": "We learn about your business and show you how Bench can help."
+        }
+      ],
+      "origin": "measured",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.186Z"
+    },
+    "artStyle": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "fonts": [],
+    "colors": [
+      {
+        "value": "#0A5AC2",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "; color: #0a5ac2"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/about",
+            "snippet": "; color: #0a5ac2"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/hire-a-bookkeeper",
+            "snippet": "; color: #0a5ac2"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+            "snippet": "; color: #0a5ac2"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/campaign/catch-up-service",
+            "snippet": "; color: #0a5ac2"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "; color: #0a5ac2"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/industry/home-services",
+            "snippet": "; color: #0a5ac2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.186Z"
+      },
+      {
+        "value": "#FFFFFF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "{ color: #ffffff"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/about",
+            "snippet": "{ color: #ffffff"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/hire-a-bookkeeper",
+            "snippet": "{ color: #ffffff"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+            "snippet": "{ color: #ffffff"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/campaign/catch-up-service",
+            "snippet": "{ color: #ffffff"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "{ color: #ffffff"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/industry/home-services",
+            "snippet": "{ color: #ffffff"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.186Z"
+      },
+      {
+        "value": "#3FA684",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "{color:#3fa684"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/about",
+            "snippet": "{color:#3fa684"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/hire-a-bookkeeper",
+            "snippet": "{color:#3fa684"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+            "snippet": "{color:#3fa684"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/campaign/catch-up-service",
+            "snippet": "{color:#3fa684"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "{color:#3fa684"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/industry/home-services",
+            "snippet": "{color:#3fa684"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.186Z"
+      },
+      {
+        "value": "#0D2A45",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": ";border-color:#0d2a45"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/about",
+            "snippet": ";border-color:#0d2a45"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/hire-a-bookkeeper",
+            "snippet": ";border-color:#0d2a45"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+            "snippet": ";border-color:#0d2a45"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/campaign/catch-up-service",
+            "snippet": ";border-color:#0d2a45"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": ";border-color:#0d2a45"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/industry/home-services",
+            "snippet": ";border-color:#0d2a45"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.186Z"
+      }
+    ],
+    "logoUrls": [
+      {
+        "value": "https://cdn.prod.website-files.com/64559587fb856f82933854bf/67724b293bfa87adf66475c0_5a2413dfaadde915b68944df1d82dd2b_BenchLogoLarge.png",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Bench logo nav_logo | https://cdn.prod.website-files.com/64559587fb856f82933854bf/67724b293bfa87adf66475c0_5a2413dfaadde915b68944df1d82dd2b_BenchLogoLarge.png"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/about",
+            "snippet": "Bench logo nav_logo | https://cdn.prod.website-files.com/64559587fb856f82933854bf/67724b293bfa87adf66475c0_5a2413dfaadde915b68944df1d82dd2b_BenchLogoLarge.png"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/hire-a-bookkeeper",
+            "snippet": "Bench logo nav_logo | https://cdn.prod.website-files.com/64559587fb856f82933854bf/67724b293bfa87adf66475c0_5a2413dfaadde915b68944df1d82dd2b_BenchLogoLarge.png"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+            "snippet": "Bench logo nav_logo | https://cdn.prod.website-files.com/64559587fb856f82933854bf/67724b293bfa87adf66475c0_5a2413dfaadde915b68944df1d82dd2b_BenchLogoLarge.png"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/campaign/catch-up-service",
+            "snippet": "Bench logo nav_logo | https://cdn.prod.website-files.com/64559587fb856f82933854bf/67724b293bfa87adf66475c0_5a2413dfaadde915b68944df1d82dd2b_BenchLogoLarge.png"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bench logo nav_logo | https://cdn.prod.website-files.com/64559587fb856f82933854bf/67724b293bfa87adf66475c0_5a2413dfaadde915b68944df1d82dd2b_BenchLogoLarge.png"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/industry/home-services",
+            "snippet": "Bench logo nav_logo | https://cdn.prod.website-files.com/64559587fb856f82933854bf/67724b293bfa87adf66475c0_5a2413dfaadde915b68944df1d82dd2b_BenchLogoLarge.png"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.186Z"
+      }
+    ]
+  },
+  "socialProfiles": [],
+  "people": [],
+  "offerings": [
+    {
+      "id": "6cb4efb5-0a14-47b1-a05f-683a39e67b89",
+      "name": {
+        "value": "Bookkeeping",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "description": {
+        "value": "Reliable bookkeeping for your growing business.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "category": {
+        "value": "Bookkeeping",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "features": {
+        "value": [
+          "✓Accurate books and year-end tax-ready financials",
+          "✓Unlimited access to your bookkeeper by phone, message, and video call"
+        ],
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "$399/mo",
+          "origin": "inferred",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.bench.co/",
+              "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+            },
+            {
+              "sourceUrl": "https://www.bench.co/pricing",
+              "snippet": "Bookkeeping Reliable bookkeeping for your growing business. $399/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.181Z"
+        }
+      }
+    },
+    {
+      "id": "dd43f91a-5cd7-4e09-9b23-995471f55641",
+      "name": {
+        "value": "Bookkeeping + Tax",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "description": {
+        "value": "Full-service bookkeeping plus income tax filing & advisory.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "category": {
+        "value": "Bookkeeping",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "features": {
+        "value": [
+          "✓Everything in Bookkeeping",
+          "✓Licensed tax professionals",
+          "✓Up to four tax advisory calls annually",
+          "✓End-to-end business tax filing"
+        ],
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "$649/mo",
+          "origin": "inferred",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.bench.co/",
+              "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+            },
+            {
+              "sourceUrl": "https://www.bench.co/pricing",
+              "snippet": "MOST POPULAR Bookkeeping + Tax Full-service bookkeeping plus income tax filing & advisory. $649/mo Get started What's included ✓Everything in Bookkeeping ✓Licensed tax professionals ✓Up to four tax advisory calls annually ✓End-to-end business tax filing"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.181Z"
+        }
+      }
+    },
+    {
+      "id": "da1bfb3e-506c-41a4-99ee-cb7df0720f57",
+      "name": {
+        "value": "Bookkeeping Light",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "description": {
+        "value": "Reliable bookkeeping for your micro business.*",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "category": {
+        "value": "Bookkeeping",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "features": {
+        "value": [
+          "✓Accurate books and year-end tax-ready financials",
+          "✓Unlimited access to your bookkeeper by phone, message, and video call"
+        ],
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "$199/mo",
+          "origin": "inferred",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.bench.co/",
+              "snippet": "Bookkeeping Light Reliable bookkeeping for your micro business.* *For businesses doing $250K a year or less in revenue. $199/mo Get started What's included ✓Accurate books and year-end tax-ready financials ✓Unlimited access to your bookkeeper by phone, message, and video call"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.181Z"
+        }
+      }
+    },
+    {
+      "id": "991e3451-6551-4696-a169-bd71dcc7cc62",
+      "name": {
+        "value": "Fractional bookkeeper",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management Best for businesses that already have a system they like and just need an expert working in it."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "description": {
+        "value": "Expert QuickBooks support that works inside your existing account.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management Best for businesses that already have a system they like and just need an expert working in it."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "category": {
+        "value": "bookkeeper",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management Best for businesses that already have a system they like and just need an expert working in it."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management Best for businesses that already have a system they like and just need an expert working in it."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "features": {
+        "value": [
+          "✓QuickBooks-native: our certified experts work directly inside your QBO account",
+          "✓A true team extension: a dedicated bookkeeper embedded in your business",
+          "✓On-demand flexibility: hourly support and virtual sessions on your schedule",
+          "✓Fully customizable scope: from basic reconciliation to high-touch financial management"
+        ],
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management Best for businesses that already have a system they like and just need an expert working in it."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "$55/hr",
+          "origin": "inferred",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.bench.co/",
+              "snippet": "FRACTIONAL Fractional bookkeeper Expert QuickBooks support that works inside your existing account. $55/hr plus $1,200 one-time onboarding Get started What's included ✓QuickBooks-native: our certified experts work directly inside your QBO account ✓A true team extension: a dedicated bookkeeper embedded in your business ✓On-demand flexibility: hourly support and virtual sessions on your schedule ✓Fully customizable scope: from basic reconciliation to high-touch financial management"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.181Z"
+        }
+      }
+    },
+    {
+      "id": "3666668d-e906-4b25-895c-91ffd71a19b1",
+      "name": {
+        "value": "Full-service tax",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Full-service tax Tax filing plus year-round advisory.* *Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered. $300/mo or $2,880/yr · save 20% Get started What's included ✓End-to-end business tax filing ✓Year-round tax advisory ✓Up to four advisory calls annually ✓Licensed tax professionals"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Full-service tax Tax filing plus year-round advisory.* *Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered. $300/mo or $2,880/yr · save 20% Get started What's included ✓End-to-end business tax filing ✓Year-round tax advisory ✓Up to four advisory calls annually ✓Licensed tax professionals"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "description": {
+        "value": "Tax filing plus year-round advisory.*",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Full-service tax Tax filing plus year-round advisory.* *Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered. $300/mo or $2,880/yr · save 20% Get started What's included ✓End-to-end business tax filing ✓Year-round tax advisory ✓Up to four advisory calls annually ✓Licensed tax professionals"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Full-service tax Tax filing plus year-round advisory.* *Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered. $300/mo or $2,880/yr · save 20% Get started What's included ✓End-to-end business tax filing ✓Year-round tax advisory ✓Up to four advisory calls annually ✓Licensed tax professionals"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Full-service tax Tax filing plus year-round advisory.* *Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered. $300/mo or $2,880/yr · save 20% Get started What's included ✓End-to-end business tax filing ✓Year-round tax advisory ✓Up to four advisory calls annually ✓Licensed tax professionals"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Full-service tax Tax filing plus year-round advisory.* *Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered. $300/mo or $2,880/yr · save 20% Get started What's included ✓End-to-end business tax filing ✓Year-round tax advisory ✓Up to four advisory calls annually ✓Licensed tax professionals"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "features": {
+        "value": [
+          "✓End-to-end business tax filing",
+          "✓Year-round tax advisory",
+          "✓Up to four advisory calls annually",
+          "✓Licensed tax professionals"
+        ],
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Full-service tax Tax filing plus year-round advisory.* *Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered. $300/mo or $2,880/yr · save 20% Get started What's included ✓End-to-end business tax filing ✓Year-round tax advisory ✓Up to four advisory calls annually ✓Licensed tax professionals"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "$300/mo",
+          "origin": "inferred",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.bench.co/",
+              "snippet": "Full-service tax Tax filing plus year-round advisory.* *Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered. $300/mo or $2,880/yr · save 20% Get started What's included ✓End-to-end business tax filing ✓Year-round tax advisory ✓Up to four advisory calls annually ✓Licensed tax professionals"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.181Z"
+        }
+      }
+    },
+    {
+      "id": "f27d44f5-4882-413c-9b42-436841eac05b",
+      "name": {
+        "value": "Returning Customer",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Returning Customer Lower-cost filing for returning Bench tax customers.* *For customers who have filed with Bench in a previous year. Once we know your business, we file for a fraction of the price. $1,200/yr Billed annually. No monthly option. Get started What's included ✓Everything in Full-service tax ✓Advisory on demand at $250 per call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Returning Customer Lower-cost filing for returning Bench tax customers.* *For customers who have filed with Bench in a previous year. Once we know your business, we file for a fraction of the price. $1,200/yr Billed annually. No monthly option. Get started What's included ✓Everything in Full-service tax ✓Advisory on demand at $250 per call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "description": {
+        "value": "Lower-cost filing for returning Bench tax customers.*",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/",
+            "snippet": "Returning Customer Lower-cost filing for returning Bench tax customers.* *For customers who have filed with Bench in a previous year. Once we know your business, we file for a fraction of the price. $1,200/yr Billed annually. No monthly option. Get started What's included ✓Everything in Full-service tax ✓Advisory on demand at $250 per call"
+          },
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Returning Customer Lower-cost filing for returning Bench tax customers.* *For customers who have filed with Bench in a previous year. Once we know your business, we file for a fraction of the price. $1,200/yr Billed annually. No monthly option. Get started What's included ✓Everything in Full-service tax ✓Advisory on demand at $250 per call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "features": {
+        "value": [
+          "✓Everything in Full-service tax",
+          "✓Advisory on demand at $250 per call"
+        ],
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.bench.co/pricing",
+            "snippet": "Returning Customer Lower-cost filing for returning Bench tax customers.* *For customers who have filed with Bench in a previous year. Once we know your business, we file for a fraction of the price. $1,200/yr Billed annually. No monthly option. Get started What's included ✓Everything in Full-service tax ✓Advisory on demand at $250 per call"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.181Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "$1,200/yr",
+          "origin": "inferred",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.bench.co/",
+              "snippet": "Returning Customer Lower-cost filing for returning Bench tax customers.* *For customers who have filed with Bench in a previous year. Once we know your business, we file for a fraction of the price. $1,200/yr Billed annually. No monthly option. Get started What's included ✓Everything in Full-service tax ✓Advisory on demand at $250 per call"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.181Z"
+        }
+      }
+    }
+  ],
+  "content": {
+    "topics": [],
+    "faqs": [
+      {
+        "id": "beb85095-b434-4236-a087-f0cafdc763bb",
+        "question": {
+          "value": "Behind on your books and taxes?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+              "snippet": "Behind on your books and taxes? Falling behind happens. Whether you're a few months or a few years behind, our team gets your bookkeeping up to date and ready for filing, so you can say goodbye to IRS stress and penalties."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.187Z"
+        },
+        "answer": {
+          "value": "Falling behind happens. Whether you're a few months or a few years behind, our team gets your bookkeeping up to date and ready for filing, so you can say goodbye to IRS stress and penalties.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.bench.co/monthly-bookkeeping",
+              "snippet": "Behind on your books and taxes? Falling behind happens. Whether you're a few months or a few years behind, our team gets your bookkeeping up to date and ready for filing, so you can say goodbye to IRS stress and penalties."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.187Z"
+        }
+      }
+    ],
+    "testimonials": [],
+    "trustSignals": []
+  },
+  "marketing": {
+    "voice": {
+      "formality": "conversational",
+      "emoji": "none",
+      "length": "balanced",
+      "pronoun": null,
+      "callsCustomers": "",
+      "avoid": [],
+      "writingSamples": [],
+      "chosenAt": null
+    },
+    "claims": [
+      {
+        "id": "873fc518-7049-4a61-8eb4-bb23c6699c71",
+        "text": {
+          "value": "Bring a certified Bench bookkeeper onto your team, for $55/hr.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.bench.co/",
+              "snippet": "Just need a bookkeeper? Bring a certified Bench bookkeeper onto your team, for $55/hr. Meet your bookkeeper"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.187Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      }
+    ],
+    "promotions": [],
+    "preferredCallToAction": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "customersWanted": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "customersNotSuitable": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "triggerMoments": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.180Z"
+    },
+    "genericPhrasesToAvoid": []
+  },
+  "sources": [
+    {
+      "url": "https://www.bench.co/",
+      "title": "Online Bookkeeping Done for You | Bench",
+      "fetchedAt": "2026-10-19T01:42:54.310Z",
+      "headings": [
+        "Bookkeeping done for you.",
+        "Getting started is simple",
+        "15-minute call",
+        "Meet your bookkeeper",
+        "We get to work",
+        "We keep you current",
+        "See how Bench supports businesses just like yours",
+        "Simple, transparent pricing",
+        "Bookkeeping",
+        "Bookkeeping + Tax",
+        "Bookkeeping Light",
+        "Prefer to pay for the year? Save 20%.",
+        "Fractional bookkeeper",
+        "Get caught up for FREE",
+        "Get a custom quote",
+        "Full-service tax",
+        "Returning Customer",
+        "Behind on your books? We'll catch you up.",
+        "What business owners say about Bench",
+        "Questions, answered",
+        "See exactly what Bench would do for your business."
+      ],
+      "paragraphs": [
+        "A dedicated bookkeeper does your books. Simple software keeps your financials at your fingertips.",
+        "Trusted by 35,000+ business owners. We support every industry, from the hair salon on Main Street to the growing digital marketing agency, legal firm, and local coffee shop.",
+        "We learn about your business and show you how Bench can help.",
+        "You're matched with a dedicated bookkeeper who gets to know your business and accounts.",
+        "We catch up any past months and reconcile every account, transaction by transaction.",
+        "You get clean, up-to-date books every month, so you always know where you stand.",
+        "70 industries and counting. Bench supports businesses of all shapes and sizes. Here's how we help a few:",
+        "No surprises, no bait-and-switch. What you see is what you pay. 100% tax-deductible.",
+        "Full-service bookkeeping plus income tax filing & advisory.",
+        "*For businesses doing $250K a year or less in revenue.",
+        "Expert QuickBooks support that works inside your existing account.",
+        "Best for businesses that already have a system they like and just need an expert working in it.",
+        "Get caught up for free when you sign up for an annual plan.",
+        "We'll catch up prior years too, quickly and affordably. Talk to a bookkeeping advisor for a flat quote based on how far behind you are.",
+        "*Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered.",
+        "*Monthly pricing requires a 12-month commitment and must be purchased at least 3 months prior to your tax filing deadline (otherwise discounted annual pricing applies). Catch-up bookkeeping is billed at a discounted bundle rate when paired with an annual bookkeeping/tax package. Filing timelines depend on prompt submission of historical financial records.",
+        "Lower-cost filing for returning Bench tax customers.*",
+        "*For customers who have filed with Bench in a previous year. Once we know your business, we file for a fraction of the price.",
+        "Just need a bookkeeper? Bring a certified Bench bookkeeper onto your team, for $55/hr. Meet your bookkeeper",
+        "Months behind, or years? No judgment. Bench gets your books current fast, and catch-up is free when you sign up for an annual plan.",
+        "\"I've been using Bench for about 7 years and really appreciate their services. It takes bookkeeping off my hands and is presented in an online portal that's easy to navigate. I've been satisfied with their service since signing on with them.\"",
+        "\"I'm a solopreneur and Bench has been my perfect partner. No more late nights in January and Feb cleaning up a mess. They do my books each month and my job is simple. Everything is automated and I just have to categorize a few items each month. Grateful!\"",
+        "A 90-second interactive demo. No signup, no sales call. Then start whenever you're ready."
+      ]
+    },
+    {
+      "url": "https://www.bench.co/about",
+      "title": "About Bench — Operating Today as an Employer.com Company",
+      "fetchedAt": "2026-10-19T01:43:02.637Z",
+      "headings": [
+        "About Bench",
+        "Where Bench stands today",
+        "Your data stays yours",
+        "Frequently asked questions",
+        "See how Bench works"
+      ],
+      "paragraphs": [
+        "Bench is an online bookkeeping service for U.S.-based businesses, small and growing — operating today as an Employer.com company.",
+        "We started Bench to take bookkeeping off business owners' plates for good — so you can spend your time running your business, not reconciling it.",
+        "Here's a quick timeline of where Bench has been, and where things stand today.",
+        "Bench has helped business owners get their books done by real bookkeepers, backed by software — for over a decade.",
+        "Bench is fully operational, staffed by its in-house team, with Employer.com continuing to invest in the bookkeeping business.",
+        "Same model, same team, doing the work we've always done — now with the backing to keep doing it.",
+        "Bench uses read-only access to your financial accounts — your transactions can be imported for bookkeeping, but no one can move your money. Every bookkeeper passes background checks, and you can export your completed work anytime, even after your subscription ends.",
+        "A dedicated bookkeeper and simple software, working today. Take a look."
+      ]
+    },
+    {
+      "url": "https://www.bench.co/hire-a-bookkeeper",
+      "title": "Hire a Bookkeeper for Your Small Business | Bench",
+      "fetchedAt": "2026-10-19T01:43:05.880Z",
+      "headings": [
+        "Hire a bookkeeper for your small business",
+        "We do the heavy lifting so you don't have to",
+        "You need help with your books — at an affordable price.",
+        "A full-time hire costs too much.",
+        "So you do it yourself.",
+        "What's included when you hire a bookkeeper",
+        "A dedicated expert — not just software",
+        "They work inside the software you already use",
+        "Clean books and tax-ready, all year",
+        "Real businesses, real bookkeepers.",
+        "Frequently asked questions",
+        "Get your bookkeeper now."
+      ],
+      "paragraphs": [
+        "A dedicated expert who works inside your existing accounting software and takes the daily bookkeeping off your plate.",
+        "Save up to 10 hours a month, like most business owners we help.",
+        "See where you're spending and make savvy financial decisions.",
+        "Ask questions and get answers from real human experts.",
+        "Get accurate, IRS-compliant yearly financial records.",
+        "A dedicated in-house bookkeeper runs $45,000 to $65,000 a year before benefits — a full salary for work that doesn't need to be full-time.",
+        "Nights and weekends disappear into receipts and reconciliation instead of building product, closing customers, or resting. DIY bookkeeping pretends your time is free. It isn't — it's the most expensive option of all.",
+        "\"This is going on our 3rd year using Bench. I started off using QuickBooks and tried to do it all myself, but not knowing exactly what I was doing — and not staying on top of it — was becoming a nightmare. We started using Bench, it took some time for them to learn our business, but now they seem to have everything in order and rarely have to ask for information from me. So far it has helped our business tremendously.\"",
+        "\"I absolutely LOVE the help with my business! Having my Bench team keeps me up to date with my books and allows me to be accurate with my quarterly estimated taxes so I don't have to keep all of it straight in my head. Bench is always timely and responsive — I could not be happier with my experience!\"",
+        "A 15 minute conversation. We'll show you exactly what handing the books over looks like."
+      ]
+    },
+    {
+      "url": "https://www.bench.co/monthly-bookkeeping",
+      "title": "Small Business Bookkeeping Services | Bench",
+      "fetchedAt": "2026-10-19T01:43:09.284Z",
+      "headings": [
+        "Bookkeeping that simplifies your life.",
+        "We do the heavy lifting so you don't have to",
+        "What's included with monthly bookkeeping",
+        "Software that handles the heavy lifting",
+        "A real support system, not just software",
+        "Monthly reports and a tax-ready year-end package",
+        "How we support our customers",
+        "Get even more from Bench with these add-ons",
+        "Behind on your books and taxes?",
+        "Simplify your small business taxes",
+        "Frequently asked questions",
+        "Join thousands of business owners who trust Bench with their books."
+      ],
+      "paragraphs": [
+        "Save time and money with expert bookkeeping and simple software.",
+        "You get the perfect mix of smart technology and real human support. We don't just manage your books, we optimize them.",
+        "Save up to 10 hours a month, like most business owners we help.",
+        "See where you're spending and make savvy financial decisions.",
+        "Ask questions and get answers from real human experts.",
+        "Get accurate, IRS-compliant yearly financial records.",
+        "\"Bench has made my live significantly easier. All transactions are categorized and exportable. This helps with finance, accounting, record keeping, and taxes. The service is well worth the money.\"",
+        "\"I’ve been using Bench for about 7 years and really appreciate their services. It takes bookkeeping off my hands and is presented in an online portal that’s easy to navigate. I’ve been satisfied with their service since signing on with them.\"",
+        "Falling behind happens. Whether you're a few months or a few years behind, our team gets your bookkeeping up to date and ready for filing, so you can say goodbye to IRS stress and penalties.",
+        "From year-round tax advice to expert filing, Bench makes sure you get the most out of your return, with no hidden fees and no last-minute surprises.",
+        "Ready to simplify your financial management? Experience what it's like to have your financial team just a message away."
+      ]
+    },
+    {
+      "url": "https://www.bench.co/campaign/catch-up-service",
+      "title": "Catch-up Service | Bench",
+      "fetchedAt": "2026-10-19T01:43:12.930Z",
+      "headings": [
+        "Free catch-up bookkeeping *",
+        "You didn’t plan to get behind. Nobody does.",
+        "What’s included in your catch-up.",
+        "Four steps to current.",
+        "Frequently asked questions.",
+        "Fifteen minutes on the phone, your subscription quote, and a clear timelinefor your free catch-up. You’ll know whether to move forward before we endthe call."
+      ],
+      "paragraphs": [
+        "When you sign up for an annual bookkeeping subscription.",
+        "We’ll bring your books current from January 2026 right up to today, for free, as part of an annual bookkeeping subscription. After that, we keep them clean and reconciled every month.",
+        "The business got busy. The deadline slipped. The receipts piled up. Now it’s months later and you don’t know where to start.",
+        "Most catch-up customers come to us right here. We don’t need a backstory. Just access to your accounts.",
+        "Light tidy-up or full clean-up, the process is the same. Your catch-up from January 2026 to now is free with an annual subscription."
+      ]
+    },
+    {
+      "url": "https://www.bench.co/pricing",
+      "title": "Bench Pricing — Bookkeeping & Tax Plans",
+      "fetchedAt": "2026-10-19T01:43:19.399Z",
+      "headings": [
+        "Simple, transparent pricing.",
+        "Bookkeeping",
+        "Bookkeeping + Tax",
+        "Bookkeeping Light",
+        "Prefer to pay for the year? Save 20%.",
+        "Fractional bookkeeper",
+        "Get caught up for FREE",
+        "Get a custom quote",
+        "Full-service tax",
+        "Returning Customer",
+        "Not sure which plan fits?"
+      ],
+      "paragraphs": [
+        "No surprises, no bait-and-switch. What you see is what you pay, and it's 100% tax-deductible.",
+        "Full-service bookkeeping plus income tax filing & advisory.",
+        "*For businesses doing $250K a year or less in revenue.",
+        "Expert QuickBooks support that works inside your existing account.",
+        "Best for businesses that already have a system they like and just need an expert working in it.",
+        "Get caught up for free when you sign up for an annual plan.",
+        "We'll catch up prior years too, quickly and affordably. Talk to a bookkeeping advisor for a flat quote based on how far behind you are.",
+        "*Rate based on a 12-month commitment. Must be purchased at least 3 months prior to tax filing deadline; otherwise, discounted annual pricing applies. Clients are welcome to BYOB (Bring Your Own Bookkeeping). Books are subject to review—if additional cleanup or preparation is needed to file, discounted bookkeeping services will be offered.",
+        "*Monthly pricing requires a 12-month commitment and must be purchased at least 3 months prior to your tax filing deadline (otherwise discounted annual pricing applies). Catch-up bookkeeping is billed at a discounted bundle rate when paired with an annual bookkeeping/tax package. Filing timelines depend on prompt submission of historical financial records.",
+        "Lower-cost filing for returning Bench tax customers.*",
+        "*For customers who have filed with Bench in a previous year. Once we know your business, we file for a fraction of the price.",
+        "See exactly how Bench works in a 90-second demo. No signup, no sales call."
+      ]
+    },
+    {
+      "url": "https://www.bench.co/industry/home-services",
+      "title": "Bookkeeping for Home Service Businesses | Bench",
+      "fetchedAt": "2026-10-19T01:43:22.059Z",
+      "headings": [
+        "You Work Hard for Your Money—We Make Sure You Know Where It’s Going.",
+        "What Bench is, and what you actually get",
+        "How Bench can help your business specifically",
+        "The money's in the bank, but you don't know how much is yours",
+        "You can't tell which work is actually worth doing",
+        "Paying helpers turns into a year-end scramble",
+        "Three ways home service owners handle their books",
+        "What home service owners say",
+        "Bookkeeping questions from home service owners"
+      ],
+      "paragraphs": [
+        "Stress-Free Bookkeeping for Contractors, Plumbers, Electricians, HVAC, & More",
+        "Same year, broken out line by line: service versus install, materials versus helpers versus crew. That's the detail you need to price a job, drop a service, or decide whether you can afford more equipment.",
+        "A bookkeeping service — not software you have to run yourself",
+        "A dedicated bookkeeper. The same person every month",
+        "Monthly financials, plus year-end statements to file from",
+        "By the kind of work you sell, so you can compare what pays",
+        "Available with your bookkeeping, or bring your own accountant",
+        "Built for home service and trade businesses — plumbing, HVAC, electrical, roofing, remodeling, landscaping, cleaning and pest control.",
+        "Customers pay up front, or in stages. A deposit for a job you start next month is sitting in your account right now, looking exactly like profit. Then a big material order goes out and it's gone.",
+        "Your bookkeeper separates money you've earned from money you're still holding, so the profit number in front of you is the real one.",
+        "Materials, helpers and crew hours all land in the same few lines. A busy month of small repairs and a month of big installs look almost identical on paper, so you're pricing on instinct.",
+        "Income and costs get grouped by the type of work you sell, so you can compare them side by side and see what's carrying the business.",
+        "You bring on extra hands for the busy stretch. In January you're digging through bank statements trying to work out who you paid, how much, and whose paperwork is missing.",
+        "Every payment is tracked against the person or company you paid, all year, so year-end is a list you already have instead of a weekend you lose.",
+        "All three work for somebody. Here's the honest difference, so you can tell which one you are.",
+        "Bench is a bookkeeping service, not accounting software. If what you want is a tool you operate yourself, one of the first two columns will serve you better — and we'd rather tell you that now.",
+        "\"I've been using Bench for about 7 years and really appreciate their services. It takes bookkeeping off my hands and is presented in an online portal that's easy to navigate. I've been satisfied with their service since signing on with them.\"",
+        "\"I'm a solopreneur and Bench has been my perfect partner. No more late nights in January and Feb cleaning up a mess. They do my books each month and my job is simple. Everything is automated and I just have to categorize a few items each month. Grateful!\""
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "url": "https://www.bench.co/",
+      "message": "Different descriptions were found. The first value was selected for review."
+    }
+  ]
+}

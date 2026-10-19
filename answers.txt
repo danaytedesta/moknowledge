@@ -1,0 +1,53 @@
+1. What approach did you take to scraping and structuring the knowledge base data?
+
+I split the project into downloading, extracting, reviewing, and saving. 
+The server fetches the website and up to six related pages within a download time budget.
+ Cheerio reads HTML, metadata, structured data, and nearby text.
+  I use navigation context to find useful pages and reject forms, job pages, 
+  and blog previews. Explicit labels help with less common fields such as industry outlook and art style, 
+  but extraction is still partial. I put the results into typed fields with their source and supporting text. 
+  Missing information stays blank. An extracted value and an owner-confirmed value are different things. 
+  I used AI assistance while learning TypeScript and reviewed the implementation through multiple tests and examples.
+  The test helped learn it's limitaions and improvments to work on.
+
+**2. What information beyond the current baseline did you choose to include, and why?**
+
+I wanted the knowledge base to help with actual marketing decisions, so I added offering priorities, pricing preferences, voice settings, claim approval, and customer questions.
+
+Offering priorities let the owner choose what to promote more, keep at a normal level, pause, or advertise as a waitlist. A service being listed on a website does not always mean the business wants more customers for it right now. Pricing preferences give the owner control over whether marketing should show a fixed price, a starting price, ask customers to request a quote, or leave prices out. Claim approval adds a separate review step for statements such as guarantees and certifications.
+
+I also added a small customer decision map using published FAQs and process explanations. It helps identify questions someone might have before choosing the business, such as what to expect, how to prepare, or how pricing works. The owner can edit those existing questions without completing another questionnaire.
+
+I wanted the app to do most of the work upfront, so the owner could check the results and make a few important decisions. They should be able to save something useful without having to go through every field or answer another long list of questions.
+
+**3. How would your knowledge base design improve MoSocial, MoMail, and MoBlogs specifically?**
+
+All three apps could use the same business profile, but each needs different instructions.
+
+For MoSocial, the brief can focus on an offering the owner wants to promote, follow their preferred voice, and suggest answering one relevant customer question. This gives a post a clear purpose and helps avoid repeatedly promoting something the business has paused.
+
+For MoMail, the brief can focus on a customer concern and guide the reader toward one next step, such as requesting a quote or booking an appointment. The business information and preferences help keep the email relevant instead of making it sound like a general sales message.
+
+For MoBlogs, the brief can use customer questions and published process details to guide a useful article. For example, a service business could explain how to prepare for an appointment or what happens during the service. Keeping the supporting sources makes the information easier to review.
+
+The compiler also explains what it leaves out. Prices require the appropriate owner review, sensitive claims have separate approval rules, and paused offerings are excluded from promotion. The current app produces these writing briefs using rules. Connecting them to an AI content generator would be a future step.
+
+**4. What would you improve or change about MoKnowledge if you had more time?**
+
+My first priority would be extraction accuracy across more website layouts and business types. The scraper can collect useful information, but it can still confuse a heading with a business fact or miss information that is already on a downloaded page. It worked well for the first couple of tests, but the more I diversified the testing websites, the more room for improvement.  I would improve how it uses the surrounding text to decide what a statement refers to, especially for company details, key people, service areas, and product features.&#x20;
+
+I would also improve how the crawler chooses pages within its time limit. Reading more pages is only helpful if they contain useful information. I would build a larger set of real website examples and check that changes improve those results without breaking cases that already work.
+
+On the technical side, I would add stronger checks for saved data and implement a database with accounts and profile version history. The current app uses browser localStorage, and the Supabase document is a proposed design.
+
+After improving extraction, I would consider AI enrichment for tasks such as summarizing a company’s positioning. I would still require supporting evidence, validate the response, and keep suggestions separate from owner-approved information. I would also test the interface with nontechnical small-business owners to see which steps are confusing or take more effort than expected.
+
+**5. What was the most challenging part of this assignment?**
+
+The most challenging part was deciding what the website actually supports. Downloading a page gives you text, but understanding which parts belong in a business profile is harder. Websites use different layouts, and a heading might be a service name, a slogan, a form label, or the title of an article.
+
+Testing exposed mistakes such as contact-form content becoming offerings and blog previews becoming FAQs. Those results helped me see why a rule that works on one website may fail on another. I used source evidence and regression tests with 18+ different testing websites to check the changes, although the final scraper still has limitations. I learned there is always room for improvement, especially since the source page caps at 7 pages, so I stuck with what I have now.&#x20;
+
+Another challenge was keeping the information useful without making the owner review everything. I separated extracted facts, inferred suggestions, and measured information, and focused additional review on decisions such as prices, claims, and what to promote. A field being filled should not automatically mean it is approved for marketing.
+
+I was also learning TypeScript and how the different parts of the application connect. I used AI assistance with implementation, and following information from the server route through extraction, the editor, browser storage, and the brief compiler helped me understand the project. The main lesson was how to keep the same information connected across different parts of an app. The editor, saved JSON, and marketing briefs all use the same profile, so an owner’s changes can carry through without having to update everything separately.

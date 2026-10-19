@@ -1,0 +1,3674 @@
+{
+  "schemaVersion": "1.0",
+  "id": "427305bb-34a4-48e7-878d-8d65debef7d9",
+  "createdAt": "2026-10-19T01:45:03.684Z",
+  "updatedAt": "2026-10-19T01:45:03.687Z",
+  "company": {
+    "name": {
+      "value": "Bee Cave Drilling",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/",
+          "snippet": "Bee Cave Drilling"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+          "snippet": "Bee Cave Drilling"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+          "snippet": "Bee Cave Drilling"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+          "snippet": "Bee Cave Drilling"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/contact/",
+          "snippet": "Bee Cave Drilling"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+          "snippet": "Bee Cave Drilling"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+          "snippet": "Bee Cave Drilling"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "description": {
+      "value": "Service Austin & The Texas Hill Country in water well installation, inspection, & maintenance.",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/",
+          "snippet": "Service Austin & The Texas Hill Country in water well installation, inspection, & maintenance."
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+          "snippet": "High-Quality Water Wells & Repair Servicesfor the TX Hill Country Since 1980! Water Well Drilling in Austinand in the Hill Country and surrounding areas"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+          "snippet": "Service Austin & Texas Hill Country in water well installation, inspection and maintenance."
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+          "snippet": "Service Austin & Texas Hill Country in water well installation, inspection and maintenance."
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/contact/",
+          "snippet": "Service Austin & Texas Hill Country in water well installation, inspection and maintenance."
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+          "snippet": "Service Austin & Texas Hill Country in water well installation, inspection and maintenance."
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+          "snippet": "Service Austin & Texas Hill Country in water well installation, inspection and maintenance."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "website": {
+      "value": "https://www.beecavedrilling.com/",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/",
+          "snippet": "https://www.beecavedrilling.com/"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "industry": {
+      "value": "Home And Construction Business",
+      "origin": "inferred",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/",
+          "snippet": "{\"@type\":[\"HomeAndConstructionBusiness\",\"Organization\"],\"url\":\"https://www.beecavedrilling.com\"}"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+          "snippet": "{\"@type\":[\"HomeAndConstructionBusiness\",\"Organization\"],\"url\":\"https://www.beecavedrilling.com\"}"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+          "snippet": "{\"@type\":[\"HomeAndConstructionBusiness\",\"Organization\"],\"url\":\"https://www.beecavedrilling.com\"}"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+          "snippet": "{\"@type\":[\"HomeAndConstructionBusiness\",\"Organization\"],\"url\":\"https://www.beecavedrilling.com\"}"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/contact/",
+          "snippet": "{\"@type\":[\"HomeAndConstructionBusiness\",\"Organization\"],\"url\":\"https://www.beecavedrilling.com\"}"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+          "snippet": "{\"@type\":[\"HomeAndConstructionBusiness\",\"Organization\"],\"url\":\"https://www.beecavedrilling.com\"}"
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+          "snippet": "{\"@type\":[\"HomeAndConstructionBusiness\",\"Organization\"],\"url\":\"https://www.beecavedrilling.com\"}"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.689Z"
+    },
+    "businessModel": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "companyRole": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "yearFounded": {
+      "value": 1980,
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+          "snippet": "In July of 1980, Bee Cave Drilling (then known as R&L Pump Service) began in the back room of Rex and Lois Bible’s house in Bee Cave, Texas. Rex grew up in a family of water well drillers and trained under Buster Enochs. By 1986, Rex had saved up enough money to finance a drilling rig and changed the name of the company to Bee Cave Drilling to reflect his expanded services."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.687Z"
+    },
+    "legalEntityType": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "employeeCount": {
+      "value": "around 50 people",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+          "snippet": "Over the years, Bee Cave Drilling has been the leader in adopting new technologies and methods to improve the overall functioning of water well systems and to take ownership of a water well attainable for more people. Today Bee Cave Drilling is perhaps the busiest water well company in the Austin area with a fabulous staff of around 50 people and a growing number of satisfied customers. We hope to be able to add you to that list. Check out our Services We Provide Menu to see what Bee Cave Drilling can do for you and our Testimonials Page to see what people think of our work."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.687Z"
+    },
+    "mainAddress": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "otherLocations": [
+      {
+        "id": "53d1632f-7cb5-48c4-9ee8-8fc31e387ac3",
+        "label": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.687Z"
+        },
+        "address": {
+          "value": "185 Angel Fire Rd, Dripping Springs, Texas, 78620, USA",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/",
+              "snippet": "{\"@type\":\"PostalAddress\",\"streetAddress\":\"185 Angel Fire Rd\",\"addressLocality\":\"Dripping Springs\",\"addressRegion\":\"Texas\",\"postalCode\":\"78620\",\"addressCountry\":\"USA\"}"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/",
+              "snippet": "185 Angel Fire Rd Dripping Springs, TX 78620"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+              "snippet": "{\"@type\":\"PostalAddress\",\"streetAddress\":\"185 Angel Fire Rd\",\"addressLocality\":\"Dripping Springs\",\"addressRegion\":\"Texas\",\"postalCode\":\"78620\",\"addressCountry\":\"USA\"}"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+              "snippet": "185 Angel Fire Rd Dripping Springs, TX 78620"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+              "snippet": "{\"@type\":\"PostalAddress\",\"streetAddress\":\"185 Angel Fire Rd\",\"addressLocality\":\"Dripping Springs\",\"addressRegion\":\"Texas\",\"postalCode\":\"78620\",\"addressCountry\":\"USA\"}"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+              "snippet": "185 Angel Fire Rd Dripping Springs, TX 78620"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+              "snippet": "{\"@type\":\"PostalAddress\",\"streetAddress\":\"185 Angel Fire Rd\",\"addressLocality\":\"Dripping Springs\",\"addressRegion\":\"Texas\",\"postalCode\":\"78620\",\"addressCountry\":\"USA\"}"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+              "snippet": "185 Angel Fire Rd Dripping Springs, TX 78620"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/contact/",
+              "snippet": "{\"@type\":\"PostalAddress\",\"streetAddress\":\"185 Angel Fire Rd\",\"addressLocality\":\"Dripping Springs\",\"addressRegion\":\"Texas\",\"postalCode\":\"78620\",\"addressCountry\":\"USA\"}"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/contact/",
+              "snippet": "185 Angel Fire Rd. Dripping Springs, TX 78620"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/contact/",
+              "snippet": "185 Angel Fire Rd Dripping Springs, TX 78620"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+              "snippet": "{\"@type\":\"PostalAddress\",\"streetAddress\":\"185 Angel Fire Rd\",\"addressLocality\":\"Dripping Springs\",\"addressRegion\":\"Texas\",\"postalCode\":\"78620\",\"addressCountry\":\"USA\"}"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+              "snippet": "185 Angel Fire Rd Dripping Springs, TX 78620"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+              "snippet": "{\"@type\":\"PostalAddress\",\"streetAddress\":\"185 Angel Fire Rd\",\"addressLocality\":\"Dripping Springs\",\"addressRegion\":\"Texas\",\"postalCode\":\"78620\",\"addressCountry\":\"USA\"}"
+            },
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+              "snippet": "185 Angel Fire Rd Dripping Springs, TX 78620"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.687Z"
+        }
+      }
+    ],
+    "serviceAreas": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "alternativeNames": {
+      "value": [
+        "R&L Pump Service"
+      ],
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+          "snippet": "In July of 1980, Bee Cave Drilling (then known as R&L Pump Service) began in the back room of Rex and Lois Bible’s house in Bee Cave, Texas. Rex grew up in a family of water well drillers and trained under Buster Enochs. By 1986, Rex had saved up enough money to finance a drilling rig and changed the name of the company to Bee Cave Drilling to reflect his expanded services."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.687Z"
+    }
+  },
+  "positioning": {
+    "pitch": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "foundingStory": {
+      "value": "In July of 1980, Bee Cave Drilling (then known as R&L Pump Service) began in the back room of Rex and Lois Bible’s house in Bee Cave, Texas. Rex grew up in a family of water well drillers and trained under Buster Enochs. By 1986, Rex had saved up enough money to finance a drilling rig and changed the name of the company to Bee Cave Drilling to reflect his expanded services.",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+          "snippet": "In July of 1980, Bee Cave Drilling (then known as R&L Pump Service) began in the back room of Rex and Lois Bible’s house in Bee Cave, Texas. Rex grew up in a family of water well drillers and trained under Buster Enochs. By 1986, Rex had saved up enough money to finance a drilling rig and changed the name of the company to Bee Cave Drilling to reflect his expanded services."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.689Z"
+    },
+    "differentiators": []
+  },
+  "market": {
+    "targetBuyers": {
+      "value": [
+        "We serve a wide range of clients, encompassing both residential and commercial sectors."
+      ],
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/",
+          "snippet": "We serve a wide range of clients, encompassing both residential and commercial sectors. No project is too big or small for us, and each job is approached with the same level of attention to detail and professionalism. Whether it’s a small residential drilling job or a large-scale commercial project, our team of seasoned professionals works tirelessly to ensure that all needs are met with the highest degree of satisfaction. Our dedication to service, coupled with our broad-ranging experience, allows us to exceed client expectations consistently and contribute positively to the communities we serve."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.689Z"
+    },
+    "customerNeeds": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "idealCustomerPersona": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "industryGroupings": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "industryOutlook": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "channels": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "funnels": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "callsToAction": [
+      {
+        "value": "Request Estimate",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Request Estimate | href: https://www.beecavedrilling.com/estimates-service-requests/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "Request Estimate | href: https://www.beecavedrilling.com/estimates-service-requests/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "Request Estimate | href: https://www.beecavedrilling.com/estimates-service-requests/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Request Estimate | href: https://www.beecavedrilling.com/estimates-service-requests/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "Request Estimate | href: https://www.beecavedrilling.com/estimates-service-requests/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Request Estimate | href: https://www.beecavedrilling.com/estimates-service-requests/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "Request Estimate | href: https://www.beecavedrilling.com/estimates-service-requests/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "Contact",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Contact | href: https://www.beecavedrilling.com/contact/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "Contact | href: https://www.beecavedrilling.com/contact/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "Contact | href: https://www.beecavedrilling.com/contact/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Contact | href: https://www.beecavedrilling.com/contact/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "Contact | href: https://www.beecavedrilling.com/contact/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Contact | href: https://www.beecavedrilling.com/contact/"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "Contact | href: https://www.beecavedrilling.com/contact/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "Contact Request",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Contact Request | href: https://www.beecavedrilling.com/contact/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "Get A Free Estimate",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "Get A Free Estimate | href: #drill-contact"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "Request an Estimate",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "Request an Estimate | href: #drill-contact"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "GET MY FREE QUOTE",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "GET MY FREE QUOTE | href: #drill-contact"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "Schedule My Inspection",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "Schedule My Inspection | href: #drill-contact"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "CONTACT US WITH YOUR QUESTION",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "CONTACT US WITH YOUR QUESTION | href: #drill-contact"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      }
+    ],
+    "suppliersAndPartners": [
+      {
+        "value": "Bill Dunn Construction, Inc.",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Bill Dunn Construction, Inc. 512-847-8311 www.BillDunnConstruction.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Braun and Butler Construction",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Braun and Butler Construction 512-837-2882 www.Braun-Butler.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Brian A. Bailey Homes",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Brian A. Bailey Homes 512-328-2502 www.BaileyHomes.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "C&A Builders",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "C&A Builders 512-261-0692 www.CABldrs.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Camelot Custom Homes, Inc.",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Camelot Custom Homes, Inc. 512 577 8348 www.CamelotHomesInc.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Casa Bella Development",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Casa Bella Development 512-563-9716 www.Casabella-CustomHomes.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Caswell Services, Inc.",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Caswell Services, Inc. 512-445-4388 www.CaswellServicesInc.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Classic Constructors, LP",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Classic Constructors, LP 512-402-1660 www.ClassicConstructors.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Dalgleish Construction Company",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Dalgleish Construction Company 512-346-8554 www.Dalgleish.net"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "DaVinci Homes",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "DaVinci Homes 512-858-0800 www.DavinciFineHomes.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Don Crowell Builders",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Don Crowell Builders 512-328-9974 www.DonCrowellBuilders.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Duffin Construction",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Duffin Construction 512-858-2063 www.DuffinConstruction.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Foursquare Builders, LLC",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Foursquare Builders, LLC 512-912-7533 www.FourSquareBuilders.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "J. Pinnelli Company",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "J. Pinnelli Company 512-478-5958 www.Pinnelli.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Michael Deane Homes, Inc.",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Michael Deane Homes, Inc. 512-478-2400 www.MDH.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Partners in Building",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Partners in Building 512-266-6701 www.PartnersInBuilding.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Russell Eppright Custom Homes",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Russell Eppright Custom Homes 512-347-9955 www.EpprightHomes.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      {
+        "value": "Unique Transformations of Austin",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "Unique Transformations of Austin 512-300-0132 www.UniqueTX.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    ]
+  },
+  "branding": {
+    "writingStyle": {
+      "value": "Text sample: 20 paragraphs; average 52 words per paragraph. This measures text length, not brand tone.",
+      "origin": "measured",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/",
+          "snippet": "Since its inception in 1980, Bee Cave Drilling, a family-owned and operated company, has been dedicated to providing exemplary well-drilling services to the Texas Hill Country and its surrounding regions, including notable areas such as Dripping Springs and Burnet. For a span of over forty years, this company has been an active participant in the community, expertly catering to the needs of its residents."
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/",
+          "snippet": "We serve a wide range of clients, encompassing both residential and commercial sectors. No project is too big or small for us, and each job is approached with the same level of attention to detail and professionalism. Whether it’s a small residential drilling job or a large-scale commercial project, our team of seasoned professionals works tirelessly to ensure that all needs are met with the highest degree of satisfaction. Our dedication to service, coupled with our broad-ranging experience, allows us to exceed client expectations consistently and contribute positively to the communities we serve."
+        },
+        {
+          "sourceUrl": "https://www.beecavedrilling.com/",
+          "snippet": "Whether you're looking to initiate a new project or seeking maintenance on an existing well, our experienced staff is ready to provide efficient and timely solutions. Don't hesitate to connect with us and discover how our expertise can benefit both your residential and commercial needs."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.689Z"
+    },
+    "artStyle": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "fonts": [
+      {
+        "value": "Open Sans,Arial,sans-serif",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "font-family:Open Sans,Arial,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "font-family:Open Sans,Arial,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "font-family:Open Sans,Arial,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "font-family:Open Sans,Arial,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "font-family:Open Sans,Arial,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "font-family:Open Sans,Arial,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "font-family:Open Sans,Arial,sans-serif"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "Courier New,monospace",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "font-family:Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "font-family:Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "font-family:Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "font-family:Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "font-family:Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "font-family:Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "font-family:Courier New,monospace"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "ETmodules!important",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "font-family:ETmodules!important"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "font-family:ETmodules!important"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "font-family:ETmodules!important"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "font-family:ETmodules!important"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "font-family:ETmodules!important"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "font-family:ETmodules!important"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "font-family:ETmodules!important"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "ETmodules",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "font-family:ETmodules"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "font-family:ETmodules"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "font-family:ETmodules"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "font-family:ETmodules"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "font-family:ETmodules"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "font-family:ETmodules"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "font-family:ETmodules"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "Open Sans,sans-serif",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "font-family:Open Sans,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "font-family:Open Sans,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "font-family:Open Sans,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "font-family:Open Sans,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "font-family:Open Sans,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "font-family:Open Sans,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "font-family:Open Sans,sans-serif"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "'DM Serif Text',Georgia,\"Times New Roman\",serif",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "font-family:'DM Serif Text',Georgia,\"Times New Roman\",serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "font-family:'DM Serif Text',Georgia,\"Times New Roman\",serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "font-family:'DM Serif Text',Georgia,\"Times New Roman\",serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "font-family:'DM Serif Text',Georgia,\"Times New Roman\",serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "font-family:'DM Serif Text',Georgia,\"Times New Roman\",serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "font-family:'DM Serif Text',Georgia,\"Times New Roman\",serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "font-family:'DM Serif Text',Georgia,\"Times New Roman\",serif"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "'Poppins',Helvetica,Arial,Lucida,sans-serif",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "FontAwesome",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "font-family:FontAwesome"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "font-family:FontAwesome"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "font-family:FontAwesome"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "font-family:FontAwesome"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "FontAwesome!important",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "font-family:FontAwesome!important"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "Arial,Baskerville,monospace",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "font-family:Arial,Baskerville,monospace"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      }
+    ],
+    "colors": [
+      {
+        "value": "#32373C",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "{background-color: #32373c"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "{background-color: #32373c"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "{background-color: #32373c"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "{background-color: #32373c"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "{background-color: #32373c"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{background-color: #32373c"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "{background-color: #32373c"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#FFFFFF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";color: #fff"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";color: #fff"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";color: #fff"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";color: #fff"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";color: #fff"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";color: #fff"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";color: #fff"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#666666",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";color:#666"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";color:#666"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";color:#666"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";color:#666"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";color:#666"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";color:#666"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";color:#666"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#2EA3F2",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "{color:#2ea3f2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "{color:#2ea3f2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "{color:#2ea3f2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "{color:#2ea3f2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "{color:#2ea3f2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{color:#2ea3f2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "{color:#2ea3f2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#333333",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "{color:#333"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "{color:#333"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "{color:#333"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "{color:#333"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "{color:#333"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{color:#333"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "{color:#333"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#4E4E4E",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";color:#4e4e4e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";color:#4e4e4e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";color:#4e4e4e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";color:#4e4e4e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";color:#4e4e4e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";color:#4e4e4e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";color:#4e4e4e"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#2D3940",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "{border-color:#2d3940"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "{border-color:#2d3940"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "{border-color:#2d3940"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "{border-color:#2d3940"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "{border-color:#2d3940"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{border-color:#2d3940"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "{border-color:#2d3940"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#3E3E3E",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";color:#3e3e3e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";color:#3e3e3e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";color:#3e3e3e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";color:#3e3e3e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";color:#3e3e3e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";color:#3e3e3e"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";color:#3e3e3e"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#555555",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "{color:#555"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "{color:#555"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "{color:#555"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "{color:#555"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "{color:#555"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{color:#555"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "{color:#555"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#EEEEEE",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "{background-color:#eee"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "{background-color:#eee"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "{background-color:#eee"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "{background-color:#eee"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "{background-color:#eee"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{background-color:#eee"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "{background-color:#eee"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#999999",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";color:#999"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";color:#999"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";color:#999"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";color:#999"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";color:#999"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";color:#999"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";color:#999"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#F3F3F3",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";background-color:#f3f3f3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";background-color:#f3f3f3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";background-color:#f3f3f3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";background-color:#f3f3f3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";background-color:#f3f3f3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";background-color:#f3f3f3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";background-color:#f3f3f3"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#E2E2E2",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";background-color:#e2e2e2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";background-color:#e2e2e2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";background-color:#e2e2e2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";background-color:#e2e2e2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";background-color:#e2e2e2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";background-color:#e2e2e2"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";background-color:#e2e2e2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#974DF3",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";color:#974df3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";color:#974df3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";color:#974df3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";color:#974df3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";color:#974df3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";color:#974df3"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";color:#974df3"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#7E3BD0",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";background-color:#7e3bd0"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";background-color:#7e3bd0"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";background-color:#7e3bd0"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";background-color:#7e3bd0"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";background-color:#7e3bd0"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";background-color:#7e3bd0"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";background-color:#7e3bd0"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#82C0C7",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "{color:#82c0c7"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "{color:#82c0c7"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "{color:#82c0c7"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "{color:#82c0c7"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "{color:#82c0c7"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{color:#82c0c7"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "{color:#82c0c7"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#392E4D",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "{color:#392e4d"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "{color:#392e4d"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "{color:#392e4d"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "{color:#392e4d"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "{color:#392e4d"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{color:#392e4d"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "{color:#392e4d"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#4E93E8",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";background-color:#4e93e8"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";background-color:#4e93e8"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";background-color:#4e93e8"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";background-color:#4e93e8"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";background-color:#4e93e8"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": ";background-color:#4e93e8"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";background-color:#4e93e8"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#79B343",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": ";background-color:#79b343"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": ";background-color:#79b343"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": ";background-color:#79b343"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": ";background-color:#79b343"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": ";background-color:#79b343"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#AAAAAA",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "{color:#aaa"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#B2B2B2",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": ";color:#b2b2b2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#CCCCCC",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{color:#ccc"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "#BDBDBD",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "{color:#bdbdbd"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      }
+    ],
+    "logoUrls": [
+      {
+        "value": "https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo-2021-horizontal.png",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "wp-image-2193 | https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo-2021-horizontal.png"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "wp-image-2193 | https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo-2021-horizontal.png"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "wp-image-2193 | https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo-2021-horizontal.png"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "wp-image-2193 | https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo-2021-horizontal.png"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "wp-image-2193 | https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo-2021-horizontal.png"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "wp-image-2193 | https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo-2021-horizontal.png"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "wp-image-2193 | https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo-2021-horizontal.png"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      {
+        "value": "https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"@id\":\"https://www.beecavedrilling.com/#logo\",\"url\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"contentUrl\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"caption\":\"Bee Cave Drilling\",\"inLanguage\":\"en-US\",\"width\":\"800\",\"height\":\"640\"}"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"@id\":\"https://www.beecavedrilling.com/#logo\",\"url\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"contentUrl\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"caption\":\"Bee Cave Drilling\",\"inLanguage\":\"en-US\",\"width\":\"800\",\"height\":\"640\"}"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"@id\":\"https://www.beecavedrilling.com/#logo\",\"url\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"contentUrl\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"caption\":\"Bee Cave Drilling\",\"inLanguage\":\"en-US\",\"width\":\"800\",\"height\":\"640\"}"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"@id\":\"https://www.beecavedrilling.com/#logo\",\"url\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"contentUrl\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"caption\":\"Bee Cave Drilling\",\"inLanguage\":\"en-US\",\"width\":\"800\",\"height\":\"640\"}"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"@id\":\"https://www.beecavedrilling.com/#logo\",\"url\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"contentUrl\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"caption\":\"Bee Cave Drilling\",\"inLanguage\":\"en-US\",\"width\":\"800\",\"height\":\"640\"}"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"@id\":\"https://www.beecavedrilling.com/#logo\",\"url\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"contentUrl\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"caption\":\"Bee Cave Drilling\",\"inLanguage\":\"en-US\",\"width\":\"800\",\"height\":\"640\"}"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"@id\":\"https://www.beecavedrilling.com/#logo\",\"url\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"contentUrl\":\"https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png\",\"caption\":\"Bee Cave Drilling\",\"inLanguage\":\"en-US\",\"width\":\"800\",\"height\":\"640\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      }
+    ]
+  },
+  "socialProfiles": [
+    {
+      "id": "8755c5c0-532a-4e49-9309-6c8dd341c618",
+      "platform": "Facebook",
+      "url": {
+        "value": "https://facebook.com/beecavedrilling",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "https://www.facebook.com/BeeCaveDrilling"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/companyinfo/",
+            "snippet": "https://www.facebook.com/BeeCaveDrilling"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+            "snippet": "https://www.facebook.com/BeeCaveDrilling"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "https://www.facebook.com/BeeCaveDrilling"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/contact/",
+            "snippet": "https://www.facebook.com/BeeCaveDrilling"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "https://www.facebook.com/BeeCaveDrilling"
+          },
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/well-inspections/",
+            "snippet": "https://www.facebook.com/BeeCaveDrilling"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      }
+    },
+    {
+      "id": "9452e313-8db3-440e-8c7f-0f342ddb78a4",
+      "platform": "Facebook",
+      "url": {
+        "value": "https://facebook.com/goprosolar",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/preferredpartners/",
+            "snippet": "https://www.facebook.com/goprosolar/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      }
+    }
+  ],
+  "people": [
+    {
+      "id": "a11d45b7-50c7-45ac-9433-fd9d995dc25e",
+      "name": {
+        "value": "Jim Blair",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Jim Blair President"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "President",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Jim Blair President"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "President",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Jim Blair President"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": "Jim Blair (Lic. 54416 CKMPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells, monitoring wells, and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps. Jim has been in the water well business since September of 1993.",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Jim Blair (Lic. 54416 CKMPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells, monitoring wells, and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps. Jim has been in the water well business since September of 1993."
+          }
+        ],
+        "origin": "extracted",
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "830abcfd-c926-4c18-926c-977e55498572",
+      "name": {
+        "value": "Christy Cahela",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Christy Cahela CHIEF OPERATING OFFICER"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "CHIEF OPERATING OFFICER",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Christy Cahela CHIEF OPERATING OFFICER"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "CHIEF OPERATING OFFICER",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Christy Cahela CHIEF OPERATING OFFICER"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "c64cb781-fa86-41ba-9334-03519c7d299d",
+      "name": {
+        "value": "Melanie Johnson",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Melanie Johnson Director of Project Administration"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Director of Project Administration",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Melanie Johnson Director of Project Administration"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Director of Project Administration",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Melanie Johnson Director of Project Administration"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "7ff8474b-9d78-40a3-812f-27d6b9a9429b",
+      "name": {
+        "value": "Nicole Duran",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Nicole Duran Assistant Project Administrator"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Assistant Project Administrator",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Nicole Duran Assistant Project Administrator"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Assistant Project Administrator",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Nicole Duran Assistant Project Administrator"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "2fd04422-b380-40bf-a5dd-f66106223219",
+      "name": {
+        "value": "Abby Evans",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Abby Evans Director of Creative Marketing"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Director of Creative Marketing",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Abby Evans Director of Creative Marketing"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Director of Creative Marketing",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Abby Evans Director of Creative Marketing"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "89ef7f3b-1469-4b7d-8f03-c83ec609e2a8",
+      "name": {
+        "value": "Greg Svetlik",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Greg Svetlik Senior Project Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Senior Project Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Greg Svetlik Senior Project Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Senior Project Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Greg Svetlik Senior Project Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": "Greg Svetlik (Lic. 56008 CKPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps. Greg has been in the water well business since April of 2003.",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Greg Svetlik (Lic. 56008 CKPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps. Greg has been in the water well business since April of 2003."
+          }
+        ],
+        "origin": "extracted",
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.687Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "cd440635-18af-403b-84b3-733182058d5b",
+      "name": {
+        "value": "Chris Wilson",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Chris Wilson Project Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Project Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Chris Wilson Project Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Project Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Chris Wilson Project Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "b33e7407-1fe9-476f-9207-66279160384a",
+      "name": {
+        "value": "Lyle Williams",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Lyle Williams Project Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Project Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Lyle Williams Project Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Project Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Lyle Williams Project Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "77b39534-601a-48ab-b5d9-5fc611b3af6a",
+      "name": {
+        "value": "Joseph Shafer",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Joseph Shafer Sales Representative"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Sales Representative",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Joseph Shafer Sales Representative"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Sales Representative",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Joseph Shafer Sales Representative"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "0c85ae32-83ac-41fb-86b4-1c69d96f182a",
+      "name": {
+        "value": "Mike Scott",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Mike Scott Director of Drilling"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Director of Drilling",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Mike Scott Director of Drilling"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Director of Drilling",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Mike Scott Director of Drilling"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "3830ed02-84b8-4a65-829c-2955e347a231",
+      "name": {
+        "value": "Alex Thompson",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Alex Thompson Director of Service"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Director of Service",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Alex Thompson Director of Service"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Director of Service",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Alex Thompson Director of Service"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "f43290ab-ff6e-40fb-8150-4941ee5d6052",
+      "name": {
+        "value": "Hunter Comstock",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Hunter Comstock Technician 2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Technician 2",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Hunter Comstock Technician 2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Technician 2",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Hunter Comstock Technician 2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "34d9ce9e-555b-40df-9932-8231a06c0fbf",
+      "name": {
+        "value": "Dante Molina",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Dante Molina Technician 2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Technician 2",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Dante Molina Technician 2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Technician 2",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Dante Molina Technician 2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "1c45ef56-ee9f-4a37-93e1-a8f6751698ab",
+      "name": {
+        "value": "Tanner Logan",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Tanner Logan Diagnostic Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Diagnostic Technician",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Tanner Logan Diagnostic Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Diagnostic Technician",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Tanner Logan Diagnostic Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "e6338f23-7a7f-4cdc-8992-7abb452547f0",
+      "name": {
+        "value": "Ethan Perry",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Ethan Perry Diagnostic Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Diagnostic Technician",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Ethan Perry Diagnostic Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Diagnostic Technician",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Ethan Perry Diagnostic Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "92068ad3-ab9b-44d7-88a7-21ac1a73fd49",
+      "name": {
+        "value": "Keith Leonard",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Keith Leonard Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Technician",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Keith Leonard Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Technician",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Keith Leonard Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "9cfae636-2433-4dad-8503-15b9013b7f38",
+      "name": {
+        "value": "Anthony Daidone",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Anthony Daidone Diagnostic Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Diagnostic Technician",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Anthony Daidone Diagnostic Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Diagnostic Technician",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Anthony Daidone Diagnostic Technician"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "7d65dfed-6580-4e8d-838e-2c11cf2846cf",
+      "name": {
+        "value": "Michael Scott",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Michael Scott Warehouse Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Warehouse Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Michael Scott Warehouse Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Warehouse Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Michael Scott Warehouse Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    },
+    {
+      "id": "29faf055-6000-4228-9fba-7f1c8700de84",
+      "name": {
+        "value": "Sean Harrington",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Sean Harrington Assistant Warehouse Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "title": {
+        "value": "Assistant Warehouse Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Sean Harrington Assistant Warehouse Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "role": {
+        "value": "Assistant Warehouse Manager",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+            "snippet": "Sean Harrington Assistant Warehouse Manager"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "background": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      },
+      "gender": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.689Z"
+      }
+    }
+  ],
+  "offerings": [
+    {
+      "id": "f726ccc3-df46-4065-9bd1-542c72725cb9",
+      "name": {
+        "value": "Water Drilling",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Water Drilling Our expert team specializes in precision water drilling, utilizing state-of-the-art technology and years of experience to access pristine underground water sources. Whether for residential, commercial, or agricultural purposes, we deliver reliable drilling solutions."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "description": {
+        "value": "Our expert team specializes in precision water drilling, utilizing state-of-the-art technology and years of experience to access pristine underground water sources. Whether for residential, commercial, or agricultural purposes, we deliver reliable drilling solutions.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Water Drilling Our expert team specializes in precision water drilling, utilizing state-of-the-art technology and years of experience to access pristine underground water sources. Whether for residential, commercial, or agricultural purposes, we deliver reliable drilling solutions."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Water Drilling Our expert team specializes in precision water drilling, utilizing state-of-the-art technology and years of experience to access pristine underground water sources. Whether for residential, commercial, or agricultural purposes, we deliver reliable drilling solutions."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.684Z"
+        }
+      }
+    },
+    {
+      "id": "11f37430-be34-40de-8a06-8f19db32483a",
+      "name": {
+        "value": "Pumping Systems",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Pumping Systems There are four typical water pumping systems that people choose to meet their water needs. At Bee Cave Drilling, we engineer and install pumping systems that ensure a steady and consistent flow of water from your well."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "description": {
+        "value": "There are four typical water pumping systems that people choose to meet their water needs. At Bee Cave Drilling, we engineer and install pumping systems that ensure a steady and consistent flow of water from your well.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Pumping Systems There are four typical water pumping systems that people choose to meet their water needs. At Bee Cave Drilling, we engineer and install pumping systems that ensure a steady and consistent flow of water from your well."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Pumping Systems There are four typical water pumping systems that people choose to meet their water needs. At Bee Cave Drilling, we engineer and install pumping systems that ensure a steady and consistent flow of water from your well."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.684Z"
+        }
+      }
+    },
+    {
+      "id": "0f2fd7e1-7056-4351-ab8b-53ca30b48504",
+      "name": {
+        "value": "Well Inspections",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Well Inspections Our skilled professionals conduct thorough assessments to identify potential issues, ensuring your well meets safety standards. Regular inspections safeguard your water supply, extending the lifespan of your well and preventing costly repairs down the road."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "description": {
+        "value": "Our skilled professionals conduct thorough assessments to identify potential issues, ensuring your well meets safety standards. Regular inspections safeguard your water supply, extending the lifespan of your well and preventing costly repairs down the road.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Well Inspections Our skilled professionals conduct thorough assessments to identify potential issues, ensuring your well meets safety standards. Regular inspections safeguard your water supply, extending the lifespan of your well and preventing costly repairs down the road."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Well Inspections Our skilled professionals conduct thorough assessments to identify potential issues, ensuring your well meets safety standards. Regular inspections safeguard your water supply, extending the lifespan of your well and preventing costly repairs down the road."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.684Z"
+        }
+      }
+    },
+    {
+      "id": "9d4c4636-069a-49c0-917b-2c181a324a33",
+      "name": {
+        "value": "Well Maintenance",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Well Maintenance Preventative care is key to the longevity of your water well. Bee Cave Drilling offers customizable well maintenance contracts designed to keep your well in peak condition year-round. Enjoy peace of mind knowing your well is in expert hands."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "description": {
+        "value": "Preventative care is key to the longevity of your water well. Bee Cave Drilling offers customizable well maintenance contracts designed to keep your well in peak condition year-round. Enjoy peace of mind knowing your well is in expert hands.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Well Maintenance Preventative care is key to the longevity of your water well. Bee Cave Drilling offers customizable well maintenance contracts designed to keep your well in peak condition year-round. Enjoy peace of mind knowing your well is in expert hands."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Well Maintenance Preventative care is key to the longevity of your water well. Bee Cave Drilling offers customizable well maintenance contracts designed to keep your well in peak condition year-round. Enjoy peace of mind knowing your well is in expert hands."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.684Z"
+        }
+      }
+    },
+    {
+      "id": "82cd3117-d0c2-493e-9280-5222a656502f",
+      "name": {
+        "value": "Water Well Service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Water Well Service Our skilled technicians are equipped to handle a wide range of repairs, from addressing minor issues to tackling complex challenges. With a commitment to quality workmanship and prompt service, we restore your well’s functionality, minimizing disruptions to your water supply."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "description": {
+        "value": "Our skilled technicians are equipped to handle a wide range of repairs, from addressing minor issues to tackling complex challenges. With a commitment to quality workmanship and prompt service, we restore your well’s functionality, minimizing disruptions to your water supply.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Water Well Service Our skilled technicians are equipped to handle a wide range of repairs, from addressing minor issues to tackling complex challenges. With a commitment to quality workmanship and prompt service, we restore your well’s functionality, minimizing disruptions to your water supply."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Water Well Service Our skilled technicians are equipped to handle a wide range of repairs, from addressing minor issues to tackling complex challenges. With a commitment to quality workmanship and prompt service, we restore your well’s functionality, minimizing disruptions to your water supply."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.684Z"
+        }
+      }
+    },
+    {
+      "id": "813fa00d-e0bd-4a98-b1fd-3849c462b397",
+      "name": {
+        "value": "Public Supply Wells",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Public Supply Wells Communities rely on us for safe and sustainable public water supply solutions. Bee Cave Drilling specializes in designing, drilling, and maintaining public supply wells that meet rigorous health and environmental standards."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "description": {
+        "value": "Communities rely on us for safe and sustainable public water supply solutions. Bee Cave Drilling specializes in designing, drilling, and maintaining public supply wells that meet rigorous health and environmental standards.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Public Supply Wells Communities rely on us for safe and sustainable public water supply solutions. Bee Cave Drilling specializes in designing, drilling, and maintaining public supply wells that meet rigorous health and environmental standards."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.beecavedrilling.com/",
+            "snippet": "Public Supply Wells Communities rely on us for safe and sustainable public water supply solutions. Bee Cave Drilling specializes in designing, drilling, and maintaining public supply wells that meet rigorous health and environmental standards."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T01:45:03.684Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.684Z"
+        }
+      }
+    }
+  ],
+  "content": {
+    "topics": [],
+    "faqs": [],
+    "testimonials": [],
+    "trustSignals": []
+  },
+  "marketing": {
+    "voice": {
+      "formality": "conversational",
+      "emoji": "none",
+      "length": "balanced",
+      "pronoun": null,
+      "callsCustomers": "",
+      "avoid": [],
+      "writingSamples": [],
+      "chosenAt": null
+    },
+    "claims": [
+      {
+        "id": "4c4030fa-8e43-4e95-b919-f9a6f770cb3e",
+        "text": {
+          "value": "So in addition to using only the best products and drilling techniques to complete each water well, we research the geology of your site before work is started, and we test the water quality of each production level as we drill.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/",
+              "snippet": "At Bee Cave Drilling, we specialize in taking care of our customers. We don’t just throw a water well system together to collect a check. We take the time to do the job right. It’s the little things that make the difference, as we strive to make you a satisfied customer. So in addition to using only the best products and drilling techniques to complete each water well, we research the geology of your site before work is started, and we test the water quality of each production level as we drill. What’s more, we hire only the finest men and women in the industry."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.689Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "4d3f3b0f-6970-49d0-9a0b-63c60354c24a",
+        "text": {
+          "value": "Top Rated by Local Homeowners & Contractors • 45+ Years in Business • Licensed & Insured",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+              "snippet": "Top Rated by Local Homeowners & Contractors • 45+ Years in Business • Licensed & Insured"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.689Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "77dc9003-7c60-4862-9881-9ec2fa880b05",
+        "text": {
+          "value": "Contact us today to schedule your free estimate and discover the best pump solution for your property.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/pumping-systems/",
+              "snippet": "Contact us today to schedule your free estimate and discover the best pump solution for your property."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.689Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "ac832cf5-3365-435a-acef-e0988e7fbdfc",
+        "text": {
+          "value": "54416 CKMPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells, monitoring wells, and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+              "snippet": "Jim Blair (Lic. 54416 CKMPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells, monitoring wells, and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps. Jim has been in the water well business since September of 1993."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.689Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "1581b8dd-a773-4443-ab88-a8c0b5bfe3f9",
+        "text": {
+          "value": "Christy is a certified Ministry Insights counselor.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+              "snippet": "Christy’s background is in media production where she produced talk shows in the radio industry, such as Point of View and Daybreak. An opportunity with SXSW brought her and her husband David to the Austin area. Christy and David have Biblical Counseling and Christian Education degrees, respectively. She is involved in her church and Christy’s passion is working with young ladies and helping them discover their purpose and calling. Christy is a certified Ministry Insights counselor.She also has a love for music which she continued to develop when she lived in Nashville, TN. Christy is always improving herself and making huge strides for the company here at Bee Cave Drilling. Her editing skills can be seen in our videos. Christy, David, their pug, Lemmy and their french bulldog Gismo, reside in Austin."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.689Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "9aca908d-645f-43b0-a2fa-b2dc517e7565",
+        "text": {
+          "value": "56008 CKPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.beecavedrilling.com/staffbios/",
+              "snippet": "Greg Svetlik (Lic. 56008 CKPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps. Greg has been in the water well business since April of 2003."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T01:45:03.689Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      }
+    ],
+    "promotions": [],
+    "preferredCallToAction": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "customersWanted": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "customersNotSuitable": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "triggerMoments": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T01:45:03.684Z"
+    },
+    "genericPhrasesToAvoid": []
+  },
+  "sources": [
+    {
+      "url": "https://www.beecavedrilling.com/",
+      "title": "Bee Cave Drilling | Your Water Well Drilling Experts",
+      "fetchedAt": "2026-10-19T00:52:13.881Z",
+      "headings": [
+        "Since 1980",
+        "High Quality Water Wells & Repair For The Texas Hill Country",
+        "Ready to experience the Bee Cave Drilling difference?",
+        "Our Well Services",
+        "What Our Clients Are Saying!",
+        "Join Our Newsletter",
+        "Why Bee Cave Drilling?"
+      ],
+      "paragraphs": [
+        "Since its inception in 1980, Bee Cave Drilling, a family-owned and operated company, has been dedicated to providing exemplary well-drilling services to the Texas Hill Country and its surrounding regions, including notable areas such as Dripping Springs and Burnet. For a span of over forty years, this company has been an active participant in the community, expertly catering to the needs of its residents.",
+        "We serve a wide range of clients, encompassing both residential and commercial sectors. No project is too big or small for us, and each job is approached with the same level of attention to detail and professionalism. Whether it’s a small residential drilling job or a large-scale commercial project, our team of seasoned professionals works tirelessly to ensure that all needs are met with the highest degree of satisfaction. Our dedication to service, coupled with our broad-ranging experience, allows us to exceed client expectations consistently and contribute positively to the communities we serve.",
+        "Whether you're looking to initiate a new project or seeking maintenance on an existing well, our experienced staff is ready to provide efficient and timely solutions. Don't hesitate to connect with us and discover how our expertise can benefit both your residential and commercial needs.",
+        "Our expert team specializes in precision water drilling, utilizing state-of-the-art technology and years of experience to access pristine underground water sources. Whether for residential, commercial, or agricultural purposes, we deliver reliable drilling solutions.",
+        "Our skilled professionals conduct thorough assessments to identify potential issues, ensuring your well meets safety standards. Regular inspections safeguard your water supply, extending the lifespan of your well and preventing costly repairs down the road.",
+        "Preventative care is key to the longevity of your water well. Bee Cave Drilling offers customizable well maintenance contracts designed to keep your well in peak condition year-round. Enjoy peace of mind knowing your well is in expert hands.",
+        "Our skilled technicians are equipped to handle a wide range of repairs, from addressing minor issues to tackling complex challenges. With a commitment to quality workmanship and prompt service, we restore your well’s functionality, minimizing disruptions to your water supply.",
+        "Communities rely on us for safe and sustainable public water supply solutions. Bee Cave Drilling specializes in designing, drilling, and maintaining public supply wells that meet rigorous health and environmental standards.",
+        "For over 40 years, Bee Cave Drilling has been at the forefront of the drilling industry, providing exceptional and reliable services. But don’t just take our word for it! Here’s what our incredible community of customers have to say about their experience with us.",
+        "With a proven track record, we have established a strong reputation across multiple platforms. Our commitment to delivering excellence is reflected in the high ratings we’ve received from our clients, both long-standing and new.",
+        "Excellent service and expertise! My assigned technician Ethan worked with his team to figure out a complex problem with my pump. He delivered a great solution for my specific problem. I’ve been a customer for 10 years. I highly recommend Bee Cave Drilling!”",
+        "At Bee Cave Drilling, we specialize in taking care of our customers. We don’t just throw a water well system together to collect a check. We take the time to do the job right. It’s the little things that make the difference, as we strive to make you a satisfied customer. So in addition to using only the best products and drilling techniques to complete each water well, we research the geology of your site before work is started, and we test the water quality of each production level as we drill. What’s more, we hire only the finest men and women in the industry.",
+        "Ask around, everybody knows that we have earned our reputation of honesty, hard work, superior systems, and fair prices. We are ready to serve your water well needs, and we welcome the opportunity to earn your business.",
+        "Bee Cave Drilling provides water well drilling, pump, storage and service support throughout the Texas Hill Country, including Dripping Springs, Georgetown, Liberty Hill, Leander and Spicewood. Wherever your property is, our in-house team can help you plan the well, pump and system that fit the site."
+      ]
+    },
+    {
+      "url": "https://www.beecavedrilling.com/companyinfo/",
+      "title": "Company Info - Bee Cave Drilling",
+      "fetchedAt": "2026-10-19T00:53:05.158Z",
+      "headings": [
+        "Since 1980",
+        "What Our Clients Are Saying!"
+      ],
+      "paragraphs": [
+        "In July of 1980, Bee Cave Drilling (then known as R&L Pump Service) began in the back room of Rex and Lois Bible’s house in Bee Cave, Texas. Rex grew up in a family of water well drillers and trained under Buster Enochs. By 1986, Rex had saved up enough money to finance a drilling rig and changed the name of the company to Bee Cave Drilling to reflect his expanded services.",
+        "The company remained a “mom and pop operation” with Rex in the field and Lois in the office with an occasional summer employee until 1993 when Jim Blair joined the staff full-time. Jim trained alongside Rex in the field drilling wells and servicing pumps. Along the way, Jim thought of new ways to improve what they were doing and Bee Cave Drilling became known amongst local home builders for both their superior systems and service. The company was able to grow and hire additional full-time staff. Jim took over management of the company in May of 1998 and became the owner in September of 2001. At that time Bee Cave Drilling moved to its present location northwest of Dripping Springs.",
+        "Over the years, Bee Cave Drilling has been the leader in adopting new technologies and methods to improve the overall functioning of water well systems and to take ownership of a water well attainable for more people. Today Bee Cave Drilling is perhaps the busiest water well company in the Austin area with a fabulous staff of around 50 people and a growing number of satisfied customers. We hope to be able to add you to that list. Check out our Services We Provide Menu to see what Bee Cave Drilling can do for you and our Testimonials Page to see what people think of our work."
+      ]
+    },
+    {
+      "url": "https://www.beecavedrilling.com/pumping-systems/",
+      "title": "Pumping Systems - Bee Cave Drilling",
+      "fetchedAt": "2026-10-19T00:56:38.842Z",
+      "headings": [
+        "Since 1980",
+        "Pumping Systems",
+        "Types of Pumping Systems",
+        "Standard Pressure Water Well System",
+        "Constant Pressure Water Well System",
+        "Well + Storage Tank System",
+        "Solar Pumping Systems",
+        "Schedule Your Free Estimate",
+        "Learn More Pumping Systems",
+        "What pumping system types do you offer?",
+        "What’s a Constant Pressure system?",
+        "Can a storage tank work with both standard and constant pressure?",
+        "What’s a Standard Pressure system?",
+        "When is a Well + Storage Tank system recommended?",
+        "Can a storage tank support rainwater collection?",
+        "Ready to take the next steps?",
+        "What Our Clients Are Saying!"
+      ],
+      "paragraphs": [
+        "Top Rated by Local Homeowners & Contractors • 45+ Years in Business • Licensed & Insured",
+        "Large pressure tank delivering water within a ~20 psi range—ideal for smaller country homes.",
+        "A large storage tank / reservoir / cistern collects water throughout the day; a booster pump delivers it on demand (standard or constant pressure).",
+        "Contact us today to schedule your free estimate and discover the best pump solution for your property."
+      ]
+    },
+    {
+      "url": "https://www.beecavedrilling.com/staffbios/",
+      "title": "Staff Bios - Bee Cave Drilling",
+      "fetchedAt": "2026-10-19T00:53:05.346Z",
+      "headings": [
+        "Since 1980",
+        "Jump to a Department",
+        "Office",
+        "Bio",
+        "Project Managers",
+        "Sales Representative",
+        "Drilling Crew",
+        "Drilling Apprentices",
+        "Service Crew",
+        "Diagnostic Technicians",
+        "Pump Installers",
+        "Service Apprentices",
+        "Inventory",
+        "Fleet Mechanic",
+        "What Our Clients Are Saying!"
+      ],
+      "paragraphs": [
+        "Jim is passionate about three things: God, his family, and water. He enjoys working with mission organizations around the world to bring drinking water to needy people. As a deacon in his church, Jim is involved in many ministry projects serving the local community. Jim and his family enjoy fishing, swimming, and hiking together. At work, Jim likes to take on new challenges. He will find a way to fix a well that is not functioning or get a pump out that other companies can’t. When someone says it can’t be done, Jim takes that as a challenge.",
+        "Jim Blair (Lic. 54416 CKMPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells, monitoring wells, and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps. Jim has been in the water well business since September of 1993.",
+        "Christy’s background is in media production where she produced talk shows in the radio industry, such as Point of View and Daybreak. An opportunity with SXSW brought her and her husband David to the Austin area. Christy and David have Biblical Counseling and Christian Education degrees, respectively. She is involved in her church and Christy’s passion is working with young ladies and helping them discover their purpose and calling. Christy is a certified Ministry Insights counselor.She also has a love for music which she continued to develop when she lived in Nashville, TN. Christy is always improving herself and making huge strides for the company here at Bee Cave Drilling. Her editing skills can be seen in our videos. Christy, David, their pug, Lemmy and their french bulldog Gismo, reside in Austin.",
+        "Greg is a true renaissance man. Like Jim, he knows the water well business forwards and backwards and is somewhat of a savant at remembering the details of every well he has drilled or worked on. He is also involved in a popular Czech polka band called The Czechaholics (www.czechaholics.com). (Click here for a video of Greg playing with his band). This keeps him busy most weekends playing dance halls, church picnics, and family reunions across the state. When not providing people water or playing with the band, Greg and his family enjoy fishing, swimming, and biking together. At work, Greg can design you a water well system to match your needs no matter how small or large or find a way to fix a well system that seems beyond hope.",
+        "Greg Svetlik (Lic. 56008 CKPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps. Greg has been in the water well business since April of 2003.",
+        "Interest/hobbies: Fishing, Going to the Beach, Golf, Computers Favorite Movie: The Patriot & Gladiator Favorite Restaurant: Dahlia Cafe Other Interesting facts about you: My favorite book is Sun Tzu’s The Art of War. I nerd out on supply chains, logistics, and macroeconomics.",
+        "Interest/Hobbies: Working on classic cars and hanging out with my family. Favorite Movie: Cars. Favorite Local Restaurant: Oak Creek Cafe.",
+        "Hobbies: Video Games Favorite Movie: Grumpy Old Men Favorite Local Restaurant: Backspin",
+        "Interests/Hobbies: Basketball, Skateboarding, Cliff Jumping. Favorite Movie: Mrs Doubtfire Favorite Local Restaurant: Homespun Other Interesting Facts: I can almost dunk",
+        "Interests/Hobbies: Basketball, Video Games Favorite Movie: Fast & Furious Favorite Local Restaurant: Flores Mexican Restaurant Other Interesting Facts: I have 2 dogs.",
+        "Interests/hobbies: Camping, Fishing, Traveling Favorite movie: Saving Private Ryan Favorite local restaurant: Flores Other Interesting Facts: I remember when Dripping Springs, TX had Just one blinking light.",
+        "Interests/Hobbies: Baking and working outside Favorite Movie: Fast and Furious Favorite Local Restaurant: Hill Country Pizzeria Other interesting Facts: Hard Working, I like building things with stuff nearby."
+      ]
+    },
+    {
+      "url": "https://www.beecavedrilling.com/contact/",
+      "title": "Contact - Bee Cave Drilling",
+      "fetchedAt": "2026-10-19T00:53:10.622Z",
+      "headings": [
+        "Since 1980",
+        "Bee Cave Drilling Locations",
+        "Contact Form",
+        "What Our Clients Are Saying!"
+      ],
+      "paragraphs": []
+    },
+    {
+      "url": "https://www.beecavedrilling.com/preferredpartners/",
+      "title": "Preferred Partners - Bee Cave Drilling",
+      "fetchedAt": "2026-10-19T00:53:10.170Z",
+      "headings": [
+        "Since 1980",
+        "Preferred Contractors",
+        "Preferred Builders",
+        "Preferred Realtors",
+        "What Our Clients Are Saying!"
+      ],
+      "paragraphs": [
+        "Over the three decades we have been building wells, we have developed a strong alliance with many professionals in the building industry. Here are some of the many builders we work with.",
+        "We have a vast number of real estate professionals that we work with. They coordinate with our staff in order to ensure that the well on the property is in good working order. We also advise them of any recommendations that are needed to make the system more efficient. This pertains to both existing wells and to properties that will need a well in the future. Never buy a property without calling and requesting either a well inspection, or a well estimate. We will help you set your expectations on well cost and water availability. A good realtor will always advise you to consult with a qualified well professional."
+      ]
+    },
+    {
+      "url": "https://www.beecavedrilling.com/well-inspections/",
+      "title": "Well Inspections - Bee Cave Drilling",
+      "fetchedAt": "2026-10-19T00:56:37.646Z",
+      "headings": [
+        "Since 1980",
+        "Professional Well Inspections",
+        "Buying or selling a home? Make sure the well is safe, compliant, and performing.",
+        "What’s Included in a Basic Inspection",
+        "Well Condition",
+        "Flow Rate",
+        "Performance Testing",
+        "How It Works",
+        "Fill Out The Form",
+        "On-Site Assessment",
+        "Clear Results",
+        "Next Steps",
+        "Frequently Asked Questions",
+        "What does a well inspection check?",
+        "Can you estimate pump life?",
+        "Will you repair issues you find?",
+        "How long does it take?",
+        "Do you test water quality?",
+        "Schedule Your Well Inspection Today",
+        "What Our Clients Are Saying!"
+      ],
+      "paragraphs": [
+        "Top Rated by Local Homeowners & Contractors • 45+ Years in Business • Licensed & Insured",
+        "We can tell you if the well is working and in good condition.",
+        "We check if the well pumps off during a 30 minute pump test.",
+        "Note: We will have to turn off the water to the house for a period of time, so it is best if we are not there while other home inspections are going on."
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "url": "https://www.beecavedrilling.com/",
+      "message": "Different descriptions were found. The first value was selected for review."
+    }
+  ]
+}

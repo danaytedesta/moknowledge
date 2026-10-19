@@ -1,0 +1,2602 @@
+{
+  "schemaVersion": "1.0",
+  "id": "11245f0f-ef61-455e-b91e-c637a44b32e1",
+  "createdAt": "2026-10-19T03:23:53.124Z",
+  "updatedAt": "2026-10-19T03:23:53.125Z",
+  "company": {
+    "name": {
+      "value": "Blueland",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Blueland"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/about-us",
+          "snippet": "Blueland"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+          "snippet": "Blueland"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+          "snippet": "Blueland"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "Blueland"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+          "snippet": "Blueland"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+          "snippet": "Blueland"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "description": {
+      "value": "Make sustainable choices effortless with our eco-friendly cleaning products. Shop powerful and affordable products designed for a cleaner home and planet.",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Make sustainable choices effortless with our eco-friendly cleaning products. Shop powerful and affordable products designed for a cleaner home and planet."
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/about-us",
+          "snippet": "Learn how Blueland was founded and explore the mission and values behind our plastic-free formulas and sustainable cleaning products."
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+          "snippet": "Tackle stains and odors with PowerDuo Laundry Tablets. Shop Blueland’s eco-friendly, microplastic-free 2-in-1 laundry detergent tablets for a powerful c..."
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+          "snippet": "Subscribe to get planet-friendly refills when and where you want them, without waste or worry! Save up to 20% and skip, delay, or reschedule any time."
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "See the certifications that back our commitment to safer, more sustainable cleaning, from ingredient standards to environmental and cruelty-free practices."
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+          "snippet": "Discover Blueland’s product philosophy and the five guiding principles behind our sustainable, plastic-free approach to cleaning."
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+          "snippet": "Meet The Clean Suite, a bundle with everything you need for a cleaner home. Shop eco-friendly essentials for hand, dish, laundry, and surface cleaning t..."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "website": {
+      "value": "https://www.blueland.com/",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "https://www.blueland.com/"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "industry": {
+      "value": "Household cleaning products",
+      "origin": "inferred",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Eco-Friendly Cleaning Products for Home | BluelandArrowArrowArrowArrowArrowArrowArrowArrowSlider NavigationPause SliderSlider Navigation Make sustainable choices effortless with our eco-friendly cleaning products. Shop powerful and affordable products designed for a cleaner home and planet. The Coast We Keep Collection"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.126Z"
+    },
+    "businessModel": {
+      "value": "Direct product sales",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+          "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Tackle stains and odors with PowerDuo Laundry Tablets. Shop Blueland’s eco-friendly, microplastic-free 2-in-1 laundry detergent tablets for a powerful c...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/DTC_PLP_PowerDuo-FragranceFree_2026_Final.jpg?v=1791567488\"],\"name\":\"PowerDuo Laundry Tablets\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=300+Tab"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/about-us",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.125Z"
+    },
+    "companyRole": {
+      "value": "Product seller",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Make sustainable choices effortless with our eco-friendly cleaning products. Shop powerful and affordable products designed for a cleaner home and planet."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.125Z"
+    },
+    "yearFounded": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "legalEntityType": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "employeeCount": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "mainAddress": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "otherLocations": [],
+    "serviceAreas": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "alternativeNames": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    }
+  },
+  "positioning": {
+    "pitch": {
+      "value": "Rule-based pitch suggestion: Make sustainable choices effortless with our eco-friendly cleaning products. Shop powerful and affordable products designed for a cleaner home and planet.",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Make sustainable choices effortless with our eco-friendly cleaning products. Shop powerful and affordable products designed for a cleaner home and planet."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.125Z"
+    },
+    "foundingStory": {
+      "value": "When I first became a mom, I was horrified to learn that microplastics are found in almost everything—including the water I was mixing with my son’s baby formula. I wanted to reduce my family’s plastic footprint, but it felt nearly impossible to find household products that didn’t come packaged in plastic, actually worked, and fit into the reality of life with a newborn. So I decided to build a better option—and Blueland was born. We’re reimagining everyday cleaning essentials so you don’t have to choose between what’s safe for your family, better for the planet, and proven to work. So far, we’ve helped divert over 1 billion plastic cleaning bottles from landfills and oceans—and we’re just getting started.",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/pages/about-us",
+          "snippet": "When I first became a mom, I was horrified to learn that microplastics are found in almost everything—including the water I was mixing with my son’s baby formula. I wanted to reduce my family’s plastic footprint, but it felt nearly impossible to find household products that didn’t come packaged in plastic, actually worked, and fit into the reality of life with a newborn. So I decided to build a better option—and Blueland was born. We’re reimagining everyday cleaning essentials so you don’t have to choose between what’s safe for your family, better for the planet, and proven to work. So far, we’ve helped divert over 1 billion plastic cleaning bottles from landfills and oceans—and we’re just getting started."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.125Z"
+    },
+    "differentiators": []
+  },
+  "market": {
+    "targetBuyers": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "customerNeeds": {
+      "value": [
+        "Blueland uses 100% plastic free formulas and industrially compostable paper packaging, designed to replace plastic with materials that can safely return to the earth and reduce overall waste.If you prefer to order less often, our 1-year bulk household cleaning supplies are another great option for stocking up for longer while minimizing unnecessary packaging over time."
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+          "snippet": "Blueland uses 100% plastic free formulas and industrially compostable paper packaging, designed to replace plastic with materials that can safely return to the earth and reduce overall waste.If you prefer to order less often, our 1-year bulk household cleaning supplies are another great option for stocking up for longer while minimizing unnecessary packaging over time."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.125Z"
+    },
+    "idealCustomerPersona": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "industryGroupings": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "industryOutlook": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "channels": {
+      "value": [
+        "Website ordering"
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/about-us",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+          "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Shop All | href: /collections/all"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/about-us",
+          "snippet": "Shop All | href: /collections/all"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+          "snippet": "Shop All | href: /collections/all"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+          "snippet": "Shop All | href: /collections/all"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "Shop All | href: /collections/all"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+          "snippet": "Shop All | href: /collections/all"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+          "snippet": "Shop All | href: /collections/all"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Shop Now | href: /collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Shop All products | href: /collections/all"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Shop | button"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/about-us",
+          "snippet": "Shop | button"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+          "snippet": "Shop | button"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+          "snippet": "Shop | button"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "Shop | button"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+          "snippet": "Shop | button"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+          "snippet": "Shop | button"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+          "snippet": "Buy One Time$24 | button"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+          "snippet": "Buy One Time$58 | button"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "Shop EPA Safer Choice Certified Hand Soap | href: /collections/soaps"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "Shop 100% Biobased Toilet Bowl Cleaner | href: /products/toilet-cleaner-refill-packs"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "Shop EWG-Certified Dish | href: https://www.blueland.com/products/dishwasher-refill-packs?Count=60+Tablets&Scent=Fragrance-Free"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/pages/certifications",
+          "snippet": "Shop Free & Clear Laundry | href: https://www.blueland.com/products/laundry-starter-set?Scent=Free+%26+Clear&Refill+Quantity=60+Tablets"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+          "snippet": "Buy One Time$110 | button"
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.125Z"
+    },
+    "funnels": {
+      "value": [
+        "It's simple! First, pick which product(s) you'd like to purchase and select the quantity (FYI we provide recommended quantities based on your household size; 1-2 people or 3+). Once you've placed an order for your autoship(s), you will receive your initial order and then subsequent boxes once every three months!"
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+          "snippet": "It's simple! First, pick which product(s) you'd like to purchase and select the quantity (FYI we provide recommended quantities based on your household size; 1-2 people or 3+). Once you've placed an order for your autoship(s), you will receive your initial order and then subsequent boxes once every three months!"
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.125Z"
+    },
+    "callsToAction": [
+      {
+        "value": "Shop the Limited Edition Drop →",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "Shop the Limited Edition Drop → | href: https://www.blueland.com/collections/soaps"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Shop All",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "Shop All | href: /collections/all"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "Shop All | href: /collections/all"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "Shop All | href: /collections/all"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "Shop All | href: /collections/all"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "Shop All | href: /collections/all"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "Shop All | href: /collections/all"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "Shop All | href: /collections/all"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Get RefillsGet Refills",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "Get RefillsGet Refills | href: /collections/refills"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "Get RefillsGet Refills | href: /collections/refills"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "Get RefillsGet Refills | href: /collections/refills"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "Get RefillsGet Refills | href: /collections/refills"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "Get RefillsGet Refills | href: /collections/refills"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "Get RefillsGet Refills | href: /collections/refills"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "Get RefillsGet Refills | href: /collections/refills"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Shop Now",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "Shop Now | href: /collections/soaps"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Shop All products",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "Shop All products | href: /collections/all"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Shop",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "Shop | button"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "Shop | button"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "Shop | button"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "Shop | button"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "Shop | button"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "Shop | button"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "Shop | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Contact Us",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "Contact Us | href: https://help.blueland.com/en-US/contact"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "Contact Us | href: https://help.blueland.com/en-US/contact"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "Contact Us | href: https://help.blueland.com/en-US/contact"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "Contact Us | href: https://help.blueland.com/en-US/contact"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "Contact Us | href: https://help.blueland.com/en-US/contact"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "Contact Us | href: https://help.blueland.com/en-US/contact"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "Contact Us | href: https://help.blueland.com/en-US/contact"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Buy One Time$24",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "Buy One Time$24 | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "View All Ingredients",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "View All Ingredients | button"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "View All Ingredients | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Get Started",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "Get Started | href: million_homes_anchor"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Buy One Time$58",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "Buy One Time$58 | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "View More Details",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "View More Details | href: /products/the-tablet-trio?Dishwasher%2FLaundry+Scent=Fragrance-Free"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "View More Products",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "View More Products | href: /collections/all"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Shop EPA Safer Choice Certified Hand Soap",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "Shop EPA Safer Choice Certified Hand Soap | href: /collections/soaps"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Shop 100% Biobased Toilet Bowl Cleaner",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "Shop 100% Biobased Toilet Bowl Cleaner | href: /products/toilet-cleaner-refill-packs"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Shop EWG-Certified Dish",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "Shop EWG-Certified Dish | href: https://www.blueland.com/products/dishwasher-refill-packs?Count=60+Tablets&Scent=Fragrance-Free"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Shop Free & Clear Laundry",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "Shop Free & Clear Laundry | href: https://www.blueland.com/products/laundry-starter-set?Scent=Free+%26+Clear&Refill+Quantity=60+Tablets"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "View More",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "View More | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "Buy One Time$110",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "Buy One Time$110 | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      }
+    ],
+    "suppliersAndPartners": []
+  },
+  "branding": {
+    "writingStyle": {
+      "value": "Measured website text: 20 paragraphs; about 14 words per sentence. 7 paragraphs address the reader as you/your. This describes language patterns, not owner-approved tone.",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Limited-edition hand soap scents inspired by summers on the coast and the oceans worth protecting."
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "Powerful, plastic-free scrubbing from dishwasher to sink"
+        },
+        {
+          "sourceUrl": "https://www.blueland.com/",
+          "snippet": "100% plastic-free essentials make laundry day a breeze"
+        }
+      ],
+      "origin": "measured",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.125Z"
+    },
+    "artStyle": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "fonts": [],
+    "colors": [
+      {
+        "value": "#F0F7FF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "background-color:#F0F7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "background-color:#F0F7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "background-color:#F0F7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "background-color:#F0F7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "background-color:#F0F7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "background-color:#F0F7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "background-color:#F0F7FF"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "#DFB7FF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": ";background-color:#DFB7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": ";background-color:#DFB7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": ";background-color:#DFB7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": ";background-color:#DFB7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": ";background-color:#DFB7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": ";background-color:#DFB7FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": ";background-color:#DFB7FF"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "#FFD8B4",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": ";background-color:#FFD8B4"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": ";background-color:#FFD8B4"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": ";background-color:#FFD8B4"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": ";background-color:#FFD8B4"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": ";background-color:#FFD8B4"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": ";background-color:#FFD8B4"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": ";background-color:#FFD8B4"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "#FFFFFF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "background-color:#FFFFFF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "background-color:#FFFFFF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "background-color:#FFFFFF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "background-color:#FFFFFF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "background-color:#FFFFFF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "background-color:#FFFFFF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "background-color:#FFFFFF"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "#E1F2FF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "background-color:#E1F2FF"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "background-color:#E1F2FF"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "#EFF5FF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "background-color:#EFF5FF"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      },
+      {
+        "value": "#EAFFE9",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "background-color:#EAFFE9"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "background-color:#EAFFE9"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      }
+    ],
+    "logoUrls": [
+      {
+        "value": "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/BL-HorizontalLogo-Large.png?v=1771428678",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "JSON-LD logo: \"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/BL-HorizontalLogo-Large.png?v=1771428678\""
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "JSON-LD logo: \"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/BL-HorizontalLogo-Large.png?v=1771428678\""
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "JSON-LD logo: \"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/BL-HorizontalLogo-Large.png?v=1771428678\""
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "JSON-LD logo: \"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/BL-HorizontalLogo-Large.png?v=1771428678\""
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "JSON-LD logo: \"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/BL-HorizontalLogo-Large.png?v=1771428678\""
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "JSON-LD logo: \"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/BL-HorizontalLogo-Large.png?v=1771428678\""
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "JSON-LD logo: \"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/BL-HorizontalLogo-Large.png?v=1771428678\""
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.125Z"
+      }
+    ]
+  },
+  "socialProfiles": [
+    {
+      "id": "64d4cff2-3e9c-4173-a94f-dffaa53381b6",
+      "platform": "Instagram",
+      "url": {
+        "value": "https://instagram.com/blueland",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "https://www.instagram.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "https://www.instagram.com/blueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "https://www.instagram.com/blueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "https://www.instagram.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "https://www.instagram.com/blueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "https://www.instagram.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "https://www.instagram.com/blueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "https://www.instagram.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "https://www.instagram.com/blueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "https://www.instagram.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "https://www.instagram.com/blueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "https://www.instagram.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "https://www.instagram.com/blueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "https://www.instagram.com/blueland"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      }
+    },
+    {
+      "id": "57231184-c9d3-4aa1-9da5-5669ab91d555",
+      "platform": "Facebook",
+      "url": {
+        "value": "https://facebook.com/liveblueland",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "https://www.facebook.com/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "https://www.facebook.com/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "https://www.facebook.com/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "https://www.facebook.com/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "https://www.facebook.com/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "https://www.facebook.com/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "https://www.facebook.com/liveblueland/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      }
+    },
+    {
+      "id": "cf3208c7-74d3-4e49-a5b4-f0e57b148b2b",
+      "platform": "TikTok",
+      "url": {
+        "value": "https://tiktok.com/@blueland",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "https://www.tiktok.com/@blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "https://www.tiktok.com/@blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "https://www.tiktok.com/@blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "https://www.tiktok.com/@blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "https://www.tiktok.com/@blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "https://www.tiktok.com/@blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "https://www.tiktok.com/@blueland"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      }
+    },
+    {
+      "id": "465fdea4-e92c-48cd-a5bc-87884155e370",
+      "platform": "LinkedIn",
+      "url": {
+        "value": "https://linkedin.com/company/liveblueland",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "https://www.linkedin.com/company/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "https://www.linkedin.com/company/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "https://www.linkedin.com/company/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "https://www.linkedin.com/company/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "https://www.linkedin.com/company/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "https://www.linkedin.com/company/liveblueland/"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "https://www.linkedin.com/company/liveblueland/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      }
+    },
+    {
+      "id": "fe76fba3-b345-44dd-b037-db98495b8758",
+      "platform": "YouTube",
+      "url": {
+        "value": "https://youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "https://www.youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "https://www.youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "https://www.youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "https://www.youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "https://www.youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "https://www.youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "https://www.youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      }
+    },
+    {
+      "id": "90b5d08e-59f5-4a2a-8888-16aa3e514c40",
+      "platform": "Facebook",
+      "url": {
+        "value": "https://facebook.com/blueland",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/",
+            "snippet": "https://www.facebook.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/about-us",
+            "snippet": "https://www.facebook.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "https://www.facebook.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+            "snippet": "https://www.facebook.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/certifications",
+            "snippet": "https://www.facebook.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+            "snippet": "https://www.facebook.com/blueland"
+          },
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "https://www.facebook.com/blueland"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      }
+    }
+  ],
+  "people": [],
+  "offerings": [
+    {
+      "id": "b4f17f82-9f6b-43ed-9037-aa37ee4383cd",
+      "name": {
+        "value": "PowerDuo Laundry Tablets",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Tackle stains and odors with PowerDuo Laundry Tablets. Shop Blueland’s eco-friendly, microplastic-free 2-in-1 laundry detergent tablets for a powerful c...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/DTC_PLP_PowerDuo-FragranceFree_2026_Final.jpg?v=1791567488\"],\"name\":\"PowerDuo Laundry Tablets\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=300+Tab"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "description": {
+        "value": "Tackle stains and odors with PowerDuo Laundry Tablets. Shop Blueland’s eco-friendly, microplastic-free 2-in-1 laundry detergent tablets for a powerful c...",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Tackle stains and odors with PowerDuo Laundry Tablets. Shop Blueland’s eco-friendly, microplastic-free 2-in-1 laundry detergent tablets for a powerful c...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/DTC_PLP_PowerDuo-FragranceFree_2026_Final.jpg?v=1791567488\"],\"name\":\"PowerDuo Laundry Tablets\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=300+Tab"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "kind": {
+        "value": "product",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Tackle stains and odors with PowerDuo Laundry Tablets. Shop Blueland’s eco-friendly, microplastic-free 2-in-1 laundry detergent tablets for a powerful c...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/DTC_PLP_PowerDuo-FragranceFree_2026_Final.jpg?v=1791567488\"],\"name\":\"PowerDuo Laundry Tablets\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=300+Tab"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "features": {
+        "value": [
+          "tablets_formulated_in_the_usa",
+          "microplastics_free",
+          "paraben_free",
+          "ammonia_free",
+          "bleach_free",
+          "chlorine_free",
+          "preservative_free",
+          "phosphate_free",
+          "phthalate_free"
+        ],
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+            "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Tackle stains and odors with PowerDuo Laundry Tablets. Shop Blueland’s eco-friendly, microplastic-free 2-in-1 laundry detergent tablets for a powerful c...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/DTC_PLP_PowerDuo-FragranceFree_2026_Final.jpg?v=1791567488\"],\"name\":\"PowerDuo Laundry Tablets\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=300+Tab"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "USD 24–108 (published variants; check selected option)",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Tackle stains and odors with PowerDuo Laundry Tablets. Shop Blueland’s eco-friendly, microplastic-free 2-in-1 laundry detergent tablets for a powerful c...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/DTC_PLP_PowerDuo-FragranceFree_2026_Final.jpg?v=1791567488\"],\"name\":\"PowerDuo Laundry Tablets\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":24,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-60P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=60+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":48,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-120P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=120+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-NS\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-WTJ\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=White+Tea+%26+Jasmine&Count=300+Tablets\"},{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":108,\"priceCurrency\":\"USD\",\"sku\":\"KP-LD-BTAB-300P-BR\",\"url\":\"https://www.blueland.com/products/powerduo-laundry-tablets?Scent=Bergamot+Rose&Count=300+Tab"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.124Z"
+        }
+      }
+    },
+    {
+      "id": "5e957e6c-3dda-468f-8c50-7ed18f652ce9",
+      "name": {
+        "value": "Clean Suite Kit",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Meet The Clean Suite, a bundle with everything you need for a cleaner home. Shop eco-friendly essentials for hand, dish, laundry, and surface cleaning t...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Suite_Final_2026_01.jpg?v=1781290089\"],\"name\":\"Clean Suite Kit\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":110,\"priceCurrency\":\"USD\",\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\"}],\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.7\",\"reviewCount\":58395},\"hasCertification\":[{\"@type\":\"Certification\",\"name\":\"USDA BioPreferred®\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"USDA BioPreferred Program\"},\"url\":\"https://www.biopreferred.gov/\"},{\"@type\":\"Certification\",\"name\":\"Leaping Bunny Certified\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Leaping Bunny Program\"},\"url\":\"https://www.leapingbunny.org/\"},{\"@type\":\"Certification\",\"name\":\"Cradle to Cradle Certified® – Material Health\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Cradle to Cradle Products Innovation Institute\"},\"url\":\"https://www.c2ccertified.org/\"},{\"@type\":\"Certification\",\"name\":\"EPA Safer Choice\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"U.S. Environmental Protection Agency\"},\"url\":\"https://www.epa.gov/saferchoice\"},{\"@type\":\"Certification\",\"name\":\"EWG Verified™\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Environmental Working Group\"},\"url\":\"https://www.ewg.org/ewgverified/\"},{\"@type\":\"Certification\",\"name\":\"National Eczema Association Seal of Acceptance\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"National Eczema Association\"},\"url\":\"https://nationaleczema.org/\"}],\"additionalProperty\":[{\"@type\":\"PropertyValue\",\"name\":\"microplastics_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"paraben_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"ammonia_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phthalate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"chlorine_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"bleach_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"preservative_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phosphate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"tablets_formulated_in_the_usa\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"synthet"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "description": {
+        "value": "Meet The Clean Suite, a bundle with everything you need for a cleaner home. Shop eco-friendly essentials for hand, dish, laundry, and surface cleaning t...",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Meet The Clean Suite, a bundle with everything you need for a cleaner home. Shop eco-friendly essentials for hand, dish, laundry, and surface cleaning t...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Suite_Final_2026_01.jpg?v=1781290089\"],\"name\":\"Clean Suite Kit\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":110,\"priceCurrency\":\"USD\",\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\"}],\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.7\",\"reviewCount\":58395},\"hasCertification\":[{\"@type\":\"Certification\",\"name\":\"USDA BioPreferred®\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"USDA BioPreferred Program\"},\"url\":\"https://www.biopreferred.gov/\"},{\"@type\":\"Certification\",\"name\":\"Leaping Bunny Certified\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Leaping Bunny Program\"},\"url\":\"https://www.leapingbunny.org/\"},{\"@type\":\"Certification\",\"name\":\"Cradle to Cradle Certified® – Material Health\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Cradle to Cradle Products Innovation Institute\"},\"url\":\"https://www.c2ccertified.org/\"},{\"@type\":\"Certification\",\"name\":\"EPA Safer Choice\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"U.S. Environmental Protection Agency\"},\"url\":\"https://www.epa.gov/saferchoice\"},{\"@type\":\"Certification\",\"name\":\"EWG Verified™\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Environmental Working Group\"},\"url\":\"https://www.ewg.org/ewgverified/\"},{\"@type\":\"Certification\",\"name\":\"National Eczema Association Seal of Acceptance\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"National Eczema Association\"},\"url\":\"https://nationaleczema.org/\"}],\"additionalProperty\":[{\"@type\":\"PropertyValue\",\"name\":\"microplastics_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"paraben_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"ammonia_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phthalate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"chlorine_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"bleach_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"preservative_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phosphate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"tablets_formulated_in_the_usa\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"synthet"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "kind": {
+        "value": "product",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Meet The Clean Suite, a bundle with everything you need for a cleaner home. Shop eco-friendly essentials for hand, dish, laundry, and surface cleaning t...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Suite_Final_2026_01.jpg?v=1781290089\"],\"name\":\"Clean Suite Kit\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":110,\"priceCurrency\":\"USD\",\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\"}],\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.7\",\"reviewCount\":58395},\"hasCertification\":[{\"@type\":\"Certification\",\"name\":\"USDA BioPreferred®\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"USDA BioPreferred Program\"},\"url\":\"https://www.biopreferred.gov/\"},{\"@type\":\"Certification\",\"name\":\"Leaping Bunny Certified\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Leaping Bunny Program\"},\"url\":\"https://www.leapingbunny.org/\"},{\"@type\":\"Certification\",\"name\":\"Cradle to Cradle Certified® – Material Health\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Cradle to Cradle Products Innovation Institute\"},\"url\":\"https://www.c2ccertified.org/\"},{\"@type\":\"Certification\",\"name\":\"EPA Safer Choice\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"U.S. Environmental Protection Agency\"},\"url\":\"https://www.epa.gov/saferchoice\"},{\"@type\":\"Certification\",\"name\":\"EWG Verified™\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Environmental Working Group\"},\"url\":\"https://www.ewg.org/ewgverified/\"},{\"@type\":\"Certification\",\"name\":\"National Eczema Association Seal of Acceptance\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"National Eczema Association\"},\"url\":\"https://nationaleczema.org/\"}],\"additionalProperty\":[{\"@type\":\"PropertyValue\",\"name\":\"microplastics_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"paraben_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"ammonia_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phthalate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"chlorine_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"bleach_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"preservative_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phosphate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"tablets_formulated_in_the_usa\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"synthet"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "features": {
+        "value": [
+          "microplastics_free",
+          "paraben_free",
+          "ammonia_free",
+          "phthalate_free",
+          "chlorine_free",
+          "bleach_free",
+          "preservative_free",
+          "phosphate_free",
+          "tablets_formulated_in_the_usa",
+          "synthetic_dye_free",
+          "powder_formulated_in_the_usa"
+        ],
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+            "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Meet The Clean Suite, a bundle with everything you need for a cleaner home. Shop eco-friendly essentials for hand, dish, laundry, and surface cleaning t...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Suite_Final_2026_01.jpg?v=1781290089\"],\"name\":\"Clean Suite Kit\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":110,\"priceCurrency\":\"USD\",\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\"}],\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.7\",\"reviewCount\":58395},\"hasCertification\":[{\"@type\":\"Certification\",\"name\":\"USDA BioPreferred®\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"USDA BioPreferred Program\"},\"url\":\"https://www.biopreferred.gov/\"},{\"@type\":\"Certification\",\"name\":\"Leaping Bunny Certified\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Leaping Bunny Program\"},\"url\":\"https://www.leapingbunny.org/\"},{\"@type\":\"Certification\",\"name\":\"Cradle to Cradle Certified® – Material Health\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Cradle to Cradle Products Innovation Institute\"},\"url\":\"https://www.c2ccertified.org/\"},{\"@type\":\"Certification\",\"name\":\"EPA Safer Choice\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"U.S. Environmental Protection Agency\"},\"url\":\"https://www.epa.gov/saferchoice\"},{\"@type\":\"Certification\",\"name\":\"EWG Verified™\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Environmental Working Group\"},\"url\":\"https://www.ewg.org/ewgverified/\"},{\"@type\":\"Certification\",\"name\":\"National Eczema Association Seal of Acceptance\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"National Eczema Association\"},\"url\":\"https://nationaleczema.org/\"}],\"additionalProperty\":[{\"@type\":\"PropertyValue\",\"name\":\"microplastics_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"paraben_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"ammonia_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phthalate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"chlorine_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"bleach_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"preservative_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phosphate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"tablets_formulated_in_the_usa\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"synthet"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:53.124Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "USD 110; https://schema.org/InStock",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+              "snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Blueland\"},\"description\":\"Meet The Clean Suite, a bundle with everything you need for a cleaner home. Shop eco-friendly essentials for hand, dish, laundry, and surface cleaning t...\",\"image\":[\"https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Suite_Final_2026_01.jpg?v=1781290089\"],\"name\":\"Clean Suite Kit\",\"offers\":[{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"price\":110,\"priceCurrency\":\"USD\",\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\"}],\"sku\":\"KP-CSK-KIT-OXI\",\"url\":\"https://www.blueland.com/products/the-clean-suite\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.7\",\"reviewCount\":58395},\"hasCertification\":[{\"@type\":\"Certification\",\"name\":\"USDA BioPreferred®\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"USDA BioPreferred Program\"},\"url\":\"https://www.biopreferred.gov/\"},{\"@type\":\"Certification\",\"name\":\"Leaping Bunny Certified\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Leaping Bunny Program\"},\"url\":\"https://www.leapingbunny.org/\"},{\"@type\":\"Certification\",\"name\":\"Cradle to Cradle Certified® – Material Health\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Cradle to Cradle Products Innovation Institute\"},\"url\":\"https://www.c2ccertified.org/\"},{\"@type\":\"Certification\",\"name\":\"EPA Safer Choice\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"U.S. Environmental Protection Agency\"},\"url\":\"https://www.epa.gov/saferchoice\"},{\"@type\":\"Certification\",\"name\":\"EWG Verified™\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"Environmental Working Group\"},\"url\":\"https://www.ewg.org/ewgverified/\"},{\"@type\":\"Certification\",\"name\":\"National Eczema Association Seal of Acceptance\",\"issuedBy\":{\"@type\":\"Organization\",\"name\":\"National Eczema Association\"},\"url\":\"https://nationaleczema.org/\"}],\"additionalProperty\":[{\"@type\":\"PropertyValue\",\"name\":\"microplastics_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"paraben_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"ammonia_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phthalate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"chlorine_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"bleach_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"preservative_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"phosphate_free\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"tablets_formulated_in_the_usa\",\"value\":true},{\"@type\":\"PropertyValue\",\"name\":\"synthet"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.124Z"
+        }
+      }
+    }
+  ],
+  "content": {
+    "topics": [],
+    "faqs": [
+      {
+        "id": "17c6c95d-249e-4588-9012-a1b5afbcccda",
+        "question": {
+          "value": "Are PowerDuo Laundry Tablets compatible with HE (High Efficiency) machines?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Are PowerDuo Laundry Tablets compatible with HE (High Efficiency) machines?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Absolutely! PowerDuo Laundry Tablets are compatible with all washing machines, including HE machines, front loaders, and top loaders. Dosing is the same regardless of machine type. Just drop the tablet directly into the drum before adding your clothes.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Absolutely! PowerDuo Laundry Tablets are compatible with all washing machines, including HE machines, front loaders, and top loaders. Dosing is the same regardless of machine type. Just drop the tablet directly into the drum before adding your clothes.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Are PowerDuo Laundry Tablets compatible with HE (High Efficiency) machines?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Absolutely! PowerDuo Laundry Tablets are compatible with all washing machines, including HE machines, front loaders, and top loaders. Dosing is the same regardless of machine type. Just drop the tablet directly into the drum before adding your clothes.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "2bc23333-5e29-4b6a-971e-c99932830f2f",
+        "question": {
+          "value": "Can I use PowerDuo Laundry Tablets with my delicate fabrics?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Can I use PowerDuo Laundry Tablets with my delicate fabrics?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>PowerDuo is best suited for cotton, linen, denim, polyester, rayon, acetate, and Tencel. We don't recommend using it on delicate fabrics like silk, wool, satin, or cashmere. Always check your garment's care label before washing.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "PowerDuo is best suited for cotton, linen, denim, polyester, rayon, acetate, and Tencel. We don't recommend using it on delicate fabrics like silk, wool, satin, or cashmere. Always check your garment's care label before washing.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Can I use PowerDuo Laundry Tablets with my delicate fabrics?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>PowerDuo is best suited for cotton, linen, denim, polyester, rayon, acetate, and Tencel. We don't recommend using it on delicate fabrics like silk, wool, satin, or cashmere. Always check your garment's care label before washing.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "94d221e0-0258-4d12-9fe9-6ba258595ad1",
+        "question": {
+          "value": "Why are PowerDuo Laundry Tablets so expensive?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why are PowerDuo Laundry Tablets so expensive?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Because of the additional cleaning ingredients and larger dose size, PowerDuo tablets deliver extra stain and odor-fighting power compared to our original tablets, which is why they’re priced slightly higher.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Because of the additional cleaning ingredients and larger dose size, PowerDuo tablets deliver extra stain and odor-fighting power compared to our original tablets, which is why they’re priced slightly higher.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why are PowerDuo Laundry Tablets so expensive?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Because of the additional cleaning ingredients and larger dose size, PowerDuo tablets deliver extra stain and odor-fighting power compared to our original tablets, which is why they’re priced slightly higher.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "2fc3ed5f-5c57-4b3f-8faf-8a1d718f0087",
+        "question": {
+          "value": "What makes PowerDuo Laundry Tablets different than a laundry sheet?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What makes PowerDuo Laundry Tablets different than a laundry sheet?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Our tablets are 100% plastic-free. While laundry sheets may seem plastic-free, they contain Polyvinyl Alcohol or PVA/PVOH—a petroleum-based, synthetic, single-use plastic that does not readily biodegrade. We don’t use any PVA/PVOH in our products because it does not meet our standards of biodegradability.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Our tablets are 100% plastic-free. While laundry sheets may seem plastic-free, they contain Polyvinyl Alcohol or PVA/PVOH—a petroleum-based, synthetic, single-use plastic that does not readily biodegrade. We don’t use any PVA/PVOH in our products because it does not meet our standards of biodegradability.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What makes PowerDuo Laundry Tablets different than a laundry sheet?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Our tablets are 100% plastic-free. While laundry sheets may seem plastic-free, they contain Polyvinyl Alcohol or PVA/PVOH—a petroleum-based, synthetic, single-use plastic that does not readily biodegrade. We don’t use any PVA/PVOH in our products because it does not meet our standards of biodegradability.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "68a8ef6e-bd09-4980-b546-647c478db373",
+        "question": {
+          "value": "Why should I autoship?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why should I autoship?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Autoship deliveries are a convenient, flexible, and cost-effective way to receive your Blueland favorites on a regular basis! Deliveries renew automatically every 3 months, but you have full control through your online portal to modify your box, change shipping dates, skip deliveries, or cancel anytime. Save up to 20% on your initial purchase and make going eco easier than ever!\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Autoship deliveries are a convenient, flexible, and cost-effective way to receive your Blueland favorites on a regular basis! Deliveries renew automatically every 3 months, but you have full control through your online portal to modify your box, change shipping dates, skip deliveries, or cancel anytime. Save up to 20% on your initial purchase and make going eco easier than ever!",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why should I autoship?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Autoship deliveries are a convenient, flexible, and cost-effective way to receive your Blueland favorites on a regular basis! Deliveries renew automatically every 3 months, but you have full control through your online portal to modify your box, change shipping dates, skip deliveries, or cancel anytime. Save up to 20% on your initial purchase and make going eco easier than ever!\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "6dbe2e1f-7f50-44c5-a75c-c1ed3325d8a9",
+        "question": {
+          "value": "Does PowerDuo remove sweat and body odors?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Does PowerDuo remove sweat and body odors?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>PowerDuo contains three odor-fighting ingredients designed to eliminate odors at the source, from sweat and body grime to smoke and pets.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "PowerDuo contains three odor-fighting ingredients designed to eliminate odors at the source, from sweat and body grime to smoke and pets.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Does PowerDuo remove sweat and body odors?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>PowerDuo contains three odor-fighting ingredients designed to eliminate odors at the source, from sweat and body grime to smoke and pets.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "c2abba01-b008-401e-85a3-3a325e5bb532",
+        "question": {
+          "value": "Is PowerDuo good for activewear?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Is PowerDuo good for activewear?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes. PowerDuo was designed to help lift stains and eliminate odors from activewear, athletic uniforms, and other performance fabrics where sweat and odors can easily become trapped within fibers.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Yes. PowerDuo was designed to help lift stains and eliminate odors from activewear, athletic uniforms, and other performance fabrics where sweat and odors can easily become trapped within fibers.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Is PowerDuo good for activewear?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes. PowerDuo was designed to help lift stains and eliminate odors from activewear, athletic uniforms, and other performance fabrics where sweat and odors can easily become trapped within fibers.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "abfd3c34-f7db-462b-ba89-c962cfd2015f",
+        "question": {
+          "value": "Is PowerDuo safe for sensitive skin?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Is PowerDuo safe for sensitive skin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes. PowerDuo is hypoallergenic, safe for sensitive skin, and EPA Safer Choice Certified.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Yes. PowerDuo is hypoallergenic, safe for sensitive skin, and EPA Safer Choice Certified.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Is PowerDuo safe for sensitive skin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes. PowerDuo is hypoallergenic, safe for sensitive skin, and EPA Safer Choice Certified.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "6a1bf3ce-ecad-4fc4-bc7f-baf320839153",
+        "question": {
+          "value": "Is PowerDuo plastic-free?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Is PowerDuo plastic-free?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes. Like all our formulations, PowerDuo tablets are 100% plastic-free and 100% microplastic-free.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Yes. Like all our formulations, PowerDuo tablets are 100% plastic-free and 100% microplastic-free.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Is PowerDuo plastic-free?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes. Like all our formulations, PowerDuo tablets are 100% plastic-free and 100% microplastic-free.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "f7a6d503-5851-443b-ac72-27edde7bcf4f",
+        "question": {
+          "value": "How many PowerDuo Laundry Tablets should I use per load?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How many PowerDuo Laundry Tablets should I use per load?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<div aria-setsize=\\\"-1\\\" id=\\\"threads_view_C08J493HG80-1786395820.204519-1786399235.914559\\\" style=\\\"top: 436.594px; margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div aria-roledescription=\\\"message\\\" style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"position: relative; margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><p>Use one PowerDuo Laundry Tablet per load, or two tablets for large loads. Place the tablet(s) directly into the empty washing machine drum before adding your clothes, then start your wash cycle.</p></div></div></div></div></div></div></div></div></div></div></div>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Use one PowerDuo Laundry Tablet per load, or two tablets for large loads. Place the tablet(s) directly into the empty washing machine drum before adding your clothes, then start your wash cycle.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How many PowerDuo Laundry Tablets should I use per load?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<div aria-setsize=\\\"-1\\\" id=\\\"threads_view_C08J493HG80-1786395820.204519-1786399235.914559\\\" style=\\\"top: 436.594px; margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div aria-roledescription=\\\"message\\\" style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"position: relative; margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><div style=\\\"margin: 0px; padding: 0px; color: rgb(29, 28, 29);\\\"><p>Use one PowerDuo Laundry Tablet per load, or two tablets for large loads. Place the tablet(s) directly into the empty washing machine drum before adding your clothes, then start your wash cycle.</p></div></div></div></div></div></div></div></div></div></div></div>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "f1dafd2b-6243-434d-8bdf-a19a36520cc8",
+        "question": {
+          "value": "Do I need to sign up for autoship to purchase Blueland products?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Do I need to sign up for autoship to purchase Blueland products?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Nope! All of our products are available as a one-time purchase - just click Buy One Time instead of our autoship option. If you’re loving your Blueland as much as we think you will, we suggest autoshipping all of your refills so you’ll never run low on your Blueland favorites!\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Nope! All of our products are available as a one-time purchase - just click Buy One Time instead of our autoship option. If you’re loving your Blueland as much as we think you will, we suggest autoshipping all of your refills so you’ll never run low on your Blueland favorites!",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Do I need to sign up for autoship to purchase Blueland products?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Nope! All of our products are available as a one-time purchase - just click Buy One Time instead of our autoship option. If you’re loving your Blueland as much as we think you will, we suggest autoshipping all of your refills so you’ll never run low on your Blueland favorites!\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "3c68c0aa-1dc5-4aca-9ee6-67cd9948c52e",
+        "question": {
+          "value": "How much is shipping? Do I have to pay shipping on all of my autoship orders?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How much is shipping? Do I have to pay shipping on all of my autoship orders?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>\\n  All U.S. orders over $50 ship for free. Orders under $50 and shipping within the U.S. will receive the typical\\n  shipping charge of $4.99. Afterwards, recurring autoship deliveries in the U.S. will be charged $1.99 for orders under $50, and free for\\n  orders over $50! For details on shipping to your specific country, please see <a \\\"https://help.blueland.com/en-US/how-much-is-shipping-324514\\\">here</a>. \\n</p>\\n\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "All U.S. orders over $50 ship for free. Orders under $50 and shipping within the U.S. will receive the typical shipping charge of $4.99. Afterwards, recurring autoship deliveries in the U.S. will be charged $1.99 for orders under $50, and free for orders over $50! For details on shipping to your specific country, please see here.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How much is shipping? Do I have to pay shipping on all of my autoship orders?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>\\n  All U.S. orders over $50 ship for free. Orders under $50 and shipping within the U.S. will receive the typical\\n  shipping charge of $4.99. Afterwards, recurring autoship deliveries in the U.S. will be charged $1.99 for orders under $50, and free for\\n  orders over $50! For details on shipping to your specific country, please see <a \\\"https://help.blueland.com/en-US/how-much-is-shipping-324514\\\">here</a>. \\n</p>\\n\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "dea0263c-3d0e-4382-8d0a-284fcd1af7c4",
+        "question": {
+          "value": "How does the autoship service work?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How does the autoship service work?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It's simple! First, pick which product(s) you'd like to purchase and select the quantity (FYI we provide recommended quantities based on your household size; 1-2 people or 3+). Once you've placed an order for your autoship(s), you will receive your initial order and then subsequent boxes once every three months!\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "It's simple! First, pick which product(s) you'd like to purchase and select the quantity (FYI we provide recommended quantities based on your household size; 1-2 people or 3+). Once you've placed an order for your autoship(s), you will receive your initial order and then subsequent boxes once every three months!",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How does the autoship service work?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It's simple! First, pick which product(s) you'd like to purchase and select the quantity (FYI we provide recommended quantities based on your household size; 1-2 people or 3+). Once you've placed an order for your autoship(s), you will receive your initial order and then subsequent boxes once every three months!\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "3060db2b-6c82-44bc-8aa7-b23daa7dcbdf",
+        "question": {
+          "value": "How can I customize autoship to suit my needs?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How can I customize autoship to suit my needs?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can easily manage what you receive, when you receive it, and the quantity you receive by logging into your autoship portal! Good news - we even offer the option to add a new one-time product or autoship, swap items or change scents, right within your online portal!\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "You can easily manage what you receive, when you receive it, and the quantity you receive by logging into your autoship portal! Good news - we even offer the option to add a new one-time product or autoship, swap items or change scents, right within your online portal!",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How can I customize autoship to suit my needs?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can easily manage what you receive, when you receive it, and the quantity you receive by logging into your autoship portal! Good news - we even offer the option to add a new one-time product or autoship, swap items or change scents, right within your online portal!\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "bd845927-0350-4b34-ad9f-8c9ae485a90e",
+        "question": {
+          "value": "How much can I save in a year with a cleaning supplies autoship?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How much can I save in a year with a cleaning supplies autoship?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Blueland autoship subscribers can save $40+ annually.*</p><p><i>*Savings is reflected by the average annual product usage data.</i></p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Blueland autoship subscribers can save $40+ annually.**Savings is reflected by the average annual product usage data.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How much can I save in a year with a cleaning supplies autoship?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Blueland autoship subscribers can save $40+ annually.*</p><p><i>*Savings is reflected by the average annual product usage data.</i></p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "fe5f7ffe-e4f4-43c3-96ed-44669df30348",
+        "question": {
+          "value": "Is a cleaning supplies autoship worth it for small households?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Is a cleaning supplies autoship worth it for small households?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes, even small households or apartments benefit from a cleaning supplies autoship because it helps reduce last-minute store runs, ensures you only order what you need, and keeps essentials consistently stocked.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "Yes, even small households or apartments benefit from a cleaning supplies autoship because it helps reduce last-minute store runs, ensures you only order what you need, and keeps essentials consistently stocked.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Is a cleaning supplies autoship worth it for small households?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes, even small households or apartments benefit from a cleaning supplies autoship because it helps reduce last-minute store runs, ensures you only order what you need, and keeps essentials consistently stocked.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      },
+      {
+        "id": "05f0667f-a8e3-4283-b768-11e6c35a325d",
+        "question": {
+          "value": "How does a cleaning autoship reduce packaging waste?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How does a cleaning autoship reduce packaging waste?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p dir=\\\"ltr\\\" style=\\\"line-height: 1.2; margin-right: -4.5pt; background-color: rgb(255, 255, 255); margin-top: 0pt; margin-bottom: 0pt;\\\">A cleaning supplies autoship helps reduce packaging waste by ensuring you receive only what you need on a set schedule, instead of frequent, smaller orders. Blueland uses 100% <a rel=\\\"noopener noreferrer nofollow\\\" href=\\\"https://www.blueland.com/pages/why-plastic\\\"><u>plastic free formulas</u></a> and industrially compostable paper packaging, designed to replace plastic with materials that can safely return to the earth and reduce overall waste.</p><p>If you prefer to order less often, our 1-year <a rel=\\\"noopener noreferrer nofollow\\\" href=\\\"https://www.blueland.com/collections/1-year-bundles\\\"><u>bulk household cleaning supplies</u></a> are another great option for stocking up for longer while minimizing unnecessary packaging over time.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "answer": {
+          "value": "A cleaning supplies autoship helps reduce packaging waste by ensuring you receive only what you need on a set schedule, instead of frequent, smaller orders. Blueland uses 100% plastic free formulas and industrially compostable paper packaging, designed to replace plastic with materials that can safely return to the earth and reduce overall waste.If you prefer to order less often, our 1-year bulk household cleaning supplies are another great option for stocking up for longer while minimizing unnecessary packaging over time.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/get-subscription",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How does a cleaning autoship reduce packaging waste?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p dir=\\\"ltr\\\" style=\\\"line-height: 1.2; margin-right: -4.5pt; background-color: rgb(255, 255, 255); margin-top: 0pt; margin-bottom: 0pt;\\\">A cleaning supplies autoship helps reduce packaging waste by ensuring you receive only what you need on a set schedule, instead of frequent, smaller orders. Blueland uses 100% <a rel=\\\"noopener noreferrer nofollow\\\" href=\\\"https://www.blueland.com/pages/why-plastic\\\"><u>plastic free formulas</u></a> and industrially compostable paper packaging, designed to replace plastic with materials that can safely return to the earth and reduce overall waste.</p><p>If you prefer to order less often, our 1-year <a rel=\\\"noopener noreferrer nofollow\\\" href=\\\"https://www.blueland.com/collections/1-year-bundles\\\"><u>bulk household cleaning supplies</u></a> are another great option for stocking up for longer while minimizing unnecessary packaging over time.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        }
+      }
+    ],
+    "testimonials": [],
+    "trustSignals": []
+  },
+  "marketing": {
+    "voice": {
+      "formality": "conversational",
+      "emoji": "none",
+      "length": "balanced",
+      "pronoun": null,
+      "callsCustomers": "",
+      "avoid": [],
+      "writingSamples": [],
+      "chosenAt": null
+    },
+    "claims": [
+      {
+        "id": "6ec3f842-ccb1-47c9-9853-b2539f5d79bd",
+        "text": {
+          "value": "As a Certified B Corp, we’re committed to building a company that’s as thoughtful about its people and impact as it is about performance.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/about-us",
+              "snippet": "Blueland is more than products — it’s a team of passionate people committed to reimagining what’s possible. We believe meaningful change happens when talented, values-aligned individuals come together with shared purpose and accountability. As a Certified B Corp, we’re committed to building a company that’s as thoughtful about its people and impact as it is about performance."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "da428af2-3489-417a-acba-98d386528a3d",
+        "text": {
+          "value": "Scent: Bergamot Rose (sweet herbs and fresh-picked petals), White Tea & Jasmine (fresh tea and warm summer blooms) or Fragrance-Free (a classic, unscented clean that's certified safe for sensitive skin by the National Eczema Association)",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "Scent: Bergamot Rose (sweet herbs and fresh-picked petals), White Tea & Jasmine (fresh tea and warm summer blooms) or Fragrance-Free (a classic, unscented clean that's certified safe for sensitive skin by the National Eczema Association)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "d6f0fd70-d160-40bc-bdb0-fae631385a90",
+        "text": {
+          "value": "EPA Safer Choice, Leaping Bunny (cruelty-free), and Cradle to Cradle Certified™.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "Clean Ingredients: Microplastic-free formula made with plant and mineral-based cleaning power so it’s earth-friendly, hypoallergenic, and safe for use around everyone in the family. EPA Safer Choice, Leaping Bunny (cruelty-free), and Cradle to Cradle Certified™."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "679427da-dc03-4b9a-a250-bbc49d854cfa",
+        "text": {
+          "value": "EPA Safer Choice, Cradle to Cradle Certified™, Leaping Bunny (cruelty-free)",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "EPA Safer Choice, Cradle to Cradle Certified™, Leaping Bunny (cruelty-free)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "300539f0-503e-4d2d-9be6-7cedc6f7e507",
+        "text": {
+          "value": "Certified Clean Ingredients",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "Certified Clean Ingredients"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "1754bb05-11e7-4911-b191-3b723a8b64a7",
+        "text": {
+          "value": "Certified clean ingredients that are safe and gentle for everyone in the family, but strong enough to power through life’s toughest messes.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/powerduo-laundry-tablets",
+              "snippet": "Certified clean ingredients that are safe and gentle for everyone in the family, but strong enough to power through life’s toughest messes. Formulas free from:"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "8bd19016-12b1-4146-9887-4ab959fbf78a",
+        "text": {
+          "value": "In our commitment to human and environmental health, we work closely with the world’s most comprehensive and rigorous certification programs from trusted, third-party organizations.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "In our commitment to human and environmental health, we work closely with the world’s most comprehensive and rigorous certification programs from trusted, third-party organizations."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "f88a67af-27a7-43a4-a9a2-4b10fa764a83",
+        "text": {
+          "value": "Our B Corp Certification verifies that we meet the global standard for responsible social and environmental impact and that we operate as a force for good.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "Our B Corp Certification verifies that we meet the global standard for responsible social and environmental impact and that we operate as a force for good. Ordinary businesses achieve a median score of 50.9. A score of 80 qualifies for B Corp Certification. In 2024 we received a 110 Overall B Impact Score—a 12 point jump from the previous year."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "8153a45d-ce25-4032-ae42-56ddaf49af79",
+        "text": {
+          "value": "A score of 80 qualifies for B Corp Certification.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "Our B Corp Certification verifies that we meet the global standard for responsible social and environmental impact and that we operate as a force for good. Ordinary businesses achieve a median score of 50.9. A score of 80 qualifies for B Corp Certification. In 2024 we received a 110 Overall B Impact Score—a 12 point jump from the previous year."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "11538f24-9df9-4d92-b437-de32257ed5e4",
+        "text": {
+          "value": "As the leading authority on global standards for safe, circular, and responsibly-made products, Cradle to Cradle’s certification requires a particularly rigorous process.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "As the leading authority on global standards for safe, circular, and responsibly-made products, Cradle to Cradle’s certification requires a particularly rigorous process. Our formulations prioritize Cradle to Cradle’s Gold Material Health Certificate, meaning the chemicals and materials used prioritize the protection of human health and the environment."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "e4f5d99e-283e-48b4-834f-a10a7ccb70d3",
+        "text": {
+          "value": "Our EPA Safer Choice certification verifies that our products prioritize human and planet safety without sacrificing performance.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "The Environmental Protection Agency’s Safer Choice program helps consumers and businesses choose products that prioritize safer ingredients and ensure that these products perform. Our EPA Safer Choice certification verifies that our products prioritize human and planet safety without sacrificing performance."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "ad662d7c-2fdf-4745-b281-165ae28c7d14",
+        "text": {
+          "value": "Shop EPA Safer Choice Certified Hand Soap",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "Shop EPA Safer Choice Certified Hand Soap"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "e7f32677-6384-40ac-a304-96b8ec1e9b7b",
+        "text": {
+          "value": "Having the USDA BioPreferred certification ensures that we create products using renewable resources in an effort to reduce reliance on petroleum.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "Having the USDA BioPreferred certification ensures that we create products using renewable resources in an effort to reduce reliance on petroleum. Biobased products, meaning those derived from raw materials like plants and other renewable materials (agricultural, forestry, or marine), typically offer a more sustainable alternative to conventional petroleum-derived products."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "43e143b0-bb90-4f04-9d0f-065c5547424b",
+        "text": {
+          "value": "Their certification verifies that select products meet strict standards for safe products that are free of harmful chemicals.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "The Environmental Working Group maintains a running chemicals of concern list and certifies products that are completely free of any chemical on said list. Their certification verifies that select products meet strict standards for safe products that are free of harmful chemicals. Blueland is proud to have EWG’s certification for both our Free & Clear Laundry Detergent Tablets and our Fragrance-Free Dishwasher Detergent Tablets."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "848802ed-1676-47c0-800e-581156fafb00",
+        "text": {
+          "value": "Blueland is proud to have EWG’s certification for both our Free & Clear Laundry Detergent Tablets and our Fragrance-Free Dishwasher Detergent Tablets.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "The Environmental Working Group maintains a running chemicals of concern list and certifies products that are completely free of any chemical on said list. Their certification verifies that select products meet strict standards for safe products that are free of harmful chemicals. Blueland is proud to have EWG’s certification for both our Free & Clear Laundry Detergent Tablets and our Fragrance-Free Dishwasher Detergent Tablets."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "2647a7a9-308c-4530-a1bd-419b35ab942c",
+        "text": {
+          "value": "Shop EWG-Certified Dish",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/certifications",
+              "snippet": "Shop EWG-Certified Dish"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "dee555c8-9f93-4613-ac14-3abd519f343e",
+        "text": {
+          "value": "Our commitment to all four areas has helped us earn Cradle to Cradle certifications across our product lines, gain B Corp Certified (and recognized as Best For the Environment), and launch the first-ever EWG Verified cleaning products.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+              "snippet": "Our commitment to all four areas has helped us earn Cradle to Cradle certifications across our product lines, gain B Corp Certified (and recognized as Best For the Environment), and launch the first-ever EWG Verified cleaning products."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "aa932f92-cd9d-41db-a2d3-bfe7378a2560",
+        "text": {
+          "value": "Each of our EPA Safer Choice Certified formulas is made with clean ingredients and free from harsh or unnecessary chemicals.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/pages/product-philosophy",
+              "snippet": "We’re proud to say that all of our 100% microplastic-free products, from tablet to powder formats, are formulated here in the United States. Each of our EPA Safer Choice Certified formulas is made with clean ingredients and free from harsh or unnecessary chemicals."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "711eb9e1-88ce-4599-9682-ef5817d36862",
+        "text": {
+          "value": "Leaping Bunny (cruelty-free) and Cradle to Cradle Certified™.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+              "snippet": "Clean Ingredients: 100% microplastic-free tablets made with plant and mineral-based cleaning power so they’re safe for use around everyone in the family. Leaping Bunny (cruelty-free) and Cradle to Cradle Certified™."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "685d8afb-9137-4b78-a665-4c7440c198e0",
+        "text": {
+          "value": "Cradle to Cradle Certified™, Leaping Bunny (cruelty free)",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.blueland.com/products/the-clean-suite",
+              "snippet": "Cradle to Cradle Certified™, Leaping Bunny (cruelty free)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:53.126Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      }
+    ],
+    "promotions": [],
+    "preferredCallToAction": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "customersWanted": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "customersNotSuitable": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "triggerMoments": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:53.124Z"
+    },
+    "genericPhrasesToAvoid": []
+  },
+  "sources": [
+    {
+      "url": "https://www.blueland.com/",
+      "title": "Eco-Friendly Cleaning Products for Home | Blueland",
+      "fetchedAt": "2026-10-19T03:18:02.834Z",
+      "headings": [
+        "The Coast We Keep Collection",
+        "Shop By Category",
+        "Starter Kits Arrow",
+        "Refills Arrow",
+        "Dish Arrow",
+        "Laundry Arrow",
+        "Toilet Arrow",
+        "Hand Soap Arrow",
+        "Spray Cleaners Arrow",
+        "Extras Arrow",
+        "4,000,000+ Homes Have Made the Switch",
+        "Featured",
+        "\"World Changing Ideas\"",
+        "\"Best sustainable cleaning products\"",
+        "\"Best for the Environment\"",
+        "\"Tried the whole line and absolutely love it. It's genius\"",
+        "A Clean the Whole Planet Can Feel",
+        "100,000+ 5-Star Reviews and Counting",
+        "How It Works",
+        "Save More With Autoship",
+        "A Higher Standard of Clean",
+        "Good Clean Fun",
+        "Start Your Journey",
+        "Even our emails are cleaner",
+        "Shop",
+        "About",
+        "Help"
+      ],
+      "paragraphs": [
+        "Limited-edition hand soap scents inspired by summers on the coast and the oceans worth protecting.",
+        "Powerful, plastic-free scrubbing from dishwasher to sink",
+        "100% plastic-free essentials make laundry day a breeze",
+        "Mess-free tablets make cleaning the toilet easier than ever",
+        "Refillable glass bottles for rich, foaming goodness at your fingertips",
+        "Refillable sprays for a safer clean on every surface in your space",
+        "Microplastic-free tablets in industrially compostable packaging",
+        "100% plastic-free cleaning tablets. Safe for the family, good for the planet.",
+        "One container, refill it forever. From your sink to your laundry room, we’re eliminating single-use plastic one cleaning product at a time. Easy-to-use systems, proven-effective formulas.",
+        "Save money (and the planet) when you sign up to get refills sent when and where you want them.",
+        "✓ Save up to 20% ✓ No Commitment ✓ Ship for Less ✓ Early Access"
+      ]
+    },
+    {
+      "url": "https://www.blueland.com/pages/about-us",
+      "title": "About Us | Blueland",
+      "fetchedAt": "2026-10-19T03:18:06.873Z",
+      "headings": [
+        "Who We Are",
+        "Build a movement for a cleaner, healthier planet.",
+        "Founding Story",
+        "Our Values",
+        "Team Blueland",
+        "Learn About Our Mission",
+        "Even our emails are cleaner",
+        "Shop",
+        "About",
+        "Help"
+      ],
+      "paragraphs": [
+        "When I first became a mom, I was horrified to learn that microplastics are found in almost everything—including the water I was mixing with my son’s baby formula. I wanted to reduce my family’s plastic footprint, but it felt nearly impossible to find household products that didn’t come packaged in plastic, actually worked, and fit into the reality of life with a newborn. So I decided to build a better option—and Blueland was born. We’re reimagining everyday cleaning essentials so you don’t have to choose between what’s safe for your family, better for the planet, and proven to work. So far, we’ve helped divert over 1 billion plastic cleaning bottles from landfills and oceans—and we’re just getting started.",
+        "What started as one mom’s determination has grown into an incredible team of people united by shared values - shaping how we build, collaborate, and push for change every day.",
+        "Create solutions that put people and planet first.",
+        "Champion people, both internally and externally, to create a more equitable planet.",
+        "Incite progress in our industry and individuals to make more sustainable choices.",
+        "Blueland is more than products — it’s a team of passionate people committed to reimagining what’s possible. We believe meaningful change happens when talented, values-aligned individuals come together with shared purpose and accountability. As a Certified B Corp, we’re committed to building a company that’s as thoughtful about its people and impact as it is about performance."
+      ]
+    },
+    {
+      "url": "https://www.blueland.com/products/powerduo-laundry-tablets",
+      "title": "Laundry Tablets for Stain and Odor Removal | Blueland",
+      "fetchedAt": "2026-10-19T03:18:10.486Z",
+      "headings": [
+        "PowerDuo Laundry Tablets",
+        "Scent",
+        "Quantity",
+        "Popular Add-On",
+        "This product saves:",
+        "Two Layers, One Powerful Clean",
+        "Blue Bioenzyme Layer",
+        "White Oxi-Action Layer",
+        "How We Stack Up",
+        "Safe Home, Cleaner Planet",
+        "Certified Clean Ingredients",
+        "Planet-Friendly Packaging",
+        "How It Works",
+        "Meet The Scents",
+        "Fragrance-Free",
+        "Bergamot Rose",
+        "White Tea & Jasmine",
+        "You’ll Also Love...",
+        "PowerDuo Laundry Tablets FAQs",
+        "Are PowerDuo Laundry Tablets compatible with HE (High Efficiency) machines?",
+        "Can I use PowerDuo Laundry Tablets with my delicate fabrics?",
+        "Why are PowerDuo Laundry Tablets so expensive?",
+        "What makes PowerDuo Laundry Tablets different than a laundry sheet?",
+        "Why should I autoship?",
+        "Does PowerDuo remove sweat and body odors?",
+        "Is PowerDuo good for activewear?",
+        "Even our emails are cleaner",
+        "Shop",
+        "About",
+        "Help"
+      ],
+      "paragraphs": [
+        "The original price was $24. The sale price is $19.20.",
+        "Meet PowerDuo Laundry Tablets: a first-of-its-kind, 100% microplastic-free tablet with two layers, formulated to do more than your average detergent. One layer lifts tough stains (like red sauce, coffee, armpit stains, and collar rings), the other eliminates stubborn odors at the source, from sweaty gym clothes to everyday body odor.",
+        "Just drop one tablet directly into the empty drum of your washing machine and let it get to work. For large loads, double the power with two tablets instead of one.",
+        "One to lift tough stains, the other to eliminate stubborn odors. Together, they’re 50% more powerful than our original tablet.",
+        "Proven to lift stubborn stains like red sauce, coffee, armpit sweat, and collar rings",
+        "Three advanced odor-fighting ingredients with powerful enzymes that neutralize odor at the source",
+        "Formulated to eliminate tough odors, from sweat and body odor to smoke to pet smell",
+        "*No parabens, ammonia, phthalates, chlorine, bleach, polyvinyl alcohol (PVA/PVOH), methylisothiazolinone, benzisothiazolinone, octylisothiazolinone, or quaternary amine.",
+        "**All parts of our refill packaging are designed to be industrially compostable. We recommend using findacomposter.com to locate a facility that accepts industrially or commercially compostable products near you.",
+        "***Cost reflects the price on the company's direct to consumer site as of 07/20/26 and if unavailable, reflects the average pricing across US retailers rounded to the nearest dollar using SPINS MULO L24 Week Channel Average as of 06/14/26.",
+        "Certified clean ingredients that are safe and gentle for everyone in the family, but strong enough to power through life’s toughest messes. Formulas free from:",
+        "a tablet directly into an empty drum (two for larger or messier loads).",
+        "on your selected cycle and say goodbye to grime and tough stains.",
+        "Absolutely! PowerDuo Laundry Tablets are compatible with all washing machines, including HE machines, front loaders, and top loaders. Dosing is the same regardless of machine type. Just drop the tablet directly into the drum before adding your clothes.",
+        "PowerDuo is best suited for cotton, linen, denim, polyester, rayon, acetate, and Tencel. We don't recommend using it on delicate fabrics like silk, wool, satin, or cashmere. Always check your garment's care label before washing.",
+        "Because of the additional cleaning ingredients and larger dose size, PowerDuo tablets deliver extra stain and odor-fighting power compared to our original tablets, which is why they’re priced slightly higher.",
+        "Our tablets are 100% plastic-free. While laundry sheets may seem plastic-free, they contain Polyvinyl Alcohol or PVA/PVOH—a petroleum-based, synthetic, single-use plastic that does not readily biodegrade. We don’t use any PVA/PVOH in our products because it does not meet our standards of biodegradability.",
+        "Autoship deliveries are a convenient, flexible, and cost-effective way to receive your Blueland favorites on a regular basis! Deliveries renew automatically every 3 months, but you have full control through your online portal to modify your box, change shipping dates, skip deliveries, or cancel anytime. Save up to 20% on your initial purchase and make going eco easier than ever!",
+        "PowerDuo contains three odor-fighting ingredients designed to eliminate odors at the source, from sweat and body grime to smoke and pets.",
+        "Yes. PowerDuo was designed to help lift stains and eliminate odors from activewear, athletic uniforms, and other performance fabrics where sweat and odors can easily become trapped within fibers."
+      ]
+    },
+    {
+      "url": "https://www.blueland.com/pages/get-subscription",
+      "title": "Subscriptions | Blueland",
+      "fetchedAt": "2026-10-19T03:18:14.331Z",
+      "headings": [
+        "Save on Repeat with Autoship",
+        "Why Autoship?",
+        "One Million+ Homes Have Made the Switch",
+        "Tablet Trio Kit",
+        "Dishwasher/Laundry Scent",
+        "How It Works",
+        "Build a movement for a cleaner, healthier planet.",
+        "100,000+ 5-Star Reviews and Counting",
+        "Autoship FAQs",
+        "Do I need to sign up for autoship to purchase Blueland products?",
+        "How much is shipping? Do I have to pay shipping on all of my autoship orders?",
+        "How does the autoship service work?",
+        "How can I customize autoship to suit my needs?",
+        "How much can I save in a year with a cleaning supplies autoship?",
+        "Is a cleaning supplies autoship worth it for small households?",
+        "How does a cleaning autoship reduce packaging waste?",
+        "Even our emails are cleaner",
+        "Shop",
+        "About",
+        "Help"
+      ],
+      "paragraphs": [
+        "Get your refills of 100% plastic-free formulas when you want them, without waste or worry.",
+        "Save 20% on your first delivery and 10% on every refill after",
+        "Delay, skip, or cancel your autoship deliveries at any time—no strings attached!",
+        "Be the first to know about product launches, promotions, and more",
+        "Enjoy free shipping on every autoship delivery over $50",
+        "Fragrance-Free - Free & Clear Dishwasher, Free & Clear Laundry, Lemon Cedar Toilet",
+        "The original price was $58. The sale price is $46.40."
+      ]
+    },
+    {
+      "url": "https://www.blueland.com/pages/certifications",
+      "title": "Our Certifications | Blueland",
+      "fetchedAt": "2026-10-19T03:18:17.432Z",
+      "headings": [
+        "Our Certifications",
+        "A Higher Standard of Clean",
+        "B-Corp",
+        "Climate Label",
+        "Cradle to Cradle",
+        "Leaping Bunny",
+        "EPA Safer Choice",
+        "USDA Biobased",
+        "EWG",
+        "National Eczema Foundation",
+        "Learn About Our Mission",
+        "Even our emails are cleaner",
+        "Shop",
+        "About",
+        "Help"
+      ],
+      "paragraphs": [
+        "In our commitment to human and environmental health, we work closely with the world’s most comprehensive and rigorous certification programs from trusted, third-party organizations.",
+        "National Eczema Association for Free & Clear Laundry",
+        "Our B Corp Certification verifies that we meet the global standard for responsible social and environmental impact and that we operate as a force for good. Ordinary businesses achieve a median score of 50.9. A score of 80 qualifies for B Corp Certification. In 2024 we received a 110 Overall B Impact Score—a 12 point jump from the previous year.",
+        "To achieve carbon neutrality, Blueland works with The Change Climate Project to measure its annual cradle-to-customer emissions and establish near-term action plans to reduce GHG emissions. For any residual emissions, Blueland buys and retires an equal amount of high quality, verified carbon credits and/or funds projects like Rimba Raya and Crow Lakes Wind that cut their emissions and/or indirectly contribute to the global net-zero transition.",
+        "As the leading authority on global standards for safe, circular, and responsibly-made products, Cradle to Cradle’s certification requires a particularly rigorous process. Our formulations prioritize Cradle to Cradle’s Gold Material Health Certificate, meaning the chemicals and materials used prioritize the protection of human health and the environment.",
+        "As the leading authority on cruelty-free business, Leaping Bunny certifies that our operation, from formulation and testing to production, is cruelty-free and animal-friendly.",
+        "The Environmental Protection Agency’s Safer Choice program helps consumers and businesses choose products that prioritize safer ingredients and ensure that these products perform. Our EPA Safer Choice certification verifies that our products prioritize human and planet safety without sacrificing performance.",
+        "Having the USDA BioPreferred certification ensures that we create products using renewable resources in an effort to reduce reliance on petroleum. Biobased products, meaning those derived from raw materials like plants and other renewable materials (agricultural, forestry, or marine), typically offer a more sustainable alternative to conventional petroleum-derived products.",
+        "The Environmental Working Group maintains a running chemicals of concern list and certifies products that are completely free of any chemical on said list. Their certification verifies that select products meet strict standards for safe products that are free of harmful chemicals. Blueland is proud to have EWG’s certification for both our Free & Clear Laundry Detergent Tablets and our Fragrance-Free Dishwasher Detergent Tablets.",
+        "The National Eczema Society’s Seal of Acceptance verifies that our Free & Clear Laundry Detergent Tablets meet the strict standards established by the association’s Scientific Oversight Committee—a panel of leading dermatologists, allergists and eczema experts—and has undergone testing for sensitivity, irritation and toxicity."
+      ]
+    },
+    {
+      "url": "https://www.blueland.com/pages/product-philosophy",
+      "title": "Our Products | Blueland",
+      "fetchedAt": "2026-10-19T03:18:20.430Z",
+      "headings": [
+        "Our Products",
+        "We’re innovating beyond plastic, which is why we approach all product development with 5 core beliefs:",
+        "Our Ingredient Philosophy",
+        "Tiny Tablet, Lower Emissions",
+        "Operating with Impact",
+        "Formulated in the U.S.A.",
+        "Learn About Our Packaging",
+        "Even our emails are cleaner",
+        "Shop",
+        "About",
+        "Help"
+      ],
+      "paragraphs": [
+        "We believe in the power of innovation, backed by over 70 granted patents and more than 40 patents pending.",
+        "We believe you shouldn’t have to choose between products that actually work and what’s better for your family and the planet.",
+        "We believe in moving beyond single-use plastic and building a future where plastic-free products are the default.",
+        "We believe in hard-working, bio-based formulas made without harsh or unnecessary chemicals.",
+        "We believe sustainability should be within reach for all, not a luxury or hard to access.",
+        "Our formulas are all made in the U.S. and always free from:",
+        "While businesses in the U.S. are still not required to list every ingredient used in their formulas, you can find our detailed ingredient lists and ingredient descriptions by product on each product page.",
+        "Cleaning products can be up to 90% water — which means we’re often shipping water around the country in heavy plastic bottles. Our ultra-concentrated, waterless tablets are about 90% lighter than conventional cleaners, dramatically reducing carbon emissions related to shipping. In fact, just one 40-foot truck of Blueland tablets can replace up to 83 trucks of liquid cleaning products.",
+        "We optimize our operations for human and environmental health by strict evaluation of our supply chain partners and the materials we use across four main criteria: ✓ Material Health ✓ Product Circularity ✓ Energy & Water Stewardship ✓ Social Fairness",
+        "Our commitment to all four areas has helped us earn Cradle to Cradle certifications across our product lines, gain B Corp Certified (and recognized as Best For the Environment), and launch the first-ever EWG Verified cleaning products.",
+        "We’re proud to say that all of our 100% microplastic-free products, from tablet to powder formats, are formulated here in the United States. Each of our EPA Safer Choice Certified formulas is made with clean ingredients and free from harsh or unnecessary chemicals."
+      ]
+    },
+    {
+      "url": "https://www.blueland.com/products/the-clean-suite",
+      "title": "The Clean Suite: Eco-Friendly Home Cleaning Kits | Blueland",
+      "fetchedAt": "2026-10-19T03:18:23.534Z",
+      "headings": [
+        "Clean Suite Kit",
+        "Popular Add-On",
+        "This product saves:",
+        "What's In Your Kit",
+        "Foaming Hand Soap",
+        "Laundry Detergent",
+        "OXI LAUNDRY BOOSTER",
+        "Toilet Bowl Cleaner",
+        "Dishwasher Tablets",
+        "Dish Soap Powder",
+        "Multi-Surface Cleaner",
+        "Bathroom Cleaner",
+        "Glass + Mirror Cleaner",
+        "Safe Home, Cleaner Planet",
+        "Certified Clean Ingredients",
+        "Planet-Friendly Packaging",
+        "You’ll Also Love...",
+        "Even our emails are cleaner",
+        "Shop",
+        "About",
+        "Help"
+      ],
+      "paragraphs": [
+        "The original price was $110. The sale price is $88.",
+        "Upgrade your entire cleaning routine with bestsellers that make it easy to keep your entire family safe and your whole home clean. From dirty dishes and dirty laundry to dirty hands and surfaces, the Clean Suite does it all with 100% plastic-free formulas. It’s a better set of basics—and it’s better for the planet too.",
+        "Includes Free & Clear Laundry Detergent and Oxi Booster, Dishwasher Detergent, Dish Soap Powder, Foaming Hand Soap, Lemon Cedar Toilet Cleaner, and Glass + Mirror, Multi-Surface and Bathroom Cleaner Sprays.",
+        "91% less emissions than a conventional plastic bottle"
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "url": "https://www.blueland.com/",
+      "message": "Different descriptions were found. The first value was selected for review."
+    }
+  ]
+}

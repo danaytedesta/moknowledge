@@ -1,0 +1,84 @@
+DEVELOPMENT NOTES/ thought-process/roadmap/note to self
+
+HOW I APPROACHED IT
+
+I organized the work around getting one useful profile from a website:
+collect the pages, structure the information, let the owner edit and save,
+then use that profile to build marketing instructions. Testing different
+businesses helped show where the extraction rules needed more work.
+
+The main decisions were about what to collect, what to trust, and how much
+work to leave to the owner.
+
+WHY I MADE THESE CHOICES
+
+- Start with what the website already provides. I wanted an owner to check
+  a useful draft instead of starting with a long form. Missing details
+  should not stop them from saving.
+
+- Separate business information from marketing choices. A website might
+  list a service that the owner does not want to promote right now. That
+  is why offering priorities and pricing preferences are separate controls.
+
+- Keep evidence and approval separate. A source shows where something came
+  from. It does not mean the owner wants to use it in marketing, especially
+  when prices, guarantees, or certifications are involved.
+
+- Reuse information instead of creating extra steps. Customer questions
+  already exist in the FAQ records. The decision map uses those records,
+  so editing an answer also changes what the brief can use.
+
+- Keep the crawl limited. Reading an entire website would take longer and
+  could collect more unrelated content. The current limit is the starting
+  page plus six related-page attempts. This helps control waiting time,
+  but it can also leave useful information undiscovered.
+
+- Check improvements against different business types. A rule that removes
+  a product-option heading can also remove a real service name. For example,
+  Color is a valid salon service. Tests need to check both false matches
+  and legitimate information that should remain.
+
+AI-ASSISTED PROMPT EXAMPLES I USED 
+
+These are just reconstructed examples of coding and learning prompts used in project because I wanted to document them.
+ Future AI enrichment prompts are documented separately in prompts/enrichment-prompts.md.
+
+1. Extraction and evidence
+   Files: extract-page-context.ts, extract-content-signals.ts
+
+   "Use structured data and nearby text to identify business information.
+   Keep the source and supporting wording. Check which company a statement
+   refers to, and reject form labels, article previews, and generic headings
+   as offerings. Use general rules rather than specific website names."
+
+2. Owner preferences and marketing briefs
+   File: compile-marketing-brief.ts
+
+   "Use the same profile to build social, email, and blog instructions.
+   Respect paused offerings, pricing preferences, and claim approval.
+   Explain excluded information. Check whether text inside a description
+   or FAQ could accidentally bypass those rules."
+
+3. Performance and testing
+   Files: crawl-website.ts, readable-text.ts, tests/api-regression.cjs
+
+   "Investigate slow processing on large pages. Look for repeated DOM scans
+   or cloning. Bound the work, preserve partial results, and test what
+   happens if a download never finishes. Explain the limits of timers."
+
+4. Understanding the implementation
+   Files: src/types/knowledge.ts, src/app/knowledge/page.tsx
+
+   "Trace one field from website evidence through the TypeScript profile,
+   editor, saved JSON, and brief. Explain the types and state changes in
+   simple terms, including which checks must happen while the app runs."
+
+WHAT I LEARNED AND WHAT I WOULD DO NEXT
+
+I learned how one data structure can connect several parts of an app.
+Keeping the editor, saved profile, and briefs connected makes changes
+more manageable. I also learned that TypeScript checks the expected shape
+of data, while downloaded content and saved records still need runtime
+checks. My next step would be improving extraction accuracy using more varied
+examples, especially for people and statements that can have different
+meanings depending on context. 

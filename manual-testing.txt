@@ -1,0 +1,18 @@
+MANUAL APPLICATION CHECKS
+
+1. Run npm test, npm run typecheck, npm run lint, npm run build, then npm start.
+2. Open http://localhost:3000/knowledge and build a profile from a public business website. Check loading, errors, collected sources and actual extraction quality.
+3. Useful varied test cases: https://www.beecavedrilling.com/, https://account-it.net/, and https://www.planetorange.com/. Websites may change or block requests.
+4. Verify that contact forms are not offerings, blog previews are not FAQs, and service pages are preferred over employment pages.
+5. Edit a field. Check that confirmation clears and original evidence remains. Save, reload, search, switch cards/table, reopen and download JSON. Check the exported edit.
+6. Pause an offering and inspect its exclusion from the writing brief. Check separate price and claim controls.
+7. If a published FAQ/process record exists, edit and confirm its answer and verify the next brief uses it. An empty decision map is valid when nothing was collected.
+8. Delete a disposable profile and reload to verify removal.
+9. Test a narrow mobile viewport, all six editor sections, navigation, long evidence text and Save/Download controls.
+10. Try an invalid URL and an unavailable site. Verify readable error messages.
+
+Previously saved data and example JSON can be inspected when a website is unavailable, but this is not a successful live scrape. Existing profiles do not automatically refresh when extraction code changes.
+
+BASELINE AND SLOW-WEBSITE CHECK
+Create fresh profiles; existing saved profiles do not silently change. Check actual offerings rather than exact counts: Molly Maid should not list Popular Services or an article as an offering; Blueland should not list Scent selectors. Check that genuine salon Color services remain. Verify source evidence, inferred badges and unconfirmed rule-based summaries. Confirm that no legal status, employee count or gender is invented.
+For an unusually slow response, the form should stop waiting after about 60 seconds and show a retry message. A partial successful scrape should display its page warnings. Test this in the browser; automated deadline tests use a fixture downloader.

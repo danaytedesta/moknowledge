@@ -1,0 +1,3536 @@
+{
+  "schemaVersion": "1.0",
+  "id": "bf5002e7-718b-4531-8582-3a7106415615",
+  "createdAt": "2026-10-19T03:23:51.108Z",
+  "updatedAt": "2026-10-19T03:23:51.109Z",
+  "company": {
+    "name": {
+      "value": "Molly Maid",
+      "origin": "inferred",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/",
+          "snippet": "About Us | House Cleaning Services | Home Cleaning | Molly Maid"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/our-services/",
+          "snippet": "Cleaning Services | Molly Maid"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/locations/",
+          "snippet": "Locations - Molly Maid"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "description": {
+      "value": "Molly Maid Offers Customized House Cleaning Services Nationwide. Trusted & Screened Crew. Easy Scheduling. Call for a Free Estimate!",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Molly Maid Offers Customized House Cleaning Services Nationwide. Trusted & Screened Crew. Easy Scheduling. Call for a Free Estimate!"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/",
+          "snippet": "Contact Molly Maid or visit our website to learn more about us & our professional housecleaning services. We proudly offer free estimates!"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/our-services/",
+          "snippet": "Looking for Customized House Cleaning Services Without a Contract? Call Molly Maid today at (800) 665-5962 for a Free Estimate!"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/faqs/",
+          "snippet": "Get in touch with Molly Maid for more information about our professional housecleaning services. Visit our FAQs page for answers to your important questions."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/locations/",
+          "snippet": "Tired of searching for cleaning services near me? Molly Maid has you covered with trusted professional cleaning service locations across the United States."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+          "snippet": "Molly Maid is proud to lead the industry in housecleaning services. We’re also proud to be partnered with Neighborly®. Contact us to learn more."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+          "snippet": "High quality maid service from the maid service company with over 30 thirty years of experience."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "website": {
+      "value": "https://www.mollymaid.com/",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "https://www.mollymaid.com/"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "industry": {
+      "value": "Cleaning services",
+      "origin": "inferred",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "House Cleaning Services | Molly Maid Services Molly Maid Offers Customized House Cleaning Services Nationwide. Trusted & Screened Crew. Easy Scheduling. Call for a Free Estimate!"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/",
+          "snippet": "About Us | House Cleaning Services | Home Cleaning | Molly Maid Contact Molly Maid or visit our website to learn more about us & our professional housecleaning services. We proudly offer free estimates! About Our Professional Housecleaners"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.110Z"
+    },
+    "businessModel": {
+      "value": "Consumer services",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "At Molly Maid®, we take great pride in delivering the highest-quality residential cleaning services near you."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "We offer cleaning services and home cleaning tips to homeowners with the help of our well-trained home cleaning pros."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/",
+          "snippet": "Molly Maid believes everyone deserves to feel comfortable and safe in their own homes."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/our-services/",
+          "snippet": "We could all use some help around our homes, and when you choose Molly Maid, you can get that help as often as you need it."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "companyRole": {
+      "value": "Service provider",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Molly Maid Offers Customized House Cleaning Services Nationwide. Trusted & Screened Crew. Easy Scheduling. Call for a Free Estimate!"
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "yearFounded": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "legalEntityType": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "employeeCount": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "mainAddress": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "otherLocations": [],
+    "serviceAreas": {
+      "value": [
+        "Molly Maid Offers Customized House Cleaning Services Nationwide.",
+        "We ensure that floors are vacuumed and mopped throughout the house, making them clean and fresh.",
+        "Molly Maid is the most renowned, trusted name in professional cleaning services across the country."
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Molly Maid Offers Customized House Cleaning Services Nationwide."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "We ensure that floors are vacuumed and mopped throughout the house, making them clean and fresh."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/our-services/",
+          "snippet": "Molly Maid is the most renowned, trusted name in professional cleaning services across the country."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "alternativeNames": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    }
+  },
+  "positioning": {
+    "pitch": {
+      "value": "New Century Newton Olathe",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/locations/",
+          "snippet": "Mission New Century Newton Olathe"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.110Z"
+    },
+    "foundingStory": {
+      "value": "In 1984, entrepreneur David McKinnon brought Molly Maid from Canada to Ann Arbor, Michigan, to give busy American homeowners a reliable, professional, affordable solution to messy, dirty houses. Residents of the competitive university town took advantage of the new home cleaning service, which quickly expanded to communities in other states. Today, there are more than 450 individually owned Molly Maid cleaning service franchises operating across the United States. Last year, we performed 1.7 million cleaning services, 90 percent of which were for repeat customers.",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/",
+          "snippet": "In 1984, entrepreneur David McKinnon brought Molly Maid from Canada to Ann Arbor, Michigan, to give busy American homeowners a reliable, professional, affordable solution to messy, dirty houses. Residents of the competitive university town took advantage of the new home cleaning service, which quickly expanded to communities in other states. Today, there are more than 450 individually owned Molly Maid cleaning service franchises operating across the United States. Last year, we performed 1.7 million cleaning services, 90 percent of which were for repeat customers."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "differentiators": [
+      {
+        "value": "Molly Maid Offers Customized House Cleaning Services Nationwide.",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "Molly Maid Offers Customized House Cleaning Services Nationwide."
+          }
+        ],
+        "origin": "extracted",
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "We’ve been around over 40 years and know how to provide the best clean within your budget and schedule, and with no term contracts.",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "We’ve been around over 40 years and know how to provide the best clean within your budget and schedule, and with no term contracts."
+          }
+        ],
+        "origin": "extracted",
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "We are locally owned and operated.",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "We are locally owned and operated."
+          }
+        ],
+        "origin": "extracted",
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "We provide affordable, customized cleaning plans that fit your cleaning needs and schedule so you can spend more time with family and friends.",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "We provide affordable, customized cleaning plans that fit your cleaning needs and schedule so you can spend more time with family and friends."
+          }
+        ],
+        "origin": "extracted",
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      }
+    ]
+  },
+  "market": {
+    "targetBuyers": {
+      "value": [
+        "We offer cleaning services and home cleaning tips to homeowners with the help of our well-trained home cleaning pros."
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "We offer cleaning services and home cleaning tips to homeowners with the help of our well-trained home cleaning pros."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "customerNeeds": {
+      "value": [
+        "Molly Maid allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right.",
+        "We take care of the details so you can relax and enjoy your clean, comfortable space.",
+        "We provide affordable, customized cleaning plans that fit your cleaning needs and schedule so you can spend more time with family and friends."
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Molly Maid allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "We take care of the details so you can relax and enjoy your clean, comfortable space."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/our-services/",
+          "snippet": "We provide affordable, customized cleaning plans that fit your cleaning needs and schedule so you can spend more time with family and friends."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "idealCustomerPersona": {
+      "value": "Rule-based audience summary: We offer cleaning services and home cleaning tips to homeowners with the help of our well-trained home cleaning pros. Need: Molly Maid allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right.",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "We offer cleaning services and home cleaning tips to homeowners with the help of our well-trained home cleaning pros."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Molly Maid allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "We take care of the details so you can relax and enjoy your clean, comfortable space."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/our-services/",
+          "snippet": "We provide affordable, customized cleaning plans that fit your cleaning needs and schedule so you can spend more time with family and friends."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "industryGroupings": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "industryOutlook": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "channels": {
+      "value": [
+        "Website booking or quote request",
+        "Telephone enquiries"
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/",
+          "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/our-services/",
+          "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/faqs/",
+          "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/locations/",
+          "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+          "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+          "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Call Us | href: tel:8006655962"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/",
+          "snippet": "Call Us | href: tel:8006655962"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/our-services/",
+          "snippet": "Call Us | href: tel:8006655962"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/faqs/",
+          "snippet": "Call Us | href: tel:8006655962"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/locations/",
+          "snippet": "Call Us | href: tel:8006655962"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+          "snippet": "Call Us | href: tel:8006655962"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+          "snippet": "Call Us | href: tel:8006655962"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Request a free estimate | button"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/locations/",
+          "snippet": "Call | href: tel:8006655962"
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/locations/",
+          "snippet": "Call Now: (800) 665-5962 | href: tel:8006655962"
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "funnels": {
+      "value": [
+        "The cleaning methods we use ensure that your home receives the most consistent clean every time. During your first consultation, we’ll create a customized cleaning plan that’s designed to accommodate all of your specific requests. However, we do recognize that perfection is not always possible, which is why we back all of our work with a Neighborly Done Right Promise®. We’re happy to correct our mistakes at no additional cost to you when you contact us by the end of the next business day following your service."
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/faqs/",
+          "snippet": "The cleaning methods we use ensure that your home receives the most consistent clean every time. During your first consultation, we’ll create a customized cleaning plan that’s designed to accommodate all of your specific requests. However, we do recognize that perfection is not always possible, which is why we back all of our work with a Neighborly Done Right Promise®. We’re happy to correct our mistakes at no additional cost to you when you contact us by the end of the next business day following your service."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "callsToAction": [
+      {
+        "value": "Request a Free Quote",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "Request a Free Quote | href: /request-a-free-estimate/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Call Us",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "Call Us | href: tel:8006655962"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "Call Us | href: tel:8006655962"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Call Us | href: tel:8006655962"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "Call Us | href: tel:8006655962"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Call Us | href: tel:8006655962"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "Call Us | href: tel:8006655962"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "Call Us | href: tel:8006655962"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "schedule a consultation",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "schedule a consultation | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "View All Blog Posts",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "View All Blog Posts | href: /practically-spotless/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "View All Blog Posts | href: /practically-spotless/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "View All Cleaning Tips",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "View All Cleaning Tips | href: /cleaning-tips/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "View All Cleaning Tips | href: /cleaning-tips/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Request a free estimate",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "Request a free estimate | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "Contact Us | href: /about-us/contact-national-office/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "Contact Us | href: /about-us/contact-national-office/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Contact Us | href: /about-us/contact-national-office/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "Contact Us | href: /about-us/contact-national-office/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us | href: #"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "Contact Us | href: /about-us/contact-national-office/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "Contact Us | href: /about-us/contact-national-office/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "View All Resources",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "View All Resources | href: /practically-spotless/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Call",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Call | href: tel:8006655962"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Call Now: (800) 665-5962",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Call Now: (800) 665-5962 | href: tel:8006655962"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (972) 992-5958",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (972) 992-5958 | href: tel:9729925958"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (716) 517-4026",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (716) 517-4026 | href: tel:7165174026"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (714) 408-1253",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (714) 408-1253 | href: tel:7144081253"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (515) 393-4908",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (515) 393-4908 | href: tel:5153934908"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (734) 890-5285",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (734) 890-5285 | href: tel:7348905285"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (661) 369-8293",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (661) 369-8293 | href: tel:6613698293"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (703) 952-7840",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (703) 952-7840 | href: tel:7039527840"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (303) 731-4742",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (303) 731-4742 | href: tel:3037314742"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (828) 338-2249",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (828) 338-2249 | href: tel:8283382249"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (303) 622-5610",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (303) 622-5610 | href: tel:3036225610"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (630) 581-2418",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (630) 581-2418 | href: tel:6305812418"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (661) 735-1253",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (661) 735-1253 | href: tel:6617351253"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (225) 414-4067",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (225) 414-4067 | href: tel:2254144067"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (979) 314-2184",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (979) 314-2184 | href: tel:9793142184"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Contact Us: (254) 308-0840",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Contact Us: (254) 308-0840 | href: tel:2543080840"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Visit Neighborly.com",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "Visit Neighborly.com | href: https://www.neighborly.com"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      }
+    ],
+    "suppliersAndPartners": [
+      {
+        "value": "Molly Maid is proud to be a Neighborly company.We're part of a network of home service professionals who offer trusted, friendly and fast home services for your entire home.",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "Molly Maid is proud to be a Neighborly company.We're part of a network of home service professionals who offer trusted, friendly and fast home services for your entire home."
+          }
+        ],
+        "origin": "extracted",
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "Molly Maid is proud to be a Neighborly® company.",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "Molly Maid is proud to be a Neighborly® company."
+          }
+        ],
+        "origin": "extracted",
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      }
+    ]
+  },
+  "branding": {
+    "writingStyle": {
+      "value": "Measured website text: 20 paragraphs; about 13 words per sentence. 14 paragraphs address the reader as you/your. This describes language patterns, not owner-approved tone.",
+      "evidence": [
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Neighborly Done Right Promise® delivered by Molly Maid® ensures outstanding service. If your service isn't right, contact us by the next business day and we'll make it right, at no extra cost. Trusted for 40+ years to get the job done right."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "At Molly Maid®, we take great pride in delivering the highest-quality residential cleaning services near you. We offer cleaning services and home cleaning tips to homeowners with the help of our well-trained home cleaning pros. Molly Maid does everything we can to ensure that you are left with a spic-and-span home after every cleaning visit."
+        },
+        {
+          "sourceUrl": "https://www.mollymaid.com/",
+          "snippet": "Choose a plan to fit your needs—no contracts, no hassle."
+        }
+      ],
+      "origin": "measured",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.109Z"
+    },
+    "artStyle": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "fonts": [
+      {
+        "value": "Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "bold",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "font-family:bold"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "font-family:bold"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "font-family:bold"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "font-family:bold"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "font-family:bold"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "font-family:bold"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "BBC Reith Sans,BBCReithSans-fallback,sans-serif",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "font-family:BBC Reith Sans,BBCReithSans-fallback,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "font-family:BBC Reith Sans,BBCReithSans-fallback,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "font-family:BBC Reith Sans,BBCReithSans-fallback,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "font-family:BBC Reith Sans,BBCReithSans-fallback,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "font-family:BBC Reith Sans,BBCReithSans-fallback,sans-serif"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "font-family:BBC Reith Sans,BBCReithSans-fallback,sans-serif"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "\"DM Sans\"",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "font-family:\"DM Sans\""
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "\"IBM Plex Mono\"",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "font-family:\"IBM Plex Mono\""
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "\"Source Serif Pro\"",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "font-family:\"Source Serif Pro\""
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      }
+    ],
+    "colors": [
+      {
+        "value": "#9CA3AF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{color:#9ca3af"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{color:#9ca3af"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{color:#9ca3af"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{color:#9ca3af"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "{color:#9ca3af"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{color:#9ca3af"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{color:#9ca3af"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#E5E7EB",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{border-color:#e5e7eb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{border-color:#e5e7eb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{border-color:#e5e7eb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{border-color:#e5e7eb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{border-color:#e5e7eb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{border-color:#e5e7eb"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#4B5563",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{border-color:#4b5563"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{border-color:#4b5563"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{border-color:#4b5563"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{border-color:#4b5563"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{border-color:#4b5563"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{border-color:#4b5563"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#FFFFFF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": ";background-color:#fff"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": ";background-color:#fff"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": ";background-color:#fff"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": ";background-color:#fff"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "{background-color:#fff"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": ";background-color:#fff"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": ";background-color:#fff"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#6B7280",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": ";border-color:#6b7280"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": ";border-color:#6b7280"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": ";border-color:#6b7280"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": ";border-color:#6b7280"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": ";border-color:#6b7280"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": ";border-color:#6b7280"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#1C64F2",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": ";border-color:#1c64f2"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": ";border-color:#1c64f2"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": ";border-color:#1c64f2"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": ";border-color:#1c64f2"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": ";border-color:#1c64f2"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": ";border-color:#1c64f2"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#D1D5DB",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": ";border-color:#d1d5db"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": ";border-color:#d1d5db"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": ";border-color:#d1d5db"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": ";border-color:#d1d5db"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": ";border-color:#d1d5db"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": ";border-color:#d1d5db"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#F9FAFB",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{background-color:#f9fafb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{background-color:#f9fafb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{background-color:#f9fafb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{background-color:#f9fafb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{background-color:#f9fafb"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{background-color:#f9fafb"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#00000066",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{background-color:#00000066"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{background-color:#00000066"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{background-color:#00000066"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{background-color:#00000066"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{background-color:#00000066"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{background-color:#00000066"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#0000001F",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": ";border-color:#0000001f"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": ";border-color:#0000001f"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": ";border-color:#0000001f"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": ";border-color:#0000001f"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": ";border-color:#0000001f"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": ";border-color:#0000001f"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#092455",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{background-color:#092455"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{background-color:#092455"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{background-color:#092455"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{background-color:#092455"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{background-color:#092455"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{background-color:#092455"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#000000",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{color:#000"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{color:#000"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{color:#000"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{color:#000"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "{color:#000"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{color:#000"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{color:#000"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#3A73B7",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{background-color:#3a73b7"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{background-color:#3a73b7"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{background-color:#3a73b7"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{background-color:#3a73b7"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{background-color:#3a73b7"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{background-color:#3a73b7"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#5A5A5A",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{color:#5a5a5a"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{color:#5a5a5a"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{color:#5a5a5a"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{color:#5a5a5a"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{color:#5a5a5a"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{color:#5a5a5a"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#F6F6F8",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{background-color:#f6f6f8"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{background-color:#f6f6f8"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{background-color:#f6f6f8"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{background-color:#f6f6f8"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{background-color:#f6f6f8"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{background-color:#f6f6f8"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#374151",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": ";color:#374151"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": ";color:#374151"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": ";color:#374151"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": ";color:#374151"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": ";color:#374151"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": ";color:#374151"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": ";color:#374151"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#1F2A37",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "{color:#1f2a37"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "{color:#1f2a37"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "{color:#1f2a37"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "{color:#1f2a37"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "{color:#1f2a37"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "{color:#1f2a37"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#111928",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": ";color:#111928"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": ";color:#111928"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": ";color:#111928"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": ";color:#111928"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "{color:#111928"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": ";color:#111928"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": ";color:#111928"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#F3F4F6",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "{background-color:#f3f4f6"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#EEEEEE",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "{background-color:#eee"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#313131",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "{background-color:#313131"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#DDDDDD",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "{background-color:#ddd"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#444444",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": ";color:#444"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "#32373C",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "{background-color: #32373c"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      }
+    ],
+    "logoUrls": [
+      {
+        "value": "https://www.mollymaid.com/brand/_assets/images/brand-img/brand-logo.svg",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "Molly Maid logo. | /brand/_assets/images/brand-img/brand-logo.svg"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "Molly Maid logo. | /brand/_assets/images/brand-img/brand-logo.svg"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Molly Maid logo. | /brand/_assets/images/brand-img/brand-logo.svg"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "Molly Maid logo. | /brand/_assets/images/brand-img/brand-logo.svg"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "Molly Maid logo. | /brand/_assets/images/brand-img/brand-logo.svg"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "Molly Maid logo. | /brand/_assets/images/brand-img/brand-logo.svg"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "https://www.mollymaid.com/locations/wp-content/themes/nbly/brands/mly/images/brand-logo.svg",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Molly Maid Logo nbly-header-logo | https://www.mollymaid.com/locations/wp-content/themes/nbly/brands/mly/images/brand-logo.svg"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      },
+      {
+        "value": "https://www.mollymaid.com/locations/wp-content/themes/nbly/brands/mly/images/footer-logo.svg",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "Molly Maid Logo nbly-footer-logo | https://www.mollymaid.com/locations/wp-content/themes/nbly/brands/mly/images/footer-logo.svg"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.109Z"
+      }
+    ]
+  },
+  "socialProfiles": [
+    {
+      "id": "843dc48a-5c1e-4c10-b18d-58e07243ac51",
+      "platform": "Facebook",
+      "url": {
+        "value": "https://facebook.com/mollymaid",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "https://www.facebook.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "https://www.facebook.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "https://www.facebook.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "https://www.facebook.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "https://www.facebook.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "https://www.facebook.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "https://www.facebook.com/MollyMaid/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      }
+    },
+    {
+      "id": "9e9704b5-7bdc-4604-b776-2322a211fe02",
+      "platform": "X",
+      "url": {
+        "value": "https://x.com/mollymaid",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "https://twitter.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "https://twitter.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "https://twitter.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "https://twitter.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "https://twitter.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "https://twitter.com/MollyMaid/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "https://twitter.com/MollyMaid/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      }
+    },
+    {
+      "id": "6c551100-5c5e-4485-b370-425249b8ceb4",
+      "platform": "YouTube",
+      "url": {
+        "value": "https://youtube.com/channel/UCkH4Y75SCAsE3fpmbYYwJMg",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "https://www.youtube.com/channel/UCkH4Y75SCAsE3fpmbYYwJMg/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "https://www.youtube.com/channel/UCkH4Y75SCAsE3fpmbYYwJMg/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "https://www.youtube.com/channel/UCkH4Y75SCAsE3fpmbYYwJMg/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "https://www.youtube.com/channel/UCkH4Y75SCAsE3fpmbYYwJMg/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "https://www.youtube.com/channel/UCkH4Y75SCAsE3fpmbYYwJMg/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "https://www.youtube.com/channel/UCkH4Y75SCAsE3fpmbYYwJMg/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "https://www.youtube.com/channel/UCkH4Y75SCAsE3fpmbYYwJMg/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      }
+    },
+    {
+      "id": "7acfbc5c-6d1d-4a4a-8570-42dca481ac69",
+      "platform": "Instagram",
+      "url": {
+        "value": "https://instagram.com/mollymaid",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "https://www.instagram.com/mollymaid/?hl=en/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "https://www.instagram.com/mollymaid/?hl=en/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "https://www.instagram.com/mollymaid/?hl=en/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "https://www.instagram.com/mollymaid/?hl=en/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "https://www.instagram.com/mollymaid/?hl=en/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "https://www.instagram.com/mollymaid/?hl=en/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "https://www.instagram.com/mollymaid/?hl=en/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      }
+    },
+    {
+      "id": "596c9fd4-67df-436b-828f-f1248b88a10a",
+      "platform": "LinkedIn",
+      "url": {
+        "value": "https://linkedin.com/company/molly-maid-corporate-usa",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/",
+            "snippet": "https://www.linkedin.com/company/molly-maid-corporate-usa/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/",
+            "snippet": "https://www.linkedin.com/company/molly-maid-corporate-usa/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "https://www.linkedin.com/company/molly-maid-corporate-usa/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/faqs/",
+            "snippet": "https://www.linkedin.com/company/molly-maid-corporate-usa/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/locations/",
+            "snippet": "https://www.linkedin.com/company/molly-maid-corporate-usa/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+            "snippet": "https://www.linkedin.com/company/molly-maid-corporate-usa/"
+          },
+          {
+            "sourceUrl": "https://www.mollymaid.com/about-us/contact-national-office/",
+            "snippet": "https://www.linkedin.com/company/molly-maid-corporate-usa/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      }
+    }
+  ],
+  "people": [],
+  "offerings": [
+    {
+      "id": "ebbd55ac-37d3-4228-af7c-1ff46f233f60",
+      "name": {
+        "value": "Recurring Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Recurring Cleaning We could all use some help around our homes, and when you choose Molly Maid, you can get that help as often as you need it. Our regular maid services are available weekly, bi-weekly, or at a frequency that fits your schedule and cleaning needs. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "description": {
+        "value": "We could all use some help around our homes, and when you choose Molly Maid, you can get that help as often as you need it. Our regular maid services are available weekly, bi-weekly, or at a frequency that fits your schedule and cleaning needs.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Recurring Cleaning We could all use some help around our homes, and when you choose Molly Maid, you can get that help as often as you need it. Our regular maid services are available weekly, bi-weekly, or at a frequency that fits your schedule and cleaning needs. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "category": {
+        "value": "Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Recurring Cleaning We could all use some help around our homes, and when you choose Molly Maid, you can get that help as often as you need it. Our regular maid services are available weekly, bi-weekly, or at a frequency that fits your schedule and cleaning needs. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Recurring Cleaning We could all use some help around our homes, and when you choose Molly Maid, you can get that help as often as you need it. Our regular maid services are available weekly, bi-weekly, or at a frequency that fits your schedule and cleaning needs. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.108Z"
+        }
+      }
+    },
+    {
+      "id": "9c1cddc2-ebd1-40fc-a2c0-f69d5843dedf",
+      "name": {
+        "value": "Occasional Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Occasional Cleaning Sometimes you run out of time before getting to all the things you need to do. Whether your cleaning routine has fallen behind or you simply want a break, Molly Maid has the solution. Our professional cleaners will clean your entire home, specific rooms, or wherever you need us to get things back on track with our proven one-time services. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "description": {
+        "value": "Sometimes you run out of time before getting to all the things you need to do. Whether your cleaning routine has fallen behind or you simply want a break, Molly Maid has the solution. Our professional cleaners will clean your entire home, specific rooms, or wherever you need us to get things back on track with our proven one-time services.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Occasional Cleaning Sometimes you run out of time before getting to all the things you need to do. Whether your cleaning routine has fallen behind or you simply want a break, Molly Maid has the solution. Our professional cleaners will clean your entire home, specific rooms, or wherever you need us to get things back on track with our proven one-time services. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "category": {
+        "value": "Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Occasional Cleaning Sometimes you run out of time before getting to all the things you need to do. Whether your cleaning routine has fallen behind or you simply want a break, Molly Maid has the solution. Our professional cleaners will clean your entire home, specific rooms, or wherever you need us to get things back on track with our proven one-time services. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Occasional Cleaning Sometimes you run out of time before getting to all the things you need to do. Whether your cleaning routine has fallen behind or you simply want a break, Molly Maid has the solution. Our professional cleaners will clean your entire home, specific rooms, or wherever you need us to get things back on track with our proven one-time services. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.108Z"
+        }
+      }
+    },
+    {
+      "id": "3acbd3c9-7d77-4d88-a0ec-8a4e572d9af3",
+      "name": {
+        "value": "Move-In & Move-Out Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Move-In & Move-Out Cleaning Moving is a challenge even under the best circumstances, so why not let us help make your big move easier? Our move-in cleaning services will help you get off to a fresh start in your new home with a top-to-bottom cleaning. To get you on the road more quickly, our move-out service will clean your previous home and get it move-in ready. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "description": {
+        "value": "Moving is a challenge even under the best circumstances, so why not let us help make your big move easier? Our move-in cleaning services will help you get off to a fresh start in your new home with a top-to-bottom cleaning. To get you on the road more quickly, our move-out service will clean your previous home and get it move-in ready.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Move-In & Move-Out Cleaning Moving is a challenge even under the best circumstances, so why not let us help make your big move easier? Our move-in cleaning services will help you get off to a fresh start in your new home with a top-to-bottom cleaning. To get you on the road more quickly, our move-out service will clean your previous home and get it move-in ready. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "category": {
+        "value": "Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Move-In & Move-Out Cleaning Moving is a challenge even under the best circumstances, so why not let us help make your big move easier? Our move-in cleaning services will help you get off to a fresh start in your new home with a top-to-bottom cleaning. To get you on the road more quickly, our move-out service will clean your previous home and get it move-in ready. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Move-In & Move-Out Cleaning Moving is a challenge even under the best circumstances, so why not let us help make your big move easier? Our move-in cleaning services will help you get off to a fresh start in your new home with a top-to-bottom cleaning. To get you on the road more quickly, our move-out service will clean your previous home and get it move-in ready. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.108Z"
+        }
+      }
+    },
+    {
+      "id": "c1bf5b33-7265-40ea-913c-a5911bdd0d57",
+      "name": {
+        "value": "Apartment & Condo Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Apartment & Condo Cleaning Imagine having more time to enjoy life while maintaining a clean apartment. With our weekly maid services, you can make apartment living even more convenient and flexible. We'll vacuum, dust, and scrub away dirt and germs to create a cleaner and healthier apartment. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "description": {
+        "value": "Imagine having more time to enjoy life while maintaining a clean apartment. With our weekly maid services, you can make apartment living even more convenient and flexible. We'll vacuum, dust, and scrub away dirt and germs to create a cleaner and healthier apartment.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Apartment & Condo Cleaning Imagine having more time to enjoy life while maintaining a clean apartment. With our weekly maid services, you can make apartment living even more convenient and flexible. We'll vacuum, dust, and scrub away dirt and germs to create a cleaner and healthier apartment. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "category": {
+        "value": "Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Apartment & Condo Cleaning Imagine having more time to enjoy life while maintaining a clean apartment. With our weekly maid services, you can make apartment living even more convenient and flexible. We'll vacuum, dust, and scrub away dirt and germs to create a cleaner and healthier apartment. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Apartment & Condo Cleaning Imagine having more time to enjoy life while maintaining a clean apartment. With our weekly maid services, you can make apartment living even more convenient and flexible. We'll vacuum, dust, and scrub away dirt and germs to create a cleaner and healthier apartment. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.108Z"
+        }
+      }
+    },
+    {
+      "id": "136f5a5e-c213-4863-9ec7-004a79021d6c",
+      "name": {
+        "value": "Thorough Home Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Thorough Home Cleaning Our cleaning services are designed to cater to every corner and aspect of your living space. We specialize in cleaning common areas, bedrooms, kitchens, bathrooms, and more. Our comprehensive cleaning services ensure that your home is thoroughly cleaned and well-maintained. We prioritize attention to detail to create a clean and comfortable environment tailored to your specific needs. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "description": {
+        "value": "Our cleaning services are designed to cater to every corner and aspect of your living space. We specialize in cleaning common areas, bedrooms, kitchens, bathrooms, and more. Our comprehensive cleaning services ensure that your home is thoroughly cleaned and well-maintained. We prioritize attention to detail to create a clean and comfortable environment tailored to your specific needs.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Thorough Home Cleaning Our cleaning services are designed to cater to every corner and aspect of your living space. We specialize in cleaning common areas, bedrooms, kitchens, bathrooms, and more. Our comprehensive cleaning services ensure that your home is thoroughly cleaned and well-maintained. We prioritize attention to detail to create a clean and comfortable environment tailored to your specific needs. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "category": {
+        "value": "Cleaning",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Thorough Home Cleaning Our cleaning services are designed to cater to every corner and aspect of your living space. We specialize in cleaning common areas, bedrooms, kitchens, bathrooms, and more. Our comprehensive cleaning services ensure that your home is thoroughly cleaned and well-maintained. We prioritize attention to detail to create a clean and comfortable environment tailored to your specific needs. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://www.mollymaid.com/our-services/",
+            "snippet": "Thorough Home Cleaning Our cleaning services are designed to cater to every corner and aspect of your living space. We specialize in cleaning common areas, bedrooms, kitchens, bathrooms, and more. Our comprehensive cleaning services ensure that your home is thoroughly cleaned and well-maintained. We prioritize attention to detail to create a clean and comfortable environment tailored to your specific needs. Read More"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:51.108Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.108Z"
+        }
+      }
+    }
+  ],
+  "content": {
+    "topics": [],
+    "faqs": [
+      {
+        "id": "4129526a-4c9f-4a02-adcd-328f6d748cb4",
+        "question": {
+          "value": "Why Do We Stand Behind Our Work?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why Do We Stand Behind Our Work?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Molly Maid doesn&rsquo;t just promise a thorough clean, we back it up. The <a href=\\\"/Neighborly/cpt_internal/720644\\\">Neighborly Done Right Promise&reg;</a> is our commitment to excellence, ensuring that our cleaning services for residential homes are held to the highest standards. We prioritize your satisfaction and the quality of our services. From the moment we step into your home, we bring professionalism and cleaning expertise.</p>\\n<p>Our skilled team treats your space with care, ensuring thorough cleaning throughout your home. If something doesn't meet your expectations, we'll make it right.</p>\\n<p>We value your trust and aim to provide exceptional service that leaves your home gleaming and you smiling.</p>\\n<p>Your cleanliness satisfaction is always our top priority.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Molly Maid doesn’t just promise a thorough clean, we back it up. The Neighborly Done Right Promise® is our commitment to excellence, ensuring that our cleaning services for residential homes are held to the highest standards. We prioritize your satisfaction and the quality of our services. From the moment we step into your home, we bring professionalism and cleaning expertise. Our skilled team treats your space with care, ensuring thorough cleaning throughout your home. If something doesn't meet your expectations, we'll make it right. We value your trust and aim to provide exceptional service that leaves your home gleaming and you smiling. Your cleanliness satisfaction is always our top priority.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why Do We Stand Behind Our Work?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Molly Maid doesn&rsquo;t just promise a thorough clean, we back it up. The <a href=\\\"/Neighborly/cpt_internal/720644\\\">Neighborly Done Right Promise&reg;</a> is our commitment to excellence, ensuring that our cleaning services for residential homes are held to the highest standards. We prioritize your satisfaction and the quality of our services. From the moment we step into your home, we bring professionalism and cleaning expertise.</p>\\n<p>Our skilled team treats your space with care, ensuring thorough cleaning throughout your home. If something doesn't meet your expectations, we'll make it right.</p>\\n<p>We value your trust and aim to provide exceptional service that leaves your home gleaming and you smiling.</p>\\n<p>Your cleanliness satisfaction is always our top priority.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "2512f2c6-5e52-4b9c-a672-ff45f035e738",
+        "question": {
+          "value": "How Do We Provide a Thorough Clean When and Where You Need It?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How Do We Provide a Thorough Clean When and Where You Need It?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Customize your cleaning services as a part of your one-time or recurring cleaning when things get grimy! In addition to our standard room-by-room cleaning services, our team can also invest extra time cleaning your home's most essential appliances. Check out our refrigerator cleaning and oven cleaning options to really make your kitchen shine. Rooms included with our home cleaning service:</p>\\n<ul style=\\\"list-style: disc outside url('/brand/_assets/images/mly-list-checkmark.svg'); padding: 0 0 0 1.5rem;\\\">\\n<li>Bathroom cleaning</li>\\n<li>Bedroom cleaning</li>\\n<li>Kitchen cleaning</li>\\n<li>Laundry room cleaning</li>\\n<li>Dining room cleaning</li>\\n</ul>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Customize your cleaning services as a part of your one-time or recurring cleaning when things get grimy! In addition to our standard room-by-room cleaning services, our team can also invest extra time cleaning your home's most essential appliances. Check out our refrigerator cleaning and oven cleaning options to really make your kitchen shine. Rooms included with our home cleaning service: Bathroom cleaning Bedroom cleaning Kitchen cleaning Laundry room cleaning Dining room cleaning",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How Do We Provide a Thorough Clean When and Where You Need It?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Customize your cleaning services as a part of your one-time or recurring cleaning when things get grimy! In addition to our standard room-by-room cleaning services, our team can also invest extra time cleaning your home's most essential appliances. Check out our refrigerator cleaning and oven cleaning options to really make your kitchen shine. Rooms included with our home cleaning service:</p>\\n<ul style=\\\"list-style: disc outside url('/brand/_assets/images/mly-list-checkmark.svg'); padding: 0 0 0 1.5rem;\\\">\\n<li>Bathroom cleaning</li>\\n<li>Bedroom cleaning</li>\\n<li>Kitchen cleaning</li>\\n<li>Laundry room cleaning</li>\\n<li>Dining room cleaning</li>\\n</ul>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "c340c957-3db1-43b1-bb47-9a6a663b0b7a",
+        "question": {
+          "value": "Why Choose Molly Maid?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why Choose Molly Maid?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Life is busy, which means you can&rsquo;t always complete everything on your to-do list. Molly Maid allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right. Our residential home cleaning service is dedicated to making your life easier. We've built a reputation for top-notch cleaning that you can trust. Our detailed approach covers every room and corner, leaving no mess behind.</p>\\n<p>You deserve a clean, comfortable space; we're here to deliver it.</p>\\n<p>As part of the Neighborly family of home service brands, we uphold high standards and prioritize your satisfaction. Choose Molly Maid for a cleaner, healthier home that allows you to focus on what matters most to you. <a href=\\\"/Neighborly/cpt_internal/688970\\\">Request a free estimate</a> now!</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Life is busy, which means you can’t always complete everything on your to-do list. Molly Maid allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right. Our residential home cleaning service is dedicated to making your life easier. We've built a reputation for top-notch cleaning that you can trust. Our detailed approach covers every room and corner, leaving no mess behind. You deserve a clean, comfortable space; we're here to deliver it. As part of the Neighborly family of home service brands, we uphold high standards and prioritize your satisfaction. Choose Molly Maid for a cleaner, healthier home that allows you to focus on what matters most to you. Request a free estimate now!",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why Choose Molly Maid?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Life is busy, which means you can&rsquo;t always complete everything on your to-do list. Molly Maid allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right. Our residential home cleaning service is dedicated to making your life easier. We've built a reputation for top-notch cleaning that you can trust. Our detailed approach covers every room and corner, leaving no mess behind.</p>\\n<p>You deserve a clean, comfortable space; we're here to deliver it.</p>\\n<p>As part of the Neighborly family of home service brands, we uphold high standards and prioritize your satisfaction. Choose Molly Maid for a cleaner, healthier home that allows you to focus on what matters most to you. <a href=\\\"/Neighborly/cpt_internal/688970\\\">Request a free estimate</a> now!</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "eb491060-9501-4b57-8909-787ae6732bc5",
+        "question": {
+          "value": "What Do We Clean?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What Do We Clean?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Molly Maid takes care of your whole home! <a href=\\\"/Neighborly/cpt_internal/698787\\\">Our services</a> are the definition of comprehensive. We give your kitchen a thorough cleaning, and bathrooms sparkle after we're done. Your living room is cozy and inviting after we clean.</p>\\n<p>All bedrooms get our attention, with beds made and dust gone. Our professional home cleaners ensure every room you want cleaned is a delight for you to come back to. If you&rsquo;ve been looking for the best <a href=\\\"/Neighborly/cpt_internal/692434\\\">local home cleaning services</a> near you, Molly Maid is the right choice.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Molly Maid takes care of your whole home! Our services are the definition of comprehensive. We give your kitchen a thorough cleaning, and bathrooms sparkle after we're done. Your living room is cozy and inviting after we clean. All bedrooms get our attention, with beds made and dust gone. Our professional home cleaners ensure every room you want cleaned is a delight for you to come back to. If you’ve been looking for the best local home cleaning services near you, Molly Maid is the right choice.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What Do We Clean?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Molly Maid takes care of your whole home! <a href=\\\"/Neighborly/cpt_internal/698787\\\">Our services</a> are the definition of comprehensive. We give your kitchen a thorough cleaning, and bathrooms sparkle after we're done. Your living room is cozy and inviting after we clean.</p>\\n<p>All bedrooms get our attention, with beds made and dust gone. Our professional home cleaners ensure every room you want cleaned is a delight for you to come back to. If you&rsquo;ve been looking for the best <a href=\\\"/Neighborly/cpt_internal/692434\\\">local home cleaning services</a> near you, Molly Maid is the right choice.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "5555b78b-bab9-452e-af87-5a391741b9c5",
+        "question": {
+          "value": "Do I Need To Be Home During My Appointment?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Do I Need To Be Home During My Appointment?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Most of our residential cleaning services occur during the day when our clients are away or at work. Our house cleaning professionals are usually entrusted with a key or garage code to make things easy for our clients. Whichever option you prefer, we&rsquo;ll work with you to meet your specific cleaning needs.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Most of our residential cleaning services occur during the day when our clients are away or at work. Our house cleaning professionals are usually entrusted with a key or garage code to make things easy for our clients. Whichever option you prefer, we’ll work with you to meet your specific cleaning needs.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Do I Need To Be Home During My Appointment?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Most of our residential cleaning services occur during the day when our clients are away or at work. Our house cleaning professionals are usually entrusted with a key or garage code to make things easy for our clients. Whichever option you prefer, we&rsquo;ll work with you to meet your specific cleaning needs.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "11307cb9-7515-4734-8ca0-9145a8e0c0ba",
+        "question": {
+          "value": "What is The Neighborly Done Right Promise®?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What is The Neighborly Done Right Promise®?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Neighborly Done Right Promise&reg; delivered by Molly Maid&reg; ensures outstanding service. If something isn't right, contact us by the next business day and we'll make it right, at no extra cost. Trusted for 40+ years to get the job done right. <a href=\\\"/Neighborly/cpt_internal/720644\\\">Learn More</a>.</p>\\n<p>Molly Maid is proud to be a Neighborly company.We're part of a network of home service professionals who offer trusted, friendly and fast home services for your entire home. From plumbing to electrical, appliance repair to handyman service, Neighborly has you covered. <a href=\\\"/Neighborly/cpt_internal/707715\\\">Learn More About Neighborly</a>.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Neighborly Done Right Promise® delivered by Molly Maid® ensures outstanding service. If something isn't right, contact us by the next business day and we'll make it right, at no extra cost. Trusted for 40+ years to get the job done right. Learn More. Molly Maid is proud to be a Neighborly company.We're part of a network of home service professionals who offer trusted, friendly and fast home services for your entire home. From plumbing to electrical, appliance repair to handyman service, Neighborly has you covered. Learn More About Neighborly.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What is The Neighborly Done Right Promise®?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Neighborly Done Right Promise&reg; delivered by Molly Maid&reg; ensures outstanding service. If something isn't right, contact us by the next business day and we'll make it right, at no extra cost. Trusted for 40+ years to get the job done right. <a href=\\\"/Neighborly/cpt_internal/720644\\\">Learn More</a>.</p>\\n<p>Molly Maid is proud to be a Neighborly company.We're part of a network of home service professionals who offer trusted, friendly and fast home services for your entire home. From plumbing to electrical, appliance repair to handyman service, Neighborly has you covered. <a href=\\\"/Neighborly/cpt_internal/707715\\\">Learn More About Neighborly</a>.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "419dca54-e4eb-48fe-9d13-b5db9cf56bae",
+        "question": {
+          "value": "What Is Our Home Cleaning Process?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What Is Our Home Cleaning Process?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Our cleaning process is easy and thorough. First, our friendly team arrives on time, ready to make your home shine. We start by cleaning up each room and dusting all surfaces while removing dirt and allergens. We clean countertops, appliances, and the sink in the kitchen so it shines. Bathrooms can get messy quickly, so we give them special attention, from scrubbing toilets to cleaning counters and wiping mirrors.</p>\\n<p>If you&rsquo;re looking for <a href=\\\"/Neighborly/cpt_internal/698787\\\">cleaning services near me</a> that cover it all, Molly Maid is the answer. We ensure that floors are vacuumed and mopped throughout the house, making them clean and fresh. Want your bedrooms to be cozy retreats? Come home to neatly made beds and refreshed rooms. We also tackle additional spaces, like hallways and entryways, to ensure no areas are overlooked.</p>\\n<p>Whether you&rsquo;re looking for recurring cleaning services, occasional cleaning, or helping with cleaning during a move, our goal is to leave your home spotless and inviting. We take care of the details so you can relax and enjoy your clean, comfortable space.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Our cleaning process is easy and thorough. First, our friendly team arrives on time, ready to make your home shine. We start by cleaning up each room and dusting all surfaces while removing dirt and allergens. We clean countertops, appliances, and the sink in the kitchen so it shines. Bathrooms can get messy quickly, so we give them special attention, from scrubbing toilets to cleaning counters and wiping mirrors. If you’re looking for cleaning services near me that cover it all, Molly Maid is the answer. We ensure that floors are vacuumed and mopped throughout the house, making them clean and fresh. Want your bedrooms to be cozy retreats? Come home to neatly made beds and refreshed rooms. We also tackle additional spaces, like hallways and entryways, to ensure no areas are overlooked. Whether you’re looking for recurring cleaning services, occasional cleaning, or helping with cleaning during a move, our goal is to leave your home spotless and inviting. We take care of the details so you can relax and enjoy your clean, comfortable space.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What Is Our Home Cleaning Process?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Our cleaning process is easy and thorough. First, our friendly team arrives on time, ready to make your home shine. We start by cleaning up each room and dusting all surfaces while removing dirt and allergens. We clean countertops, appliances, and the sink in the kitchen so it shines. Bathrooms can get messy quickly, so we give them special attention, from scrubbing toilets to cleaning counters and wiping mirrors.</p>\\n<p>If you&rsquo;re looking for <a href=\\\"/Neighborly/cpt_internal/698787\\\">cleaning services near me</a> that cover it all, Molly Maid is the answer. We ensure that floors are vacuumed and mopped throughout the house, making them clean and fresh. Want your bedrooms to be cozy retreats? Come home to neatly made beds and refreshed rooms. We also tackle additional spaces, like hallways and entryways, to ensure no areas are overlooked.</p>\\n<p>Whether you&rsquo;re looking for recurring cleaning services, occasional cleaning, or helping with cleaning during a move, our goal is to leave your home spotless and inviting. We take care of the details so you can relax and enjoy your clean, comfortable space.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "5526a078-9944-46f1-adfb-a57c5f955655",
+        "question": {
+          "value": "What Other Services Does Molly Maid Provide?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What Other Services Does Molly Maid Provide?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>We offer cleaning services for any occasion. For a list of all the cleaning services our teams provide, visit <a href=\\\"/Neighborly/cpt_internal/698787\\\">our services</a> page to determine the services that best suit your needs.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "We offer cleaning services for any occasion. For a list of all the cleaning services our teams provide, visit our services page to determine the services that best suit your needs.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What Other Services Does Molly Maid Provide?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>We offer cleaning services for any occasion. For a list of all the cleaning services our teams provide, visit <a href=\\\"/Neighborly/cpt_internal/698787\\\">our services</a> page to determine the services that best suit your needs.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "a6f981f4-e5c9-4032-a4bd-3837d9768701",
+        "question": {
+          "value": "How long has Molly Maid been in business?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How long has Molly Maid been in business?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Since 1984, customers have welcomed the trusted cleaning professionals from locally owned and operated Molly Maid businesses into their homes. We&rsquo;ve provided cleaning services to over a million customers, and want you to know that you can continue to rely on us to go above and beyond to provide you with a worry-free, top-notch cleaning service every time.</p>\\n<p>Taking care of homes and those in them is what we do best. We firmly believe a healthy home is a clean home!</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Since 1984, customers have welcomed the trusted cleaning professionals from locally owned and operated Molly Maid businesses into their homes. We’ve provided cleaning services to over a million customers, and want you to know that you can continue to rely on us to go above and beyond to provide you with a worry-free, top-notch cleaning service every time. Taking care of homes and those in them is what we do best. We firmly believe a healthy home is a clean home!",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How long has Molly Maid been in business?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Since 1984, customers have welcomed the trusted cleaning professionals from locally owned and operated Molly Maid businesses into their homes. We&rsquo;ve provided cleaning services to over a million customers, and want you to know that you can continue to rely on us to go above and beyond to provide you with a worry-free, top-notch cleaning service every time.</p>\\n<p>Taking care of homes and those in them is what we do best. We firmly believe a healthy home is a clean home!</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "d33560db-de6b-47dd-9b4b-edb10d12a0da",
+        "question": {
+          "value": "Why should I trust Molly Maid?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why should I trust Molly Maid?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Molly Maid is the most renowned, trusted name in professional cleaning services&nbsp;<a href=\\\"/Neighborly/cpt_internal/692434\\\">across the country</a>. We have hundreds of locations, so just search for \\\"cleaning services near me\\\" and pick the closest Molly Maid to your home.</p>\\n<p>Since 1984 we've provided customized cleaning that delivers a high-level clean and unsurpassed customer service. Each of our cleaning team members is vetted, professionally trained, and insured for the protection of our customers and associates.</p>\\n<p>Because Molly Maid is a part of the Neighborly team of service professionals, our services are backed by the&nbsp;<a href=\\\"/Neighborly/cpt_internal/748247\\\">Neighborly Done Right Promise&reg;</a>. If you're not satisfied with our maid cleaning services, contact us within by the end of the next business day, and we'll make it right.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Molly Maid is the most renowned, trusted name in professional cleaning services across the country. We have hundreds of locations, so just search for \"cleaning services near me\" and pick the closest Molly Maid to your home. Since 1984 we've provided customized cleaning that delivers a high-level clean and unsurpassed customer service. Each of our cleaning team members is vetted, professionally trained, and insured for the protection of our customers and associates. Because Molly Maid is a part of the Neighborly team of service professionals, our services are backed by the Neighborly Done Right Promise®. If you're not satisfied with our maid cleaning services, contact us within by the end of the next business day, and we'll make it right.",
+          "origin": "inferred",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why should I trust Molly Maid?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Molly Maid is the most renowned, trusted name in professional cleaning services&nbsp;<a href=\\\"/Neighborly/cpt_internal/692434\\\">across the country</a>. We have hundreds of locations, so just search for \\\"cleaning services near me\\\" and pick the closest Molly Maid to your home.</p>\\n<p>Since 1984 we've provided customized cleaning that delivers a high-level clean and unsurpassed customer service. Each of our cleaning team members is vetted, professionally trained, and insured for the protection of our customers and associates.</p>\\n<p>Because Molly Maid is a part of the Neighborly team of service professionals, our services are backed by the&nbsp;<a href=\\\"/Neighborly/cpt_internal/748247\\\">Neighborly Done Right Promise&reg;</a>. If you're not satisfied with our maid cleaning services, contact us within by the end of the next business day, and we'll make it right.</p>\"}}"
+            },
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Why should I trust Molly Maid?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>We&rsquo;re proud to offer professional housecleaning services and employ residential housekeepers who pride themselves on top-quality services. After undergoing an extensive background check, each member of our team is thoroughly trained on every step of our detailed cleaning plans. We also back all of our work with the <a href=\\\"/Neighborly/cpt_internal/748247\\\">Neighborly Done Right Promise<sup>&reg;</sup></a>. These are just a few of the many reasons why customers trust Molly Maid.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "e2d2d27f-8d7d-4aa6-8ece-b646437054fd",
+        "question": {
+          "value": "What should I do before Molly Maid arrives?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What should I do before Molly Maid arrives?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>To ensure you get the most from your cleaning team, please clear floors of toys, clothes, and other items. If you have pets, please locate them in a comfortable area of your home while we clean. Please make sure to let your cleaners know if your cleaning needs have changed prior to arrival.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "To ensure you get the most from your cleaning team, please clear floors of toys, clothes, and other items. If you have pets, please locate them in a comfortable area of your home while we clean. Please make sure to let your cleaners know if your cleaning needs have changed prior to arrival.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What should I do before Molly Maid arrives?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>To ensure you get the most from your cleaning team, please clear floors of toys, clothes, and other items. If you have pets, please locate them in a comfortable area of your home while we clean. Please make sure to let your cleaners know if your cleaning needs have changed prior to arrival.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "9646d64a-21ae-449c-a5d0-027891931593",
+        "question": {
+          "value": "How often can you clean my home?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How often can you clean my home?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Molly Maid is happy to provide service once a week, every other week, or at any frequency that meets your needs. Remember, there are no contracts with Molly Maid, so you can always adjust the frequency and services provided. No matter how often you need your home cleaned, we have a plan.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Molly Maid is happy to provide service once a week, every other week, or at any frequency that meets your needs. Remember, there are no contracts with Molly Maid, so you can always adjust the frequency and services provided. No matter how often you need your home cleaned, we have a plan.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How often can you clean my home?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Molly Maid is happy to provide service once a week, every other week, or at any frequency that meets your needs. Remember, there are no contracts with Molly Maid, so you can always adjust the frequency and services provided. No matter how often you need your home cleaned, we have a plan.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "a31dc0f0-7bf6-4950-a5e3-3c8b86ea6914",
+        "question": {
+          "value": "How much does a cleaning service cost with Molly Maid?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How much does a cleaning service cost with Molly Maid?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Because we customize our cleaning services, the cost to clean your home will depend on the services you choose, the size of your home, its condition, and other factors. No matter your cleaning needs, count on us for a plan that fits your schedule and budget.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Because we customize our cleaning services, the cost to clean your home will depend on the services you choose, the size of your home, its condition, and other factors. No matter your cleaning needs, count on us for a plan that fits your schedule and budget.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How much does a cleaning service cost with Molly Maid?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Because we customize our cleaning services, the cost to clean your home will depend on the services you choose, the size of your home, its condition, and other factors. No matter your cleaning needs, count on us for a plan that fits your schedule and budget.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "12f16ca8-f382-45cb-9afe-9dc2f4722f9b",
+        "question": {
+          "value": "What types of cleaning products does Molly Maid use?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What types of cleaning products does Molly Maid use?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Because we care about making your home as clean and healthful as possible, our team only uses cleaning products that meet our standards for safety and effectiveness. Many inexpensive cleaners are diluted and leave residue behind, while the concentrated cleaners we use are much more effective. We&rsquo;re also happy to provide&nbsp;<a href=\\\"/Neighborly/cpt_internal/761236\\\">eco-friendly cleaning solutions</a>&nbsp;for each of our cleaning services.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Because we care about making your home as clean and healthful as possible, our team only uses cleaning products that meet our standards for safety and effectiveness. Many inexpensive cleaners are diluted and leave residue behind, while the concentrated cleaners we use are much more effective. We’re also happy to provide eco-friendly cleaning solutions for each of our cleaning services.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What types of cleaning products does Molly Maid use?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Because we care about making your home as clean and healthful as possible, our team only uses cleaning products that meet our standards for safety and effectiveness. Many inexpensive cleaners are diluted and leave residue behind, while the concentrated cleaners we use are much more effective. We&rsquo;re also happy to provide&nbsp;<a href=\\\"/Neighborly/cpt_internal/761236\\\">eco-friendly cleaning solutions</a>&nbsp;for each of our cleaning services.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "09f082b9-39d9-4eaa-a9bc-c99b64a37590",
+        "question": {
+          "value": "How soon can I take cleaning off my to-do list?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How soon can I take cleaning off my to-do list?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Contact our team to schedule a free in-home consultation at no-obligation. We&rsquo;ll take the time to thoroughly inspect your property and discuss your budget, schedule, and cleaning preferences with you before providing a free estimate. With decades of industry experience, Molly Maid knows how to accommodate first-time customer requests.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Contact our team to schedule a free in-home consultation at no-obligation. We’ll take the time to thoroughly inspect your property and discuss your budget, schedule, and cleaning preferences with you before providing a free estimate. With decades of industry experience, Molly Maid knows how to accommodate first-time customer requests.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"How soon can I take cleaning off my to-do list?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Contact our team to schedule a free in-home consultation at no-obligation. We&rsquo;ll take the time to thoroughly inspect your property and discuss your budget, schedule, and cleaning preferences with you before providing a free estimate. With decades of industry experience, Molly Maid knows how to accommodate first-time customer requests.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "8122bdf5-2f82-4ef5-830e-909c0184269b",
+        "question": {
+          "value": "Can I provide my team with special instructions?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Can I provide my team with special instructions?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes! In fact, we encourage it. Your preferences give us the structure we need to enhance your cleaning experience and ensure that you&rsquo;re completely satisfied with your home&rsquo;s level of clean. In order to be sure that your preferences are recorded in your cleaning plan, we recommend that you call us directly. Our friendly office staff would be happy to log your needs in your file so you don&rsquo;t have to reiterate them every time we arrive for service.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "Yes! In fact, we encourage it. Your preferences give us the structure we need to enhance your cleaning experience and ensure that you’re completely satisfied with your home’s level of clean. In order to be sure that your preferences are recorded in your cleaning plan, we recommend that you call us directly. Our friendly office staff would be happy to log your needs in your file so you don’t have to reiterate them every time we arrive for service.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Can I provide my team with special instructions?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>Yes! In fact, we encourage it. Your preferences give us the structure we need to enhance your cleaning experience and ensure that you&rsquo;re completely satisfied with your home&rsquo;s level of clean. In order to be sure that your preferences are recorded in your cleaning plan, we recommend that you call us directly. Our friendly office staff would be happy to log your needs in your file so you don&rsquo;t have to reiterate them every time we arrive for service.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "64df9ab4-0dfc-4854-9ff0-e6cc059f4dd7",
+        "question": {
+          "value": "Do you always send the same housecleaners?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Do you always send the same housecleaners?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>We believe that it&rsquo;s very important to always send the same team to clean your home and we do everything in our control to make this possible. If a member of your team is absent, we&rsquo;ll do our best to find the most suitable replacement. All of our residential housekeepers undergo extensive Molly Maid training to ensure that the quality of our work is always consistent.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "We believe that it’s very important to always send the same team to clean your home and we do everything in our control to make this possible. If a member of your team is absent, we’ll do our best to find the most suitable replacement. All of our residential housekeepers undergo extensive Molly Maid training to ensure that the quality of our work is always consistent.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"Do you always send the same housecleaners?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>We believe that it&rsquo;s very important to always send the same team to clean your home and we do everything in our control to make this possible. If a member of your team is absent, we&rsquo;ll do our best to find the most suitable replacement. All of our residential housekeepers undergo extensive Molly Maid training to ensure that the quality of our work is always consistent.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "508431cb-e27e-4569-9176-46f727982c57",
+        "question": {
+          "value": "What do you mean by \"window of arrival\"?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What do you mean by \\\"window of arrival\\\"?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>When you schedule housecleaning services with Molly Maid, we&rsquo;ll give you an arrival timeframe of three to four hours. Because we give homes the individualized attention they deserve, we&rsquo;re not able to provide an exact time of arrival, but we do our best to ensure that our cleaning plan doesn&rsquo;t interfere with your schedule.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "When you schedule housecleaning services with Molly Maid, we’ll give you an arrival timeframe of three to four hours. Because we give homes the individualized attention they deserve, we’re not able to provide an exact time of arrival, but we do our best to ensure that our cleaning plan doesn’t interfere with your schedule.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What do you mean by \\\"window of arrival\\\"?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>When you schedule housecleaning services with Molly Maid, we&rsquo;ll give you an arrival timeframe of three to four hours. Because we give homes the individualized attention they deserve, we&rsquo;re not able to provide an exact time of arrival, but we do our best to ensure that our cleaning plan doesn&rsquo;t interfere with your schedule.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "a1a3df48-89bb-4109-86af-3b4c5ec466de",
+        "question": {
+          "value": "What if something is missed?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What if something is missed?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>The cleaning methods we use ensure that your home receives the most consistent clean every time. During your first consultation, we&rsquo;ll create a customized cleaning plan that&rsquo;s designed to accommodate all of your specific requests. However, we do recognize that perfection is not always possible, which is why we back all of our work with a Neighborly Done Right Promise<sup>&reg;</sup>. We&rsquo;re happy to correct our mistakes at no additional cost to you when you contact us by the end of the next business day following your service.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "The cleaning methods we use ensure that your home receives the most consistent clean every time. During your first consultation, we’ll create a customized cleaning plan that’s designed to accommodate all of your specific requests. However, we do recognize that perfection is not always possible, which is why we back all of our work with a Neighborly Done Right Promise®. We’re happy to correct our mistakes at no additional cost to you when you contact us by the end of the next business day following your service.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What if something is missed?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>The cleaning methods we use ensure that your home receives the most consistent clean every time. During your first consultation, we&rsquo;ll create a customized cleaning plan that&rsquo;s designed to accommodate all of your specific requests. However, we do recognize that perfection is not always possible, which is why we back all of our work with a Neighborly Done Right Promise<sup>&reg;</sup>. We&rsquo;re happy to correct our mistakes at no additional cost to you when you contact us by the end of the next business day following your service.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      },
+      {
+        "id": "85699d2e-44d7-46df-a318-de6bc4b9300b",
+        "question": {
+          "value": "What time does your team arrive?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What time does your team arrive?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>While we cannot warranty our exact time of arrival because we give every home the attention it deserves and requires, we do offer arrival windows for your convenience. Molly Maid uses a unique &ldquo;on-time arrival&rdquo; software to log your preferences so our services are as minimally disruptive as possible.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "answer": {
+          "value": "While we cannot warranty our exact time of arrival because we give every home the attention it deserves and requires, we do offer arrival windows for your convenience. Molly Maid uses a unique “on-time arrival” software to log your preferences so our services are as minimally disruptive as possible.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "{\"@type\":\"Question\",\"name\":\"What time does your team arrive?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"<p>While we cannot warranty our exact time of arrival because we give every home the attention it deserves and requires, we do offer arrival windows for your convenience. Molly Maid uses a unique &ldquo;on-time arrival&rdquo; software to log your preferences so our services are as minimally disruptive as possible.</p>\"}}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        }
+      }
+    ],
+    "testimonials": [],
+    "trustSignals": []
+  },
+  "marketing": {
+    "voice": {
+      "formality": "conversational",
+      "emoji": "none",
+      "length": "balanced",
+      "pronoun": null,
+      "callsCustomers": "",
+      "avoid": [],
+      "writingSamples": [],
+      "chosenAt": null
+    },
+    "claims": [
+      {
+        "id": "289e04f2-4878-4b28-b7e4-d014bcded074",
+        "text": {
+          "value": "We’ve been around over 40 years and know how to provide the best clean within your budget and schedule, and with no term contracts.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "We’ve been around over 40 years and know how to provide the best clean within your budget and schedule, and with no term contracts. With our 44-point checklist, it’s a clean you can count on. If it’s not done right, we’ll make it right."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "6d9913d3-a18c-4edf-9db0-53b68dc4866b",
+        "text": {
+          "value": "Our employees are trained, insured and background checked for peace of mind.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "Our employees are trained, insured and background checked for peace of mind. We are locally owned and operated."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "91cd1c5b-d0c3-4361-8284-90a50744b2b7",
+        "text": {
+          "value": "Looking for the best home cleaning services near you?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "Looking for the best home cleaning services near you? Look no further than Molly Maid's custom home cleaning services. We understand the challenges of maintaining a clean home amid a busy schedule. Our team is dedicated to providing top-notch home cleaning services tailored to your specific needs and preferences."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "6c0cb3ff-a989-46d2-a022-54038f98283a",
+        "text": {
+          "value": "Trust Molly Maid for the best home cleaning services that exceed your expectations.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "Don't settle for a one-size-fits-all approach to home cleaning. Trust Molly Maid for the best home cleaning services that exceed your expectations. Contact us today to schedule a consultation and experience the convenience and flexibility of our custom cleaning services."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "3c6e1dd4-e00a-4827-afe5-82776839a3b4",
+        "text": {
+          "value": "If you’ve been looking for the best local home cleaning services near you, Molly Maid is the right choice.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/",
+              "snippet": "All bedrooms get our attention, with beds made and dust gone. Our professional home cleaners ensure every room you want cleaned is a delight for you to come back to. If you’ve been looking for the best local home cleaning services near you, Molly Maid is the right choice."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "60860532-c760-4745-9fc9-c9cee6ba81f4",
+        "text": {
+          "value": "After all, not only do you want to hire the best house cleaning service you can, you want to make sure they’re professionals you can trust.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/about-us/",
+              "snippet": "Hiring someone to clean your home can feel like a big decision. After all, not only do you want to hire the best house cleaning service you can, you want to make sure they’re professionals you can trust. Molly Maid is a well-known and established cleaning company—every franchise is fully insured, and every employee is fully vetted. That means you can rest easy with Molly Maid in your home."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "4d55ac62-dad7-46e6-8104-bacdf66e8acb",
+        "text": {
+          "value": "Molly Maid is a well-known and established cleaning company—every franchise is fully insured, and every employee is fully vetted.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/about-us/",
+              "snippet": "Hiring someone to clean your home can feel like a big decision. After all, not only do you want to hire the best house cleaning service you can, you want to make sure they’re professionals you can trust. Molly Maid is a well-known and established cleaning company—every franchise is fully insured, and every employee is fully vetted. That means you can rest easy with Molly Maid in your home."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "f9d854ff-b92f-4fc0-8394-9c818080ab31",
+        "text": {
+          "value": "Molly Maid can help you select the best cleaning services for your needs and create a tailor-made cleaning schedule for your home.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "If your busy schedule leaves little time for house cleaning, Molly Maid cleaning services can help. Have you considered investing in recurring cleaning services for your home? You may be surprised by the benefits. We provide affordable, customized cleaning plans that fit your cleaning needs and schedule so you can spend more time with family and friends. Molly Maid can help you select the best cleaning services for your needs and create a tailor-made cleaning schedule for your home. Our customized cleaning services are here to make your life easier and your home a cleaner and more healthful place to live."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "f00376cd-f18a-4b12-8d6c-de334a210757",
+        "text": {
+          "value": "Moving is a challenge even under the best circumstances, so why not let us help make your big move easier?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "Moving is a challenge even under the best circumstances, so why not let us help make your big move easier? Our move-in cleaning services will help you get off to a fresh start in your new home with a top-to-bottom cleaning. To get you on the road more quickly, our move-out service will clean your previous home and get it move-in ready."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "a27dbe1a-ff8a-49dd-8dc5-e9b044191326",
+        "text": {
+          "value": "Each of our cleaning team members is vetted, professionally trained, and insured for the protection of our customers and associates.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/our-services/",
+              "snippet": "Since 1984 we've provided customized cleaning that delivers a high-level clean and unsurpassed customer service. Each of our cleaning team members is vetted, professionally trained, and insured for the protection of our customers and associates."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "3a621111-f1c2-48a0-b772-8dbac6f71e76",
+        "text": {
+          "value": "You can rest assured that all of our professional housecleaners are fully trained and insured.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "You can rest assured that all of our professional housecleaners are fully trained and insured. We respect all of our customers by never smoking, drinking, eating, or using appliances during our home cleanings. We wear our nationally recognized uniforms with pride and confidently carry out services that exceed expectations. We also undergo regular training to ensure that we’re always up to date with all of the latest and greatest cleaning techniques. For additional safety and peace of mind, the work we perform for each customer is held accountable by a trusted and experienced supervisor."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "ae347bf6-4ab8-424b-ab3e-4fa3676017a6",
+        "text": {
+          "value": "In a majority of these cases, our insured housecleaning professionals are provided with a spare key or garage code.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "No. Because we work on an 8 a.m. to 5 p.m. schedule, Monday to Friday, most of our customers aren’t home when we arrive. In a majority of these cases, our insured housecleaning professionals are provided with a spare key or garage code."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "b6b9cd6c-917a-4820-b1af-b28a48dc4a34",
+        "text": {
+          "value": "Our residential housekeepers are fully insured, so claims can be filed when appropriate.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "At Molly Maid, we treat every single home we clean with the utmost respect. If something happens to break during our routine service, we’ll do our best to repair or replace the item. Our residential housekeepers are fully insured, so claims can be filed when appropriate."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "2467a7d0-3079-46ae-904a-45fa625d8b53",
+        "text": {
+          "value": "We’re fully licensed and insured for your peace of mind.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "Molly Maid is proud to be a worry-free housecleaning service solution. This means that we take care of any personal liability with regard to social security taxes and work-related injuries. We’re fully licensed and insured for your peace of mind."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "825a1f55-5500-4482-91d5-af2248c4ebb1",
+        "text": {
+          "value": "We’re proud to use the best products and vacuums on the market to ensure that we leave your home looking spotless.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "No. We arrive with all of the cleaning materials we need and take them with us when we leave. We’re proud to use the best products and vacuums on the market to ensure that we leave your home looking spotless."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "4505b512-1c37-47cc-b42b-d704f0bb441e",
+        "text": {
+          "value": "We value our customers’ opinions and it’s our customer feedback that has helped us become the best home cleaning company in the industry.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "You’re welcome to share your thoughts about our services on our Molly Maid Facebook page, which offers inside information on tips, deals, and promotions. You can also follow our blog and subscribe to our cleaning tips e-newsletter. We value our customers’ opinions and it’s our customer feedback that has helped us become the best home cleaning company in the industry."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "569f9b8f-1c5b-43fd-befa-e69245215c0f",
+        "text": {
+          "value": "Some individual cleaning companies are able to offer lower rates because they don’t cover liability insurance or workers compensation.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://www.mollymaid.com/faqs/",
+              "snippet": "We’re recognized for being affordable and flexible. Some individual cleaning companies are able to offer lower rates because they don’t cover liability insurance or workers compensation. Molly Maid is proud to provide these benefits that ensure our customers’ peace of mind while still being able to offer competitive rates for our services."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:51.110Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      }
+    ],
+    "promotions": [],
+    "preferredCallToAction": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "customersWanted": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "customersNotSuitable": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "triggerMoments": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:51.108Z"
+    },
+    "genericPhrasesToAvoid": []
+  },
+  "sources": [
+    {
+      "url": "https://www.mollymaid.com/",
+      "title": "House Cleaning Services | Molly Maid Services",
+      "fetchedAt": "2026-10-19T03:17:27.076Z",
+      "headings": [
+        "Our Cleaning Services",
+        "Every Home Deserves a Friend Like Molly",
+        "What is The Neighborly Done Right Promise®?",
+        "Customer Reviews",
+        "How Molly Maid Can Meet Your Cleaning Needs",
+        "Residential Services",
+        "Perfect Gift",
+        "Practically Spotless Blog",
+        "Ms. Molly Foundation",
+        "Find a Molly Maid Near Me",
+        "Why Choose Us?",
+        "Home Cleaning Services We Provide",
+        "Our Approach: Custom Home Cleaning",
+        "Recurring Cleaning",
+        "One Time Cleaning",
+        "Occasional Cleaning",
+        "Home Cleaning",
+        "Apartment and Condo Cleaning",
+        "Move-In Cleaning",
+        "Move Out Cleaning",
+        "Special Event Cleaning",
+        "Eco Friendly Cleaning",
+        "How Often Should I Have My House Cleaned?",
+        "The Ultimate Cleaning Schedule for Working Moms and Dads",
+        "House Cleaning Tips for Seniors and Loved Ones",
+        "Cleaning Tips",
+        "Cleaning Tips on How to Remove Allergens from Your Home",
+        "Stain Removal Techniques: Tips & Guidelines",
+        "Free Printable Kids Chore Charts",
+        "Reliable Answers to Our Most Common Questions",
+        "Join Our Team"
+      ],
+      "paragraphs": [
+        "Neighborly Done Right Promise® delivered by Molly Maid® ensures outstanding service. If your service isn't right, contact us by the next business day and we'll make it right, at no extra cost. Trusted for 40+ years to get the job done right.",
+        "At Molly Maid®, we take great pride in delivering the highest-quality residential cleaning services near you. We offer cleaning services and home cleaning tips to homeowners with the help of our well-trained home cleaning pros. Molly Maid does everything we can to ensure that you are left with a spic-and-span home after every cleaning visit.",
+        "Choose a plan to fit your needs—no contracts, no hassle.",
+        "Give the gift of time with a Molly Maid gift certificate.",
+        "Get expert advice from our team of cleaning specialists.",
+        "We’ve been around over 40 years and know how to provide the best clean within your budget and schedule, and with no term contracts. With our 44-point checklist, it’s a clean you can count on. If it’s not done right, we’ll make it right.",
+        "Our employees are trained, insured and background checked for peace of mind. We are locally owned and operated.",
+        "Don’t settle for a one-size-fits-all approach to cleaning. Let us create a customized cleaning plan tailored to you and your needs.",
+        "We know you’re busy, so we make it easy to get an estimate and schedule an appointment. Book online or give us a call directly.",
+        "Looking for the best home cleaning services near you? Look no further than Molly Maid's custom home cleaning services. We understand the challenges of maintaining a clean home amid a busy schedule. Our team is dedicated to providing top-notch home cleaning services tailored to your specific needs and preferences.",
+        "At Molly Maid, we offer unmatched flexibility in our cleaning services. Our team collaborates closely with you to develop a tailored cleaning plan that suits your lifestyle and budget. Whether you require regular cleaning, assistance with move-in cleaning, or a one-time specific cleaning, we've got you covered.",
+        "Don't settle for a one-size-fits-all approach to home cleaning. Trust Molly Maid for the best home cleaning services that exceed your expectations. Contact us today to schedule a consultation and experience the convenience and flexibility of our custom cleaning services.",
+        "Some of our custom home cleaning services include:",
+        "Have more questions about your home cleaning appointment? Check out our FAQ page.",
+        "Neighborly Done Right Promise® delivered by Molly Maid® ensures outstanding service. If something isn't right, contact us by the next business day and we'll make it right, at no extra cost. Trusted for 40+ years to get the job done right. Learn More.",
+        "Molly Maid is proud to be a Neighborly company.We're part of a network of home service professionals who offer trusted, friendly and fast home services for your entire home. From plumbing to electrical, appliance repair to handyman service, Neighborly has you covered. Learn More About Neighborly.",
+        "Since 1984, customers have welcomed the trusted cleaning professionals from locally owned and operated Molly Maid businesses into their homes. We’ve provided cleaning services to over a million customers, and want you to know that you can continue to rely on us to go above and beyond to provide you with a worry-free, top-notch cleaning service every time.",
+        "Taking care of homes and those in them is what we do best. We firmly believe a healthy home is a clean home!",
+        "Life is busy, which means you can’t always complete everything on your to-do list. Molly Maid allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right. Our residential home cleaning service is dedicated to making your life easier. We've built a reputation for top-notch cleaning that you can trust. Our detailed approach covers every room and corner, leaving no mess behind.",
+        "You deserve a clean, comfortable space; we're here to deliver it.",
+        "As part of the Neighborly family of home service brands, we uphold high standards and prioritize your satisfaction. Choose Molly Maid for a cleaner, healthier home that allows you to focus on what matters most to you. Request a free estimate now!",
+        "Molly Maid takes care of your whole home! Our services are the definition of comprehensive. We give your kitchen a thorough cleaning, and bathrooms sparkle after we're done. Your living room is cozy and inviting after we clean.",
+        "All bedrooms get our attention, with beds made and dust gone. Our professional home cleaners ensure every room you want cleaned is a delight for you to come back to. If you’ve been looking for the best local home cleaning services near you, Molly Maid is the right choice.",
+        "Our cleaning process is easy and thorough. First, our friendly team arrives on time, ready to make your home shine. We start by cleaning up each room and dusting all surfaces while removing dirt and allergens. We clean countertops, appliances, and the sink in the kitchen so it shines. Bathrooms can get messy quickly, so we give them special attention, from scrubbing toilets to cleaning counters and wiping mirrors.",
+        "If you’re looking for cleaning services near me that cover it all, Molly Maid is the answer. We ensure that floors are vacuumed and mopped throughout the house, making them clean and fresh. Want your bedrooms to be cozy retreats? Come home to neatly made beds and refreshed rooms. We also tackle additional spaces, like hallways and entryways, to ensure no areas are overlooked.",
+        "Whether you’re looking for recurring cleaning services, occasional cleaning, or helping with cleaning during a move, our goal is to leave your home spotless and inviting. We take care of the details so you can relax and enjoy your clean, comfortable space.",
+        "We offer cleaning services for any occasion. For a list of all the cleaning services our teams provide, visit our services page to determine the services that best suit your needs.",
+        "Molly Maid doesn’t just promise a thorough clean, we back it up. The Neighborly Done Right Promise® is our commitment to excellence, ensuring that our cleaning services for residential homes are held to the highest standards. We prioritize your satisfaction and the quality of our services. From the moment we step into your home, we bring professionalism and cleaning expertise.",
+        "Our skilled team treats your space with care, ensuring thorough cleaning throughout your home. If something doesn't meet your expectations, we'll make it right.",
+        "We value your trust and aim to provide exceptional service that leaves your home gleaming and you smiling."
+      ]
+    },
+    {
+      "url": "https://www.mollymaid.com/about-us/",
+      "title": "About Us | House Cleaning Services | Home Cleaning | Molly Maid",
+      "fetchedAt": "2026-10-19T03:17:29.955Z",
+      "headings": [
+        "About Our Professional Housecleaners",
+        "We Clean Houses",
+        "A Maid Service You Can Trust",
+        "Trusted by Thousands of Families",
+        "We live our Code of Values by ...",
+        "Respect",
+        "Integrity",
+        "Customer Focus",
+        "Having Fun In The Process!",
+        "Practically Spotless Blog",
+        "How Often Should I Have My House Cleaned?",
+        "The Ultimate Cleaning Schedule for Working Moms and Dads",
+        "House Cleaning Tips for Seniors and Loved Ones",
+        "Cleaning Tips",
+        "Cleaning Tips on How to Remove Allergens from Your Home",
+        "Stain Removal Techniques: Tips & Guidelines",
+        "Free Printable Kids Chore Charts",
+        "Find a Molly Maid Near Me"
+      ],
+      "paragraphs": [
+        "In 1984, entrepreneur David McKinnon brought Molly Maid from Canada to Ann Arbor, Michigan, to give busy American homeowners a reliable, professional, affordable solution to messy, dirty houses. Residents of the competitive university town took advantage of the new home cleaning service, which quickly expanded to communities in other states. Today, there are more than 450 individually owned Molly Maid cleaning service franchises operating across the United States. Last year, we performed 1.7 million cleaning services, 90 percent of which were for repeat customers.",
+        "American workers are among the most productive in the entire world and have been for decades. Dual-income families are a fixture and so are work weeks and commutes that stretch beyond 40 hours into nights and weekends. Kids have homework, practice, rehearsals, sports meets, and a variety of other activities that require many parents to spend even more time out of the house.",
+        "Working most commonly on a weekly or every other week schedule, Molly Maid gives busy individuals and families clean, comfortable homes to return to and enjoy—homes cleaned according to their individual wishes and services backed by the Neighborly Done Right Promise®.",
+        "Thanks to the success of Molly Maid, McKinnon was inducted into the Entrepreneurship Hall of Fame in 2013. McKinnon says, “I always tell people that Molly Maid is a simple business: We clean houses.”",
+        "Hiring someone to clean your home can feel like a big decision. After all, not only do you want to hire the best house cleaning service you can, you want to make sure they’re professionals you can trust. Molly Maid is a well-known and established cleaning company—every franchise is fully insured, and every employee is fully vetted. That means you can rest easy with Molly Maid in your home.",
+        "Molly Maid has always looked for ways to give back to our communities. Our locally owned and operated franchises are part of the communities they serve. Through the Ms. Molly Foundation, we empower those communities to fight domestic violence and help give victims the opportunity to live happily. Molly Maid believes everyone deserves to feel comfortable and safe in their own homes.",
+        "Listening with the intent to understand what is being said and acknowledging that what is said is important to the speaker.",
+        "Speaking calmly, and respectfully, without profanity or sarcasm.",
+        "Acknowledging everyone as right from their own perspective.",
+        "Making only agreements we are willing, able and intend to keep.",
+        "Communicating any potentially broken agreements at the first appropriate opportunity to all parties concerned.",
+        "Looking to the system for correction and proposing all possible solutions if something is not working.",
+        "Operating in a responsible manner: \"above the line.\"",
+        "Asking clarifying questions if we disagree or do not understand.",
+        "Never saying anything about anyone that we would not say to him or her.",
+        "Continuously striving to maximize internal and external customer loyalty.",
+        "Making our best effort to understand and appreciate the customer's needs in every situation."
+      ]
+    },
+    {
+      "url": "https://www.mollymaid.com/our-services/",
+      "title": "Cleaning Services | Molly Maid",
+      "fetchedAt": "2026-10-19T03:17:33.240Z",
+      "headings": [
+        "Professional Cleaning Services Near Me",
+        "Popular Services",
+        "Discover Stress-Free Living with Our Residential Services",
+        "Recurring Cleaning",
+        "Occasional Cleaning",
+        "Move-In & Move-Out Cleaning",
+        "Apartment & Condo Cleaning",
+        "Thorough Home Cleaning",
+        "Free Instant Quotes",
+        "Hear From Our Clients",
+        "FAQ About Our Cleaning Services",
+        "Practically Spotless Blog",
+        "What Is Included in General House Cleaning?",
+        "How Often Should I Have My House Cleaned?",
+        "Stain Removal Techniques: Tips & Guidelines",
+        "Join Our Team"
+      ],
+      "paragraphs": [
+        "If your busy schedule leaves little time for house cleaning, Molly Maid cleaning services can help. Have you considered investing in recurring cleaning services for your home? You may be surprised by the benefits. We provide affordable, customized cleaning plans that fit your cleaning needs and schedule so you can spend more time with family and friends. Molly Maid can help you select the best cleaning services for your needs and create a tailor-made cleaning schedule for your home. Our customized cleaning services are here to make your life easier and your home a cleaner and more healthful place to live.",
+        "See below for some of our most popular cleaning options. Enjoy a clean home more often, spend less time cleaning, and give your family a fresher, healthier environment.",
+        "At Molly Maid, we know that a clean home is a happy home, which is why we’re proud to offer comprehensive home cleaning services. Each of our cleaning services is performed by trained professionals who know how to get the job done right—and go the extra mile when needed.",
+        "We realize that every home presents unique cleaning challenges, so we accommodate specific requests into your cleaning plan. Because of our proven strategies and personalized cleaning plans, our team is equipped to clean your entire home every time efficiently and effectively.",
+        "Molly Maid understands how easily schedules and responsibilities can change. That uncertainty is why we're happy to revise your cleaning plan as needed. We’ll work with your cleaning preferences and schedule to ensure we provide a consistent, top-quality clean every time. Best of all, you’ll never have to sign a term contract when you partner with Molly Maid.",
+        "We could all use some help around our homes, and when you choose Molly Maid, you can get that help as often as you need it. Our regular maid services are available weekly, bi-weekly, or at a frequency that fits your schedule and cleaning needs.",
+        "Sometimes you run out of time before getting to all the things you need to do. Whether your cleaning routine has fallen behind or you simply want a break, Molly Maid has the solution. Our professional cleaners will clean your entire home, specific rooms, or wherever you need us to get things back on track with our proven one-time services.",
+        "Moving is a challenge even under the best circumstances, so why not let us help make your big move easier? Our move-in cleaning services will help you get off to a fresh start in your new home with a top-to-bottom cleaning. To get you on the road more quickly, our move-out service will clean your previous home and get it move-in ready.",
+        "Imagine having more time to enjoy life while maintaining a clean apartment. With our weekly maid services, you can make apartment living even more convenient and flexible. We'll vacuum, dust, and scrub away dirt and germs to create a cleaner and healthier apartment.",
+        "Our cleaning services are designed to cater to every corner and aspect of your living space. We specialize in cleaning common areas, bedrooms, kitchens, bathrooms, and more. Our comprehensive cleaning services ensure that your home is thoroughly cleaned and well-maintained. We prioritize attention to detail to create a clean and comfortable environment tailored to your specific needs.",
+        "Whether you choose from our extensive list of cleaning services or let us help you customize a cleaning plan, Molly Maid can help you get it all done. You can enjoy a clean home environment whenever you like, without doing all the work yourself. Get your free quote today!",
+        "Our cleaning team arrived promptly and started cleaning immediately. They were very friendly and took great care to ensure they did a good job. Im very impressed with the company so far! From the initial in-home estimate to the first cleaning! Even having a supervisor stop by to ensure the cleaning was done properly. I look forward to continue to work with the company.",
+        "Wow I am so impressed with Team #8 Araceli and Cristina! This is the first time I have had my home professionally cleaned and I can definitely say I will not hesitate to book with Molly Maid again. My home has never been cleaner and fresher. I would recommend Molly Maid to my friends and family in a heartbeat!",
+        "I was extremely pleased with the service that the staff did for me. The office was attentive to my request and was great with communication. They were thorough and were able to tackle a messy situation. I would highly recommend their service.",
+        "The team came to do a deep cleaning at my house this week and they did an amazing job. We were beyond grateful since my husband and I work and study at the same time we have little to no time for cleaning the house and Molly Maid's team made our house look incredible. We are beyond happy and grateful with the team and their service.",
+        "The Neighborly Done Right Promise? delivered by Molly Maid®, a proud Neighborly company.",
+        "Molly Maid knows you have a lot of questions about our services and why we usually recommend using a professional.",
+        "Because we customize our cleaning services, the cost to clean your home will depend on the services you choose, the size of your home, its condition, and other factors. No matter your cleaning needs, count on us for a plan that fits your schedule and budget.",
+        "To ensure you get the most from your cleaning team, please clear floors of toys, clothes, and other items. If you have pets, please locate them in a comfortable area of your home while we clean. Please make sure to let your cleaners know if your cleaning needs have changed prior to arrival.",
+        "Molly Maid is happy to provide service once a week, every other week, or at any frequency that meets your needs. Remember, there are no contracts with Molly Maid, so you can always adjust the frequency and services provided. No matter how often you need your home cleaned, we have a plan.",
+        "Because we care about making your home as clean and healthful as possible, our team only uses cleaning products that meet our standards for safety and effectiveness. Many inexpensive cleaners are diluted and leave residue behind, while the concentrated cleaners we use are much more effective. We’re also happy to provide eco-friendly cleaning solutions for each of our cleaning services.",
+        "Molly Maid is the most renowned, trusted name in professional cleaning services across the country. We have hundreds of locations, so just search for \"cleaning services near me\" and pick the closest Molly Maid to your home.",
+        "Since 1984 we've provided customized cleaning that delivers a high-level clean and unsurpassed customer service. Each of our cleaning team members is vetted, professionally trained, and insured for the protection of our customers and associates.",
+        "Because Molly Maid is a part of the Neighborly team of service professionals, our services are backed by the Neighborly Done Right Promise®. If you're not satisfied with our maid cleaning services, contact us within by the end of the next business day, and we'll make it right.",
+        "Staying on top of cleaning tasks while juggling a busy schedule can be challenging. Molly Maid® can help you streamline your routine for a more efficient and effective cleaning plan. Curious about what is included in general house cleaning? Let us walk you through our recommendations.",
+        "There’s no hard-and-fast answer to the question of how often to have your house cleaned. However, anyone thinking about hiring a cleaning service must pin down a schedule that works for them. Here are some factors to consider when deciding the frequency of professional cleanings.",
+        "Stains can ruin furniture, carpet, tile, and many other items. But that doesn’t have to be the case. Our stain removal guide will help you remove even the most stubborn stains, regardless of the type of stain and where it is found.",
+        "The moment you put on a Molly Maid® uniform, you become part of a family, a team of people committed to supporting one another. Molly Maid values taking care of our employees and proudly offers the opportunity to grow from a job into a career and a work culture of respect, integrity, and fun.",
+        "When you work with your local franchise owner, they’ll take care of you the way they take care of their own family and friends."
+      ]
+    },
+    {
+      "url": "https://www.mollymaid.com/faqs/",
+      "title": "FAQs | House Cleaning Services | Home Cleaning | Maid Service",
+      "fetchedAt": "2026-10-19T03:17:36.184Z",
+      "headings": [
+        "FAQs",
+        "Reliable Answers to Our Most Common Questions",
+        "Find a Molly Maid Near Me"
+      ],
+      "paragraphs": [
+        "Molly Maid is committed to your complete satisfaction, which is why we strive to offer the most consistent, reliable, and affordable housecleaning services around. Our team of experienced professionals has taken the time to answer some of our most frequently asked questions for your convenience.",
+        "We’re proud to offer professional housecleaning services and employ residential housekeepers who pride themselves on top-quality services. After undergoing an extensive background check, each member of our team is thoroughly trained on every step of our detailed cleaning plans. We also back all of our work with the Neighborly Done Right Promise®. These are just a few of the many reasons why customers trust Molly Maid.",
+        "You can rest assured that all of our professional housecleaners are fully trained and insured. We respect all of our customers by never smoking, drinking, eating, or using appliances during our home cleanings. We wear our nationally recognized uniforms with pride and confidently carry out services that exceed expectations. We also undergo regular training to ensure that we’re always up to date with all of the latest and greatest cleaning techniques. For additional safety and peace of mind, the work we perform for each customer is held accountable by a trusted and experienced supervisor.",
+        "At Molly Maid, we recognize the importance of communication, especially when it comes to important valuables in your home and any specific cleaning requests you may have. Our housecleaning franchise owners value your trust and do everything possible to earn it by performing reliable, affordable, top-notch cleaning services designed to meet your needs and exceed your expectations.",
+        "To ensure maximum efficiency, we ask that you pick up any toys or clothing before we arrive. We also ask that you find a place for your pets so they’re comfortable while we clean. Following through with these requests will help both your family and our team ensure that all of your possessions are in a safe place.",
+        "No. Because we work on an 8 a.m. to 5 p.m. schedule, Monday to Friday, most of our customers aren’t home when we arrive. In a majority of these cases, our insured housecleaning professionals are provided with a spare key or garage code.",
+        "While we cannot warranty our exact time of arrival because we give every home the attention it deserves and requires, we do offer arrival windows for your convenience. Molly Maid uses a unique “on-time arrival” software to log your preferences so our services are as minimally disruptive as possible.",
+        "When you schedule housecleaning services with Molly Maid, we’ll give you an arrival timeframe of three to four hours. Because we give homes the individualized attention they deserve, we’re not able to provide an exact time of arrival, but we do our best to ensure that our cleaning plan doesn’t interfere with your schedule.",
+        "At Molly Maid, we treat every single home we clean with the utmost respect. If something happens to break during our routine service, we’ll do our best to repair or replace the item. Our residential housekeepers are fully insured, so claims can be filed when appropriate.",
+        "The cleaning methods we use ensure that your home receives the most consistent clean every time. During your first consultation, we’ll create a customized cleaning plan that’s designed to accommodate all of your specific requests. However, we do recognize that perfection is not always possible, which is why we back all of our work with a Neighborly Done Right Promise®. We’re happy to correct our mistakes at no additional cost to you when you contact us by the end of the next business day following your service.",
+        "Molly Maid is proud to be a worry-free housecleaning service solution. This means that we take care of any personal liability with regard to social security taxes and work-related injuries. We’re fully licensed and insured for your peace of mind.",
+        "Our professional housecleaning services are designed to keep your home comfortable and clean. We customize services to accommodate your preferences so you never have to worry about paying for a service you don’t need or want.",
+        "To ensure we provide your home with the highest quality of care, we don’t typically:",
+        "We want to make sure that all of your belongings are in the right place when we leave, which is why we leave these organizational tasks to you. However, we’re happy to clean the inside of your cabinets, stove, and refrigerator upon request.",
+        "No. We arrive with all of the cleaning materials we need and take them with us when we leave. We’re proud to use the best products and vacuums on the market to ensure that we leave your home looking spotless.",
+        "If you have any preferences in regards to what cleaning products we use, feel free to let us know and we’ll do everything we can to work with your requests.",
+        "Molly Maid understands how unpredictable life can be. That’s why we work with your schedule to ensure that we’re cleaning your home at a time that’s most convenient for you. If you need to cancel or reschedule a cleaning, we recommend that you call about 72 business hours before your next scheduled service. We’ll do our best to accommodate all of your scheduling needs.",
+        "Thanks to our contract-free system, you never need to worry about being locked into a cleaning plan. Our flexibility is just one of the many Molly Maid perks and it helps us ensure the satisfaction of thousands of homeowners across the country.",
+        "During the event that one of your routine cleanings falls on a holiday, we’ll reach out to you. Our team will also remind you of any additional housecleaning services that we can provide you with so you can be prepared for the upcoming holiday. We’ll do our best to work with your schedule.",
+        "Payments are due on the day of your scheduled service. Most of our valued customers leave cash or a check on the kitchen counter, but we also accept credit card payments. If you do choose to write us a check, please make it payable to Molly Maid.",
+        "This method involves the practices and products used by cleaning companies to promote a better environment and a healthier home. Green cleaning solutions don’t contain ozone depleting chemicals or flammable substances that can irritate the skin and cause respiratory illnesses.",
+        "While most green cleaning products cannot remove all harmful forms of bacteria, Molly Maid strives to use the most appropriate methods for each service. In order to protect the environment, we utilize microfiber cloths and pads during our services, rather than paper. Not only is this practice better for the environment, microfiber picks up 99% of bacteria while cotton-based mops only pick up 30%.",
+        "Many cleaning companies falsely advertise green cleaning practices. We strive to be as transparent as possible and are happy to answer any questions you have regarding our eco-friendly practices.",
+        "Environmentalists use this term to describe companies that falsely advertise green cleaning services. For example, pouring bleach into a recycled container cannot be advertised as an eco-friendly practice because it misleads consumers to think that the contents of the bottle are environmentally friendly when they’re not.",
+        "Molly Maid believes in an honest approach to finding the right balance between green cleaning practices and a safe, healthy home that’s free of harmful bacteria.",
+        "Molly Maid goes above and beyond to use cleaners that are non-acidic and free of ammonia, alcohol, petroleum, and other toxic chemicals. We recommend that you balance the use of green cleaning products and disinfectants in your cleaning plan to ensure that your home is as healthy and clean as possible. Get in touch with our team to learn about the eco-friendly practices we carry out.",
+        "Our team strives to meet the community’s need for clean homes and balanced lives. That’s why we use microfiber instead of paper, refill bottles, and protect both our professional housecleaners and customers from unnecessary exposure to toxic chemicals.",
+        "Contact our team to schedule a free in-home consultation at no-obligation. We’ll take the time to thoroughly inspect your property and discuss your budget, schedule, and cleaning preferences with you before providing a free estimate. With decades of industry experience, Molly Maid knows how to accommodate first-time customer requests.",
+        "We’re proud to be recognized as a provider of affordable, top-quality housecleaning services. Our team works with every homeowner to develop a cleaning plan that’s customized to fit their needs. The costs of our services depend on the size of your home and what you’d like cleaned.",
+        "We can also add specialty services to your regular cleaning plan as needed, such as:"
+      ]
+    },
+    {
+      "url": "https://www.mollymaid.com/locations/",
+      "title": "Locations - Molly Maid",
+      "fetchedAt": "2026-10-19T03:17:40.807Z",
+      "headings": [
+        "Locations",
+        "Select Cities We Proudly Serve",
+        "Alabama",
+        "Arizona",
+        "Arkansas",
+        "California",
+        "Colorado",
+        "Connecticut",
+        "Delaware",
+        "District of Columbia",
+        "Florida",
+        "Georgia",
+        "Idaho",
+        "Illinois",
+        "Indiana",
+        "Iowa",
+        "Kansas",
+        "Kentucky",
+        "Louisiana",
+        "Maryland",
+        "Massachusetts",
+        "Michigan",
+        "Minnesota",
+        "Mississippi",
+        "Missouri",
+        "Nebraska",
+        "Nevada",
+        "New Hampshire",
+        "New Jersey",
+        "New Mexico",
+        "New York",
+        "North Carolina",
+        "Ohio",
+        "Oklahoma",
+        "Oregon",
+        "Pennsylvania",
+        "Puerto Rico",
+        "South Carolina",
+        "South Dakota",
+        "Tennessee"
+      ],
+      "paragraphs": [
+        "Searching through dozens of home and commercial service providers is a thing of the past. Rely on Neighborly’s national network of trusted, local service professionals for all your home and commercial service needs."
+      ]
+    },
+    {
+      "url": "https://www.mollymaid.com/about-us/a-neighborly-company/",
+      "title": "Molly Maid: A Neighborly Company | Affordable House Cleaning",
+      "fetchedAt": "2026-10-19T03:17:44.228Z",
+      "headings": [
+        "Neighborly®",
+        "Welcome to Our Community",
+        "Your Hub for Home Services"
+      ],
+      "paragraphs": [
+        "Molly Maid is proud to be a Neighborly® company. We know that in today’s world, not everyone is equipped to perform their own home repairs – nor do we have the time! When you need service done on your home, you want to feel confident calling a company you can trust to do the job right. From plumbing to electrical, appliance repair to maid service, Neighborly® has your entire home covered. Watch our video to learn more:"
+      ]
+    },
+    {
+      "url": "https://www.mollymaid.com/about-us/contact-national-office/",
+      "title": "Maid Service, Cleaning Services by Molly Maid",
+      "fetchedAt": "2026-10-19T03:17:47.038Z",
+      "headings": [
+        "Contact National Molly Maid Office",
+        "Contact Us",
+        "Get in Touch",
+        "Why Choose Us?",
+        "Find a Molly Maid Near Me"
+      ],
+      "paragraphs": [
+        "Whether you need to schedule an appointment, have questions, or just want to give us some feedback, Molly Maid is interested in hearing from you!",
+        "We’ve been around over 40 years and know how to provide the best clean within your budget and schedule, and with no term contracts. With our 44-point checklist, it’s a clean you can count on. If it’s not done right, we’ll make it right.",
+        "Our employees are trained, insured and background checked for peace of mind. We are locally owned and operated.",
+        "Don’t settle for a one-size-fits-all approach to cleaning. Let us create a customized cleaning plan tailored to you and your needs.",
+        "We know you’re busy, so we make it easy to get an estimate and schedule an appointment. Book online or give us a call directly."
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "url": "https://www.mollymaid.com/",
+      "message": "Different descriptions were found. The first value was selected for review."
+    },
+    {
+      "url": "https://www.mollymaid.com/faqs/",
+      "message": "Different answers found for \"Why should I trust Molly Maid?\". Review the retained answer and source evidence before using it."
+    }
+  ]
+}

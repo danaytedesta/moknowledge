@@ -1,0 +1,2943 @@
+{
+  "schemaVersion": "1.0",
+  "id": "401dfd44-f346-4f9a-8661-29dd4c4d42e8",
+  "createdAt": "2026-10-18T23:40:55.200Z",
+  "updatedAt": "2026-10-18T23:40:55.205Z",
+  "company": {
+    "name": {
+      "value": "Phin Smith",
+      "origin": "inferred",
+      "evidence": [
+        {
+          "sourceUrl": "https://phinsmith.com/",
+          "snippet": "Phin Smith – Vietnamese Coffee Shop | Find Your Cup"
+        },
+        {
+          "sourceUrl": "https://phinsmith.com/about/",
+          "snippet": "About – Phin Smith"
+        },
+        {
+          "sourceUrl": "https://phinsmith.com/contact/",
+          "snippet": "Contact – Phin Smith"
+        },
+        {
+          "sourceUrl": "https://phinsmith.com/menu/",
+          "snippet": "Menu – Phin Smith"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.205Z"
+    },
+    "description": {
+      "value": "Phin Smith is more than a coffee shop—it’s a collective of baristas, roasters, thinkers, students, artists, and recipe makers brought together by a shared passion for crafting memorable coffee experiences. We come from different backgrounds, but we’re united by a love of flavor, culture, and connection. But Phin Smith isn’t about us—it’s about you. Whether you’re chasing your next creative spark, pausing in the middle of a busy day, or simply craving something new, we hope every experience with us inspires you to travel, to discover, to learn, and ultimately, to find your cup.",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://phinsmith.com/about/",
+          "snippet": "Phin Smith is more than a coffee shop—it’s a collective of baristas, roasters, thinkers, students, artists, and recipe makers brought together by a shared passion for crafting memorable coffee experiences. We come from different backgrounds, but we’re united by a love of flavor, culture, and connection. But Phin Smith isn’t about us—it’s about you. Whether you’re chasing your next creative spark, pausing in the middle of a busy day, or simply craving something new, we hope every experience with us inspires you to travel, to discover, to learn, and ultimately, to find your cup."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.205Z"
+    },
+    "website": {
+      "value": "https://phinsmith.com/",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://phinsmith.com/",
+          "snippet": "https://phinsmith.com/"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "industry": {
+      "value": "Café / coffee shop",
+      "origin": "inferred",
+      "evidence": [
+        {
+          "sourceUrl": "https://phinsmith.com/",
+          "snippet": "Phin Smith – Vietnamese Coffee Shop | Find Your Cup"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.206Z"
+    },
+    "businessModel": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "companyRole": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "yearFounded": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "legalEntityType": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "employeeCount": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "mainAddress": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "otherLocations": [
+      {
+        "id": "a041a8e5-840a-4c5e-87e0-55815a36b9d3",
+        "label": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.205Z"
+        },
+        "address": {
+          "value": "12921 Main St, Garden Grove, CA 92840",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://phinsmith.com/",
+              "snippet": "12921 Main St Garden Grove, CA 92840"
+            },
+            {
+              "sourceUrl": "https://phinsmith.com/contact/",
+              "snippet": "12921 Main St Garden Grove, CA 92840"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.205Z"
+        }
+      },
+      {
+        "id": "8bb6a632-1bc7-4af3-8921-bbc091599e11",
+        "label": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.205Z"
+        },
+        "address": {
+          "value": "7208 S Jones Blvd #101, Las Vegas, NV 89118",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://phinsmith.com/",
+              "snippet": "7208 S Jones Blvd #101 Las Vegas, NV 89118"
+            },
+            {
+              "sourceUrl": "https://phinsmith.com/contact/",
+              "snippet": "7208 S Jones Blvd #101 Las Vegas, NV 89118"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.205Z"
+        }
+      }
+    ],
+    "serviceAreas": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "alternativeNames": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    }
+  },
+  "positioning": {
+    "pitch": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "foundingStory": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "differentiators": []
+  },
+  "market": {
+    "targetBuyers": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "customerNeeds": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "idealCustomerPersona": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "industryGroupings": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "industryOutlook": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "channels": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "funnels": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "callsToAction": [
+      {
+        "value": "Contact",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/",
+            "snippet": "Contact | href: https://phinsmith.com/contact/"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/about/",
+            "snippet": "Contact | href: https://phinsmith.com/contact/"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/contact/",
+            "snippet": "Contact | href: https://phinsmith.com/contact/"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Contact | href: https://phinsmith.com/contact/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.205Z"
+      },
+      {
+        "value": "VIEW MENU",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/",
+            "snippet": "VIEW MENU | href: https://phinsmith.com/menu"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.205Z"
+      },
+      {
+        "value": "Explore Coffee Beans",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/",
+            "snippet": "Explore Coffee Beans | href: https://phinsmith.com/coffee/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.205Z"
+      }
+    ],
+    "suppliersAndPartners": []
+  },
+  "branding": {
+    "writingStyle": {
+      "value": "Text sample: 20 paragraphs; average 32 words per paragraph. This measures text length, not brand tone.",
+      "origin": "measured",
+      "evidence": [
+        {
+          "sourceUrl": "https://phinsmith.com/",
+          "snippet": "Traditional PSL made with real pumpkin, served HOT"
+        },
+        {
+          "sourceUrl": "https://phinsmith.com/",
+          "snippet": "Traditional Vietnamese iced coffee made with strong, dark-roast drip coffee and sweetened condensed milk."
+        },
+        {
+          "sourceUrl": "https://phinsmith.com/",
+          "snippet": "(Iced) A bold brew with a ripe banana-twist—unexpectedly smooth and naturally sweet."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.206Z"
+    },
+    "artStyle": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "fonts": [],
+    "colors": [
+      {
+        "value": "#32373C",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/",
+            "snippet": "{background-color: #32373c"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/about/",
+            "snippet": "{background-color: #32373c"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/contact/",
+            "snippet": "{background-color: #32373c"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "{background-color: #32373c"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.205Z"
+      },
+      {
+        "value": "#FFFFFF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/",
+            "snippet": ";color: #fff"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/about/",
+            "snippet": ";color: #fff"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/contact/",
+            "snippet": ";color: #fff"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": ";color: #fff"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.205Z"
+      }
+    ],
+    "logoUrls": [
+      {
+        "value": "https://phinsmith.com/wp-content/uploads/elementor/thumbs/PhinSmith-logo-knockout-r6s57disse9mi69a5qnqvdaruk36tcketpy1xy6kim.png",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/",
+            "snippet": "PhinSmith-logo-knockout | https://phinsmith.com/wp-content/uploads/elementor/thumbs/PhinSmith-logo-knockout-r6s57disse9mi69a5qnqvdaruk36tcketpy1xy6kim.png"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/about/",
+            "snippet": "PhinSmith-logo-knockout | https://phinsmith.com/wp-content/uploads/elementor/thumbs/PhinSmith-logo-knockout-r6s57disse9mi69a5qnqvdaruk36tcketpy1xy6kim.png"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/contact/",
+            "snippet": "PhinSmith-logo-knockout | https://phinsmith.com/wp-content/uploads/elementor/thumbs/PhinSmith-logo-knockout-r6s57disse9mi69a5qnqvdaruk36tcketpy1xy6kim.png"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "PhinSmith-logo-knockout | https://phinsmith.com/wp-content/uploads/elementor/thumbs/PhinSmith-logo-knockout-r6s57disse9mi69a5qnqvdaruk36tcketpy1xy6kim.png"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.205Z"
+      }
+    ]
+  },
+  "socialProfiles": [
+    {
+      "id": "7cfa75d4-f750-49e3-9a6b-b470089f6f35",
+      "platform": "Instagram",
+      "url": {
+        "value": "https://instagram.com/phinsmithcoffee",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/",
+            "snippet": "https://www.instagram.com/phinsmithcoffee"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/about/",
+            "snippet": "https://www.instagram.com/phinsmithcoffee"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/contact/",
+            "snippet": "https://www.instagram.com/phinsmithcoffee"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "https://www.instagram.com/phinsmithcoffee"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.200Z"
+      }
+    },
+    {
+      "id": "38c8af92-bdc7-4b98-bdbc-5a2ff2ed9357",
+      "platform": "TikTok",
+      "url": {
+        "value": "https://tiktok.com/@phinsmithcoffee",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/",
+            "snippet": "https://www.tiktok.com/@phinsmithcoffee"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/about/",
+            "snippet": "https://www.tiktok.com/@phinsmithcoffee"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/contact/",
+            "snippet": "https://www.tiktok.com/@phinsmithcoffee"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "https://www.tiktok.com/@phinsmithcoffee"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.200Z"
+      }
+    },
+    {
+      "id": "5548b22a-0b71-4163-b26a-161cd1ff1523",
+      "platform": "Instagram",
+      "url": {
+        "value": "https://instagram.com/phinsmith.vegas",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/",
+            "snippet": "https://www.instagram.com/phinsmith.vegas"
+          },
+          {
+            "sourceUrl": "https://phinsmith.com/contact/",
+            "snippet": "https://www.instagram.com/phinsmith.vegas"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.200Z"
+      }
+    }
+  ],
+  "people": [],
+  "offerings": [
+    {
+      "id": "3e74c37a-7af0-4c1e-9cb4-a9cc93ae16da",
+      "name": {
+        "value": "Spiced Apple Chai",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Spiced Apple Chai A spiced cozy non-dairy latte, served HOT or ICED"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "A spiced cozy non-dairy latte, served HOT or ICED",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Spiced Apple Chai A spiced cozy non-dairy latte, served HOT or ICED"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "1e501814-1144-4ba9-aaec-2db0f50ab779",
+      "name": {
+        "value": "Cinnamon Bun Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Cinnamon Bun Latte Sweetened cinnamon flavored latte, served HOT"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Sweetened cinnamon flavored latte, served HOT",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Cinnamon Bun Latte Sweetened cinnamon flavored latte, served HOT"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "e9e74a38-e59b-4db2-99ca-63131d3a3468",
+      "name": {
+        "value": "Pumpkin Spice Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Pumpkin Spice Latte Traditional PSL made with real pumpkin, served HOT"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Traditional PSL made with real pumpkin, served HOT",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Pumpkin Spice Latte Traditional PSL made with real pumpkin, served HOT"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "827b3dd4-d6fe-42c3-8ba9-8e3fe7e23825",
+      "name": {
+        "value": "Pumpkin Spice Cold Brew",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Pumpkin Spice Cold Brew A more coffee-forward pumpkin spice"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "A more coffee-forward pumpkin spice",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Pumpkin Spice Cold Brew A more coffee-forward pumpkin spice"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "de21635e-55f6-4fc4-9eb9-b093f146f3f7",
+      "name": {
+        "value": "Cà Phê Sữa Đá",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Cà Phê Sữa Đá Traditional Vietnamese iced coffee made with strong, dark-roast drip coffee and sweetened condensed milk, served over ice for a bold and refreshing pick-me-up."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Traditional Vietnamese iced coffee made with strong, dark-roast drip coffee and sweetened condensed milk, served over ice for a bold and refreshing pick-me-up.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Cà Phê Sữa Đá Traditional Vietnamese iced coffee made with strong, dark-roast drip coffee and sweetened condensed milk, served over ice for a bold and refreshing pick-me-up."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "97615a29-a516-43dd-8ae4-f98d0182b0d5",
+      "name": {
+        "value": "Cà Phê Brulee",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Cà Phê Brulee Our signature take on Vietnamese egg coffee. Creamy, whipped egg custard layered over robust phin-brewed coffee. Velvety, bold, and perfectly balanced between sweet and strong."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Our signature take on Vietnamese egg coffee. Creamy, whipped egg custard layered over robust phin-brewed coffee. Velvety, bold, and perfectly balanced between sweet and strong.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Cà Phê Brulee Our signature take on Vietnamese egg coffee. Creamy, whipped egg custard layered over robust phin-brewed coffee. Velvety, bold, and perfectly balanced between sweet and strong."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "3d2dc93d-21c4-4807-8060-de7dc057b26b",
+      "name": {
+        "value": "Đen Đá",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Đen Đá Traditional Vietnamese black coffee brewed slowly through a phin filter. Served over ice, this bold and smooth classic lets the deep, roasted flavors of the coffee shine—no frills, just pure intensity."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Traditional Vietnamese black coffee brewed slowly through a phin filter. Served over ice, this bold and smooth classic lets the deep, roasted flavors of the coffee shine—no frills, just pure intensity.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Đen Đá Traditional Vietnamese black coffee brewed slowly through a phin filter. Served over ice, this bold and smooth classic lets the deep, roasted flavors of the coffee shine—no frills, just pure intensity."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "cde7b494-14bf-4479-ac76-f1521be95f16",
+      "name": {
+        "value": "L'Americaine",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "L'Americaine A refreshing Vietnamese spin on the classic iced Americano. Phin-brewed coffee poured over ice and diluted just enough to mellow the strength while keeping the bold, smoky character intact. Smooth, crisp, and perfect for sipping all day."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "A refreshing Vietnamese spin on the classic iced Americano. Phin-brewed coffee poured over ice and diluted just enough to mellow the strength while keeping the bold, smoky character intact. Smooth, crisp, and perfect for sipping all day.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "L'Americaine A refreshing Vietnamese spin on the classic iced Americano. Phin-brewed coffee poured over ice and diluted just enough to mellow the strength while keeping the bold, smoky character intact. Smooth, crisp, and perfect for sipping all day."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "d379b637-ac6d-4bde-8aff-6d6da3ac70bc",
+      "name": {
+        "value": "Phin & Tonic",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Phin & Tonic Citrus tonic with phin drip shots served over ice. Only available at the Garden Grove location at this time."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Citrus tonic with phin drip shots served over ice. Only available at the Garden Grove location at this time.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Phin & Tonic Citrus tonic with phin drip shots served over ice. Only available at the Garden Grove location at this time."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "8621929d-c72f-4751-8fd6-5b8e45d55a48",
+      "name": {
+        "value": "Peach Breeze",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Peach Breeze Light refreshing black tea with white peach."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Light refreshing black tea with white peach.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Peach Breeze Light refreshing black tea with white peach."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "341a46fa-04fd-4db0-867b-517f030dfc8e",
+      "name": {
+        "value": "Taiwanese Sea Salt Jasmine Tea",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Taiwanese Sea Salt Jasmine Tea Lightly sweetened Award- Winning Jasmine Tea Topped with Sea Salt Whipped Cream"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Lightly sweetened Award- Winning Jasmine Tea Topped with Sea Salt Whipped Cream",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Taiwanese Sea Salt Jasmine Tea Lightly sweetened Award- Winning Jasmine Tea Topped with Sea Salt Whipped Cream"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "4d260f9e-bd69-429e-90ea-c2ab6dce3d2a",
+      "name": {
+        "value": "Chai",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Chai Chai Served Hot or Iced with Almond Milk"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Chai Served Hot or Iced with Almond Milk",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Chai Chai Served Hot or Iced with Almond Milk"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "cc9bd4a5-6ab8-468b-a507-c56520cbacdf",
+      "name": {
+        "value": "Matcha Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Matcha Latte (Iced/Hot) Authentic Japanese match tea with macadamia milk or whole milk."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced/Hot) Authentic Japanese match tea with macadamia milk or whole milk.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Matcha Latte (Iced/Hot) Authentic Japanese match tea with macadamia milk or whole milk."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "258fabe9-c335-43e3-9992-2d72935ca6b7",
+      "name": {
+        "value": "Strawberry Matcha Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Strawberry Matcha Latte (Iced/Hot) Earthy Japanese green tea shaked to perfection for a creamy boost of calm. Hot served with steamed milk."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced/Hot) Earthy Japanese green tea shaked to perfection for a creamy boost of calm. Hot served with steamed milk.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Strawberry Matcha Latte (Iced/Hot) Earthy Japanese green tea shaked to perfection for a creamy boost of calm. Hot served with steamed milk."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "c074592a-f449-4bcf-93c2-60a36bb94ad7",
+      "name": {
+        "value": "Blueberry Matcha Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Blueberry Matcha Latte (Iced) A creamy matcha latte with a hint of your favorite flavor—smooth, earthy, and lightly sweet with a personalized twist."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) A creamy matcha latte with a hint of your favorite flavor—smooth, earthy, and lightly sweet with a personalized twist.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Blueberry Matcha Latte (Iced) A creamy matcha latte with a hint of your favorite flavor—smooth, earthy, and lightly sweet with a personalized twist."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "caa1ce90-1067-4fb1-beda-4fd9130b1115",
+      "name": {
+        "value": "Melon Matcha Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Melon Matcha Latte (Iced) A creamy matcha latte with a hint of your favorite flavor—smooth, earthy, and lightly sweet with a personalized twist."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) A creamy matcha latte with a hint of your favorite flavor—smooth, earthy, and lightly sweet with a personalized twist.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Melon Matcha Latte (Iced) A creamy matcha latte with a hint of your favorite flavor—smooth, earthy, and lightly sweet with a personalized twist."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "7bb32ab8-a64e-4ad8-9a69-20adf9ff125e",
+      "name": {
+        "value": "Banana Cream Matcha Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Banana Cream Matcha Latte (Iced) A playful fusion of earthy matcha, ripe banana, and velvety vanilla cream. This indulgent blend is smooth, lightly sweet, and layered with a tropical twist—comforting and energizing all at once.​"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) A playful fusion of earthy matcha, ripe banana, and velvety vanilla cream. This indulgent blend is smooth, lightly sweet, and layered with a tropical twist—comforting and energizing all at once.​",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Banana Cream Matcha Latte (Iced) A playful fusion of earthy matcha, ripe banana, and velvety vanilla cream. This indulgent blend is smooth, lightly sweet, and layered with a tropical twist—comforting and energizing all at once.​"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "614a9672-c415-470e-8e9d-71e8ace07ab9",
+      "name": {
+        "value": "Lavender Matcha Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Lavender Matcha Latte (Iced) Served with macadamia milk or whole milk."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) Served with macadamia milk or whole milk.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Lavender Matcha Latte (Iced) Served with macadamia milk or whole milk."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "b7205491-d77b-4ad2-b1df-22853bea1d0e",
+      "name": {
+        "value": "Lavender Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Lavender Latte (Iced/Hot) Floral and calming, with a gentle hint of lavender in every creamy sip."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced/Hot) Floral and calming, with a gentle hint of lavender in every creamy sip.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Lavender Latte (Iced/Hot) Floral and calming, with a gentle hint of lavender in every creamy sip."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "518ecf2a-e022-4f1f-b99e-101dfc66657c",
+      "name": {
+        "value": "Dustino",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Dustino (Iced/Hot) Costa Rican style mocha—bold, blended, and refreshingly smooth. Brewed using soft drip method."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced/Hot) Costa Rican style mocha—bold, blended, and refreshingly smooth. Brewed using soft drip method.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Dustino (Iced/Hot) Costa Rican style mocha—bold, blended, and refreshingly smooth. Brewed using soft drip method."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "6675c647-4419-49f7-b848-95d34790987b",
+      "name": {
+        "value": "Banana Coffee",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Banana Coffee (Iced) A bold brew with a ripe banana twist—unexpectedly smooth and naturally sweet."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) A bold brew with a ripe banana twist—unexpectedly smooth and naturally sweet.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Banana Coffee (Iced) A bold brew with a ripe banana twist—unexpectedly smooth and naturally sweet."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "f273bb90-d4b8-4717-b741-a2d8d8dd5bc7",
+      "name": {
+        "value": "Peanut Butter Coffee",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Peanut Butter Coffee (Iced) Nutty, rich, and indulgent—a creamy fusion of coffee and peanut butter."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) Nutty, rich, and indulgent—a creamy fusion of coffee and peanut butter.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Peanut Butter Coffee (Iced) Nutty, rich, and indulgent—a creamy fusion of coffee and peanut butter."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "c689a24a-f24f-4579-a28f-89b815cc63d5",
+      "name": {
+        "value": "Vanilla Cold Brew",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Vanilla Cold Brew (Iced) Smooth and slow-brewed with a touch of vanilla for subtle, creamy sweetness."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) Smooth and slow-brewed with a touch of vanilla for subtle, creamy sweetness.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Vanilla Cold Brew (Iced) Smooth and slow-brewed with a touch of vanilla for subtle, creamy sweetness."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "229e27da-c2e6-42dc-b59c-e27d0e45c7d1",
+      "name": {
+        "value": "O'ahu Joe",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "O'ahu Joe (Iced/Hot) Hawaiian style cafe latte. Tropical blend of coffee, coconut, and macadamia—light, smooth, and island-inspired."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced/Hot) Hawaiian style cafe latte. Tropical blend of coffee, coconut, and macadamia—light, smooth, and island-inspired.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "O'ahu Joe (Iced/Hot) Hawaiian style cafe latte. Tropical blend of coffee, coconut, and macadamia—light, smooth, and island-inspired."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "919fb811-3751-44d4-8971-048f566468c7",
+      "name": {
+        "value": "Sea Salt Caramel Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Sea Salt Caramel Latte (Iced) Sweet caramel with a hint of sea salt, balanced perfectly over Phin Drip."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) Sweet caramel with a hint of sea salt, balanced perfectly over Phin Drip.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Sea Salt Caramel Latte (Iced) Sweet caramel with a hint of sea salt, balanced perfectly over Phin Drip."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "38347923-6e0d-4e44-996a-a5e09b79854b",
+      "name": {
+        "value": "Pour Over",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Pour Over (Iced/Hot) - A clean, balanced brew that highlights the nuanced flavors of our District 1 roast."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced/Hot) - A clean, balanced brew that highlights the nuanced flavors of our District 1 roast.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Pour Over (Iced/Hot) - A clean, balanced brew that highlights the nuanced flavors of our District 1 roast."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "a6f4d549-b0ed-4f7e-b81c-604429710684",
+      "name": {
+        "value": "Tuxedo",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Tuxedo (Hot) A rich blend of dark and organic, locally sourced honey poured over espresso—smooth, bold, and a little indulgent."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Hot) A rich blend of dark and organic, locally sourced honey poured over espresso—smooth, bold, and a little indulgent.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Tuxedo (Hot) A rich blend of dark and organic, locally sourced honey poured over espresso—smooth, bold, and a little indulgent."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "11051caa-b939-4aa7-ba6b-df4fd070c733",
+      "name": {
+        "value": "Cold Brew",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Cold Brew (Iced) Slow-steeped for 12 hours to create a bold, smooth, and naturally sweet iced coffee."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) Slow-steeped for 12 hours to create a bold, smooth, and naturally sweet iced coffee.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Cold Brew (Iced) Slow-steeped for 12 hours to create a bold, smooth, and naturally sweet iced coffee."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "c558cab9-acc5-4930-bee7-6740b3a34a0d",
+      "name": {
+        "value": "Taiwanese Sea Salt Coffee",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Taiwanese Sea Salt Coffee (Iced) Bold coffee topped with a sweet-salty cream cap—rich, smooth, and refreshingly sippable."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "(Iced) Bold coffee topped with a sweet-salty cream cap—rich, smooth, and refreshingly sippable.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Taiwanese Sea Salt Coffee (Iced) Bold coffee topped with a sweet-salty cream cap—rich, smooth, and refreshingly sippable."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "c08109bb-52bd-4597-8709-0b3247353a87",
+      "name": {
+        "value": "Coconut Latte",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Coconut Latte A smooth and creamy latte made with our District 1 coffee and coconut crema for a tropical, indulgent twist."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "A smooth and creamy latte made with our District 1 coffee and coconut crema for a tropical, indulgent twist.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Coconut Latte A smooth and creamy latte made with our District 1 coffee and coconut crema for a tropical, indulgent twist."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "28b85a6c-51c4-4571-b2db-e23369502edb",
+      "name": {
+        "value": "Javacado",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Javacado A creamy blend of real avocado, our District 1 roast, and java chips—rich, refreshing, and uniquely satisfying."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "A creamy blend of real avocado, our District 1 roast, and java chips—rich, refreshing, and uniquely satisfying.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Javacado A creamy blend of real avocado, our District 1 roast, and java chips—rich, refreshing, and uniquely satisfying."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "71406c45-3d56-4bf2-8f83-a793e3a65f64",
+      "name": {
+        "value": "Dutch Mocha",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Dutch Mocha A decadent mocha blend made with our District 1 roast for a smooth, chocolatey kick in every sip."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "A decadent mocha blend made with our District 1 roast for a smooth, chocolatey kick in every sip.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Dutch Mocha A decadent mocha blend made with our District 1 roast for a smooth, chocolatey kick in every sip."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "e260e16c-57f7-4382-8e32-8999b20dd9e0",
+      "name": {
+        "value": "Phin Phreeze",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Phin Phreeze Signature phin style Cà Phê Sữa Đá blended"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "Signature phin style Cà Phê Sữa Đá blended",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Phin Phreeze Signature phin style Cà Phê Sữa Đá blended"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "df1e6399-2d5b-448b-8185-0d65106da7e9",
+      "name": {
+        "value": "Matcha Blend",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Matcha Blend A vibrant blend of earthy matcha, shaken to a smooth, creamy finish for a refreshing twist on a classic."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "A vibrant blend of earthy matcha, shaken to a smooth, creamy finish for a refreshing twist on a classic.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Matcha Blend A vibrant blend of earthy matcha, shaken to a smooth, creamy finish for a refreshing twist on a classic."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "644f9792-042f-49df-a705-0035cf62ef4f",
+      "name": {
+        "value": "Strawberry Matcha Blend",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Strawberry Matcha Blend A vibrant blend of earthy matcha and sweet strawberry, shaken to a smooth, creamy finish for a refreshing twist on a classic."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "A vibrant blend of earthy matcha and sweet strawberry, shaken to a smooth, creamy finish for a refreshing twist on a classic.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Strawberry Matcha Blend A vibrant blend of earthy matcha and sweet strawberry, shaken to a smooth, creamy finish for a refreshing twist on a classic."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    },
+    {
+      "id": "0bd1fb82-8b99-4cfc-94b0-6a4b6061a72e",
+      "name": {
+        "value": "Blueberry Matcha Blend",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Blueberry Matcha Blend A vibrant blend of earthy matcha and sweet blueberry, shaken to a smooth, creamy finish for a refreshing twist on a classic."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "description": {
+        "value": "A vibrant blend of earthy matcha and sweet blueberry, shaken to a smooth, creamy finish for a refreshing twist on a classic.",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://phinsmith.com/menu/",
+            "snippet": "Blueberry Matcha Blend A vibrant blend of earthy matcha and sweet blueberry, shaken to a smooth, creamy finish for a refreshing twist on a classic."
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "kind": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-18T23:40:55.201Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-18T23:40:55.201Z"
+        }
+      }
+    }
+  ],
+  "content": {
+    "topics": [],
+    "faqs": [],
+    "testimonials": [],
+    "trustSignals": []
+  },
+  "marketing": {
+    "voice": {
+      "formality": "conversational",
+      "emoji": "none",
+      "length": "balanced",
+      "pronoun": null,
+      "callsCustomers": "",
+      "avoid": [],
+      "writingSamples": [],
+      "chosenAt": null
+    },
+    "claims": [],
+    "promotions": [],
+    "preferredCallToAction": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "customersWanted": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "customersNotSuitable": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "triggerMoments": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-18T23:40:55.200Z"
+    },
+    "genericPhrasesToAvoid": []
+  },
+  "sources": [
+    {
+      "url": "https://phinsmith.com/",
+      "title": "Phin Smith – Vietnamese Coffee Shop | Find Your Cup",
+      "fetchedAt": "2026-10-18T23:40:55.029Z",
+      "headings": [
+        "FALL SPECIALS",
+        "Spiced Apple Chai",
+        "Cinnamon Bun Latte",
+        "Pumpkin Spice Latte",
+        "Pumpkin Spice Blend",
+        "Pumpkin Spice Cold Brew",
+        "CUSTOMER FAVORITES",
+        "Cà Phê Sữa Đá",
+        "Banana Coffee",
+        "Coconut Latte",
+        "COFFEE WITH ROOTS. FLAVOR WITH PURPOSE.",
+        "District 1 Blend: Highland Robusta Dark Roast",
+        "Saigon Roast: Arabica Robusta Dark Roast",
+        "LOCATIONS"
+      ],
+      "paragraphs": [
+        "Traditional PSL made with real pumpkin, served HOT",
+        "Traditional Vietnamese iced coffee made with strong, dark-roast drip coffee and sweetened condensed milk.",
+        "(Iced) A bold brew with a ripe banana-twist—unexpectedly smooth and naturally sweet.",
+        "A smooth and creamy latte made with our District 1 coffee and coconut crema for a tropical, indulgent twist.",
+        "At Phin Smith, every cup starts with bold, intentional flavor rooted in Vietnamese coffee traditions. We source beans from Vietnam’s renowned coffee regions, from the cool, temperate mountains of Da Lat to the Central Highlands, areas blessed with natural beauty and nutrient-rich soil.",
+        "From the smooth balance of our Saigon Blend made with 100% Da Lat Arabica to the bold intensity of our District 1 Roast combining Central Highland Robusta with Arabica, each brew tells a story. Discover how we bring Vietnamese coffee culture to every sip.",
+        "Named after Quan Nhat in Saigon, our District 1 blend is a combination of Robusta beans from the central highlands of Vietnam balanced with Arabica beans for a smooth, rich flavor. This blend offers the best of both worlds. The bold intensity of Vietnamese Robusta harmonized with the refined smoothness of Arabica for a perfectly balanced cup.",
+        "A tribute to the coffee culture in Saigon, our \"Saigon Blend\" is made with 100% Arabica beans grown in the cool, temperate mountains of Da Lat, a region blessed with natural beauty and nutrient-rich soil. This exceptional terroir produces a bold, yet rich, smooth flavor that captures the essence of Vietnam's finest coffee tradition.",
+        "Hours: Monday – Thursday (8AM – 8PM) Friday – Sunday (8AM – 4PM)",
+        "Hours: Monday – Friday (7AM – 7PM) Saturday – Sunday: (8AM – 8PM)"
+      ]
+    },
+    {
+      "url": "https://phinsmith.com/about/",
+      "title": "About – Phin Smith",
+      "fetchedAt": "2026-10-18T23:40:55.064Z",
+      "headings": [
+        "ABOUT PHIN SMITH",
+        "Find Your Cup.",
+        "Our Philosophy."
+      ],
+      "paragraphs": [
+        "Phin Smith is more than a coffee shop—it’s a collective of baristas, roasters, thinkers, students, artists, and recipe makers brought together by a shared passion for crafting memorable coffee experiences. We come from different backgrounds, but we’re united by a love of flavor, culture, and connection. But Phin Smith isn’t about us—it’s about you. Whether you’re chasing your next creative spark, pausing in the middle of a busy day, or simply craving something new, we hope every experience with us inspires you to travel, to discover, to learn, and ultimately, to find your cup.",
+        "We believe in slowing down. In the quiet power of a thoughtful brew. In the way travel opens hearts and coffee opens conversations. The inspiration behind our menu comes from the places we’ve been and the people we’ve met—recipes discovered abroad, stories shared over cups, and moments that remind us to savor life. Every drink we make is infused with that spirit: a blend of curiosity, reverence, and celebration for global cultures. At Phin Smith, every sip tells a story. We can’t wait to share them with you."
+      ]
+    },
+    {
+      "url": "https://phinsmith.com/contact/",
+      "title": "Contact – Phin Smith",
+      "fetchedAt": "2026-10-18T23:40:55.107Z",
+      "headings": [
+        "CONTACT",
+        "LOCATIONS"
+      ],
+      "paragraphs": [
+        "We’d love to hear from you. Whether you have a question, feedback, or just want to say hello, reach out using the appropriate email below.",
+        "Hours: Monday – Thursday (8AM – 8PM) Friday – Sunday (8AM – 4PM)",
+        "Hours: Monday – Friday (7AM – 7PM) Saturday – Sunday: (8AM – 8PM)"
+      ]
+    },
+    {
+      "url": "https://phinsmith.com/menu/",
+      "title": "Menu – Phin Smith",
+      "fetchedAt": "2026-10-18T23:40:55.200Z",
+      "headings": [
+        "MENU",
+        "Fall Specials",
+        "Spiced Apple Chai",
+        "Cinnamon Bun Latte",
+        "Pumpkin Spice Latte",
+        "Pumpkin Spice Blend",
+        "Pumpkin Spice Cold Brew",
+        "PHIN DRIPS",
+        "Cà Phê Sữa Đá",
+        "Cà Phê Brulee",
+        "Đen Đá",
+        "L'Americaine",
+        "Phin & Tonic",
+        "TEAS",
+        "Peach Breeze",
+        "Taiwanese Sea Salt Jasmine Tea",
+        "Chai",
+        "MATCHA TEAS*",
+        "Matcha Latte",
+        "Strawberry Matcha Latte",
+        "Blueberry Matcha Latte",
+        "Melon Matcha Latte",
+        "Banana Cream Matcha Latte",
+        "Lavender Matcha Latte",
+        "SPECIALTY COFFEE",
+        "Lavender Latte",
+        "Dustino",
+        "Banana Coffee",
+        "Peanut Butter Coffee",
+        "Vanilla Cold Brew",
+        "O'ahu Joe",
+        "Sea Salt Caramel Latte",
+        "HAND DRIPS",
+        "Pour Over",
+        "Tuxedo",
+        "Cold Brew",
+        "Taiwanese Sea Salt Coffee",
+        "ICE BLENDS",
+        "Coconut Latte",
+        "Javacado"
+      ],
+      "paragraphs": [
+        "Traditional PSL made with real pumpkin, served HOT",
+        "Traditional Vietnamese iced coffee made with strong, dark-roast drip coffee and sweetened condensed milk, served over ice for a bold and refreshing pick-me-up.",
+        "Our signature take on Vietnamese egg coffee. Creamy, whipped egg custard layered over robust phin-brewed coffee. Velvety, bold, and perfectly balanced between sweet and strong.",
+        "Traditional Vietnamese black coffee brewed slowly through a phin filter. Served over ice, this bold and smooth classic lets the deep, roasted flavors of the coffee shine—no frills, just pure intensity.",
+        "A refreshing Vietnamese spin on the classic iced Americano. Phin-brewed coffee poured over ice and diluted just enough to mellow the strength while keeping the bold, smoky character intact. Smooth, crisp, and perfect for sipping all day.",
+        "Citrus tonic with phin drip shots served over ice. Only available at the Garden Grove location at this time.",
+        "Lightly sweetened Award- Winning Jasmine Tea Topped with Sea Salt Whipped Cream",
+        "(Iced/Hot) Authentic Japanese match tea with macadamia milk or whole milk.",
+        "(Iced/Hot) Earthy Japanese green tea shaked to perfection for a creamy boost of calm. Hot served with steamed milk.",
+        "(Iced) A creamy matcha latte with a hint of your favorite flavor—smooth, earthy, and lightly sweet with a personalized twist.",
+        "(Iced) A playful fusion of earthy matcha, ripe banana, and velvety vanilla cream. This indulgent blend is smooth, lightly sweet, and layered with a tropical twist—comforting and energizing all at once.​",
+        "*We import our Matcha directly from Japan for its quality. Due to Japan’s drought this year, and the organic nature of the Matcha we purchase, the taste may be slightly different from the previous year. Also, due to the shortage there will be an increase in pricing, only for Matcha-related products. If our supplier can reduce the cost in the near future, we will pass those savings on to you by lowering prices.",
+        "(Iced/Hot) Floral and calming, with a gentle hint of lavender in every creamy sip.",
+        "(Iced/Hot) Costa Rican style mocha—bold, blended, and refreshingly smooth. Brewed using soft drip method.",
+        "(Iced) A bold brew with a ripe banana twist—unexpectedly smooth and naturally sweet.",
+        "(Iced) Nutty, rich, and indulgent—a creamy fusion of coffee and peanut butter.",
+        "(Iced) Smooth and slow-brewed with a touch of vanilla for subtle, creamy sweetness.",
+        "(Iced/Hot) Hawaiian style cafe latte. Tropical blend of coffee, coconut, and macadamia—light, smooth, and island-inspired.",
+        "(Iced) Sweet caramel with a hint of sea salt, balanced perfectly over Phin Drip.",
+        "(Iced/Hot) - A clean, balanced brew that highlights the nuanced flavors of our District 1 roast.",
+        "(Hot) A rich blend of dark and organic, locally sourced honey poured over espresso—smooth, bold, and a little indulgent.",
+        "(Iced) Slow-steeped for 12 hours to create a bold, smooth, and naturally sweet iced coffee.",
+        "(Iced) Bold coffee topped with a sweet-salty cream cap—rich, smooth, and refreshingly sippable.",
+        "A smooth and creamy latte made with our District 1 coffee and coconut crema for a tropical, indulgent twist.",
+        "A creamy blend of real avocado, our District 1 roast, and java chips—rich, refreshing, and uniquely satisfying.",
+        "A decadent mocha blend made with our District 1 roast for a smooth, chocolatey kick in every sip.",
+        "A vibrant blend of earthy matcha, shaken to a smooth, creamy finish for a refreshing twist on a classic.",
+        "A vibrant blend of earthy matcha and sweet strawberry, shaken to a smooth, creamy finish for a refreshing twist on a classic.",
+        "A vibrant blend of earthy matcha and sweet blueberry, shaken to a smooth, creamy finish for a refreshing twist on a classic."
+      ]
+    }
+  ],
+  "warnings": []
+}

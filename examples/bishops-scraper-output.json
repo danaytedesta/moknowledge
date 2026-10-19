@@ -1,0 +1,1870 @@
+{
+  "schemaVersion": "1.0",
+  "id": "679d615a-b17c-4ff6-8223-741e206c57e2",
+  "createdAt": "2026-10-19T03:23:42.642Z",
+  "updatedAt": "2026-10-19T03:23:42.644Z",
+  "company": {
+    "name": {
+      "value": "Bishops Cuts/Color",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://bishops.co/",
+          "snippet": "Bishops Cuts/Color"
+        },
+        {
+          "sourceUrl": "https://bishops.co/about/",
+          "snippet": "Bishops Cuts/Color"
+        },
+        {
+          "sourceUrl": "https://bishops.co/services/",
+          "snippet": "Bishops Cuts/Color"
+        },
+        {
+          "sourceUrl": "https://bishops.co/faq/",
+          "snippet": "Bishops Cuts/Color"
+        },
+        {
+          "sourceUrl": "https://bishops.co/locations/",
+          "snippet": "Bishops Cuts/Color"
+        },
+        {
+          "sourceUrl": "https://bishops.co/contact/",
+          "snippet": "Bishops Cuts/Color"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "description": {
+      "value": "Bishops started in Portland, Oregon with one chair, one mural, and one mission: to create a space where people could express themselves without fear, shame, or sticker shock. We were tired of overpriced salons with cold attitudes—and cheap chains that treated style like an afterthought. So, we built something better.",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://bishops.co/about/",
+          "snippet": "Bishops started in Portland, Oregon with one chair, one mural, and one mission: to create a space where people could express themselves without fear, shame, or sticker shock. We were tired of overpriced salons with cold attitudes—and cheap chains that treated style like an afterthought. So, we built something better."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.643Z"
+    },
+    "website": {
+      "value": "https://bishops.co/",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://bishops.co/",
+          "snippet": "https://bishops.co/"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "industry": {
+      "value": "Hair salon / barbershop",
+      "origin": "inferred",
+      "evidence": [
+        {
+          "sourceUrl": "https://bishops.co/",
+          "snippet": "Home - Bishops Cuts/Color You Look Good YOU DESERVE A HAIRCUT THIS COOL"
+        },
+        {
+          "sourceUrl": "https://bishops.co/about/",
+          "snippet": "About Bishops Barbershop. Who we are. Hair cut. Color. Style. Shave. You Look Good More than a haircut.This is a culture."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.644Z"
+    },
+    "businessModel": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "companyRole": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "yearFounded": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "legalEntityType": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "employeeCount": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "mainAddress": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "otherLocations": [],
+    "serviceAreas": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "alternativeNames": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    }
+  },
+  "positioning": {
+    "pitch": {
+      "value": "Rule-based pitch suggestion: Bishops started in Portland, Oregon with one chair, one mural, and one mission: to create a space where people could express themselves without fear, shame, or sticker shock. We were tired of overpriced salons with cold attitudes—and cheap chains that treated style like an afterthought. So, we built something better.",
+      "evidence": [
+        {
+          "sourceUrl": "https://bishops.co/about/",
+          "snippet": "Bishops started in Portland, Oregon with one chair, one mural, and one mission: to create a space where people could express themselves without fear, shame, or sticker shock. We were tired of overpriced salons with cold attitudes—and cheap chains that treated style like an afterthought. So, we built something better."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.644Z"
+    },
+    "foundingStory": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "differentiators": []
+  },
+  "market": {
+    "targetBuyers": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "customerNeeds": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "idealCustomerPersona": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "industryGroupings": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "industryOutlook": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "channels": {
+      "value": [
+        "Website booking or quote request"
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://bishops.co/",
+          "snippet": "Book Now | href: /locations/"
+        },
+        {
+          "sourceUrl": "https://bishops.co/about/",
+          "snippet": "Book Now | href: /locations/"
+        },
+        {
+          "sourceUrl": "https://bishops.co/services/",
+          "snippet": "Book Now | href: /locations/"
+        },
+        {
+          "sourceUrl": "https://bishops.co/faq/",
+          "snippet": "Book Now | href: /locations/"
+        },
+        {
+          "sourceUrl": "https://bishops.co/locations/",
+          "snippet": "Book Now | href: /locations/"
+        },
+        {
+          "sourceUrl": "https://bishops.co/contact/",
+          "snippet": "Book Now | href: /locations/"
+        },
+        {
+          "sourceUrl": "https://bishops.co/about/",
+          "snippet": "Book a Service | href: /locations/"
+        },
+        {
+          "sourceUrl": "https://bishops.co/services/",
+          "snippet": "Book Appointment | href: https://bishops.co/locations/"
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.644Z"
+    },
+    "funnels": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "callsToAction": [
+      {
+        "value": "Book Now",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "Book Now | href: /locations/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "Book Now | href: /locations/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "Book Now | href: /locations/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "Book Now | href: /locations/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "Book Now | href: /locations/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "Book Now | href: /locations/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "Contact",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "Contact | href: https://bishops.co/contact/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "Contact | href: https://bishops.co/contact/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "Contact | href: https://bishops.co/contact/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "Contact | href: https://bishops.co/contact/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "Contact | href: https://bishops.co/contact/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "Contact | href: https://bishops.co/contact/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "View services ›",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "View services › | href: https://bishops.co/services/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "Book a Service",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "Book a Service | href: /locations/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "Book Appointment",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "Book Appointment | href: https://bishops.co/locations/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "GET DIRECTIONS",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "GET DIRECTIONS | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      }
+    ],
+    "suppliersAndPartners": []
+  },
+  "branding": {
+    "writingStyle": {
+      "value": "Measured website text: 20 paragraphs; about 9 words per sentence. 13 paragraphs address the reader as you/your. This describes language patterns, not owner-approved tone.",
+      "evidence": [
+        {
+          "sourceUrl": "https://bishops.co/",
+          "snippet": "Come as you are. Bring your partner, your kid, or your own wild vision. Whether it’s their first haircut or your fifth bold color in a year, we’ve got the talent—and the attitude—to make it great."
+        },
+        {
+          "sourceUrl": "https://bishops.co/",
+          "snippet": "Walk-in trims, back-to-school shape-ups, edgy transformations—we do it all. All ages. All hair types. No drama. View services ›"
+        },
+        {
+          "sourceUrl": "https://bishops.co/",
+          "snippet": "Full bleach-outs. Subtle lowlights. Neon green if that’s your thing. We’re not here to judge—we’re here to deliver. View services ›"
+        }
+      ],
+      "origin": "measured",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.644Z"
+    },
+    "artStyle": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "fonts": [],
+    "colors": [
+      {
+        "value": "#FFFFFF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "{color:#fff"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "{color:#fff"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "{color:#fff"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "{color:#fff"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "{color:#fff"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "{color:#fff"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "#32373C",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": ";background-color:#32373c"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": ";background-color:#32373c"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": ";background-color:#32373c"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": ";background-color:#32373c"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": ";background-color:#32373c"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": ";background-color:#32373c"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "#EB631B",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "color: #eb631b"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "color: #eb631b"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "color: #EB631B"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "color:#EB631B"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "color: #EB631B"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "color:#EB631B"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "#F34F0F",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "color: #f34f0f"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      }
+    ],
+    "logoUrls": [
+      {
+        "value": "https://bishops.co/wp-content/themes/bishops/img/logo.svg",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "Bishops Logo logo-img | https://bishops.co/wp-content/themes/bishops/img/logo.svg"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "Bishops Logo logo-img | https://bishops.co/wp-content/themes/bishops/img/logo.svg"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "Bishops Logo logo-img | https://bishops.co/wp-content/themes/bishops/img/logo.svg"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "Bishops Logo logo-img | https://bishops.co/wp-content/themes/bishops/img/logo.svg"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "Bishops Logo logo-img | https://bishops.co/wp-content/themes/bishops/img/logo.svg"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "Bishops Logo logo-img | https://bishops.co/wp-content/themes/bishops/img/logo.svg"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://bishops.co/#/schema/logo/image/\",\"url\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"contentUrl\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"width\":512,\"height\":512,\"caption\":\"Bishops Cuts/Color\"}"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://bishops.co/#/schema/logo/image/\",\"url\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"contentUrl\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"width\":512,\"height\":512,\"caption\":\"Bishops Cuts/Color\"}"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://bishops.co/#/schema/logo/image/\",\"url\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"contentUrl\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"width\":512,\"height\":512,\"caption\":\"Bishops Cuts/Color\"}"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://bishops.co/#/schema/logo/image/\",\"url\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"contentUrl\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"width\":512,\"height\":512,\"caption\":\"Bishops Cuts/Color\"}"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://bishops.co/#/schema/logo/image/\",\"url\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"contentUrl\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"width\":512,\"height\":512,\"caption\":\"Bishops Cuts/Color\"}"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://bishops.co/#/schema/logo/image/\",\"url\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"contentUrl\":\"https://bishops.co/wp-content/uploads/2025/08/cropped-B-Logo.png\",\"width\":512,\"height\":512,\"caption\":\"Bishops Cuts/Color\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "https://bishops.co/wp-content/uploads/2025/09/B-Logo.png",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"url\":\"https://bishops.co/wp-content/uploads/2025/09/B-Logo.png\",\"width\":512,\"height\":512,\"@id\":\"https://www.bishops.co#logo\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      },
+      {
+        "value": "https://bishops.co/wp-content/uploads/2025/09/Bishops-Schema-Logo.png",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"url\":\"https://bishops.co/wp-content/uploads/2025/09/Bishops-Schema-Logo.png\",\"width\":600,\"height\":60}"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"url\":\"https://bishops.co/wp-content/uploads/2025/09/Bishops-Schema-Logo.png\",\"width\":600,\"height\":60}"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"url\":\"https://bishops.co/wp-content/uploads/2025/09/Bishops-Schema-Logo.png\",\"width\":600,\"height\":60}"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"url\":\"https://bishops.co/wp-content/uploads/2025/09/Bishops-Schema-Logo.png\",\"width\":600,\"height\":60}"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "JSON-LD logo: {\"@type\":\"ImageObject\",\"url\":\"https://bishops.co/wp-content/uploads/2025/09/Bishops-Schema-Logo.png\",\"width\":600,\"height\":60}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.644Z"
+      }
+    ]
+  },
+  "socialProfiles": [
+    {
+      "id": "9ec3eba9-a425-49cd-8966-3e833f318452",
+      "platform": "Instagram",
+      "url": {
+        "value": "https://instagram.com/bishops.co",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "https://www.instagram.com/bishops.co/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "https://www.instagram.com/bishops.co/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "https://www.instagram.com/bishops.co/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "https://www.instagram.com/bishops.co/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "https://www.instagram.com/bishops.co/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "https://www.instagram.com/bishops.co/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      }
+    },
+    {
+      "id": "bf03a4e5-5eaf-4272-a734-55c86d550d04",
+      "platform": "Facebook",
+      "url": {
+        "value": "https://facebook.com/bishops.co",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "https://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "http://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "https://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "http://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "https://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "http://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "https://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "http://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "https://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "http://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "https://www.facebook.com/bishops.co"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "http://www.facebook.com/bishops.co"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      }
+    },
+    {
+      "id": "f499dfce-3bd1-433a-bf7d-d8e93a8e6bab",
+      "platform": "LinkedIn",
+      "url": {
+        "value": "https://linkedin.com/company/18272046",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "https://www.linkedin.com/company/18272046/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "https://www.linkedin.com/company/18272046/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "https://www.linkedin.com/company/18272046/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "https://www.linkedin.com/company/18272046/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "https://www.linkedin.com/company/18272046/"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "https://www.linkedin.com/company/18272046/"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      }
+    },
+    {
+      "id": "f7a56fee-6d79-459f-990d-8dbd1ddbd663",
+      "platform": "YouTube",
+      "url": {
+        "value": "https://youtube.com/channel/UCKj9Po27s4mkorhEuLQ3amw",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "https://www.youtube.com/channel/UCKj9Po27s4mkorhEuLQ3amw"
+          },
+          {
+            "sourceUrl": "https://bishops.co/about/",
+            "snippet": "https://www.youtube.com/channel/UCKj9Po27s4mkorhEuLQ3amw"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "https://www.youtube.com/channel/UCKj9Po27s4mkorhEuLQ3amw"
+          },
+          {
+            "sourceUrl": "https://bishops.co/faq/",
+            "snippet": "https://www.youtube.com/channel/UCKj9Po27s4mkorhEuLQ3amw"
+          },
+          {
+            "sourceUrl": "https://bishops.co/locations/",
+            "snippet": "https://www.youtube.com/channel/UCKj9Po27s4mkorhEuLQ3amw"
+          },
+          {
+            "sourceUrl": "https://bishops.co/contact/",
+            "snippet": "https://www.youtube.com/channel/UCKj9Po27s4mkorhEuLQ3amw"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      }
+    }
+  ],
+  "people": [],
+  "offerings": [
+    {
+      "id": "014b5859-a5ae-4ef5-af48-ee22cd5cc83c",
+      "name": {
+        "value": "CUTS",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "CUTS Walk-in trims, back-to-school shape-ups, edgy transformations—we do it all. All ages. All hair types. No drama. View services ›"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "description": {
+        "value": "Walk-in trims, back-to-school shape-ups, edgy transformations—we do it all. All ages. All hair types. No drama. View services ›",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "CUTS Walk-in trims, back-to-school shape-ups, edgy transformations—we do it all. All ages. All hair types. No drama. View services ›"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "CUTS Walk-in trims, back-to-school shape-ups, edgy transformations—we do it all. All ages. All hair types. No drama. View services ›"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.642Z"
+        }
+      }
+    },
+    {
+      "id": "9f42d2e6-a700-4bd1-97b3-d916e08d8310",
+      "name": {
+        "value": "COLOR",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "COLOR Full bleach-outs. Subtle lowlights. Neon green if that’s your thing. We’re not here to judge—we’re here to deliver. View services ›"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "COLOR Go subtle or go neon. From root touch-ups to full-on transformations, Bishops color services are designed for creativity, precision, and long-lasting impact. Our stylists stay trained on the latest techniques and trends—so you leave with color that turns heads. All-over Color Bleach & Tone Highlights / Balayage Vivid & Fashion Colors Gloss or Toner Refresh Color Correction Find Your Bishops"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "description": {
+        "value": "Full bleach-outs. Subtle lowlights. Neon green if that’s your thing. We’re not here to judge—we’re here to deliver. View services ›",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "COLOR Full bleach-outs. Subtle lowlights. Neon green if that’s your thing. We’re not here to judge—we’re here to deliver. View services ›"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "COLOR Go subtle or go neon. From root touch-ups to full-on transformations, Bishops color services are designed for creativity, precision, and long-lasting impact. Our stylists stay trained on the latest techniques and trends—so you leave with color that turns heads. All-over Color Bleach & Tone Highlights / Balayage Vivid & Fashion Colors Gloss or Toner Refresh Color Correction Find Your Bishops"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "COLOR Full bleach-outs. Subtle lowlights. Neon green if that’s your thing. We’re not here to judge—we’re here to deliver. View services ›"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "COLOR Go subtle or go neon. From root touch-ups to full-on transformations, Bishops color services are designed for creativity, precision, and long-lasting impact. Our stylists stay trained on the latest techniques and trends—so you leave with color that turns heads. All-over Color Bleach & Tone Highlights / Balayage Vivid & Fashion Colors Gloss or Toner Refresh Color Correction Find Your Bishops"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "features": {
+        "value": [
+          "All-over Color",
+          "Bleach & Tone",
+          "Highlights / Balayage",
+          "Vivid & Fashion Colors",
+          "Gloss or Toner Refresh",
+          "Color Correction"
+        ],
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "COLOR Go subtle or go neon. From root touch-ups to full-on transformations, Bishops color services are designed for creativity, precision, and long-lasting impact. Our stylists stay trained on the latest techniques and trends—so you leave with color that turns heads. All-over Color Bleach & Tone Highlights / Balayage Vivid & Fashion Colors Gloss or Toner Refresh Color Correction Find Your Bishops"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.642Z"
+        }
+      }
+    },
+    {
+      "id": "1a1f0c69-1d04-4a9b-b76c-4f5b65e46fa0",
+      "name": {
+        "value": "A-LA-CARTE",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "A-LA-CARTE Beard trims, blowouts, gloss treatments, and more. Book what you need, skip what you don’t. View services ›"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "A-LA-CARTE Sometimes you just need a quick fix, not the full experience. These services are fast, affordable, and totally customizable. Beard Trim Blowout Shampoo & Style Toner Only Facial Hair Grooming Conditioning Treatments Find Your Bishops"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "description": {
+        "value": "Beard trims, blowouts, gloss treatments, and more. Book what you need, skip what you don’t. View services ›",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "A-LA-CARTE Beard trims, blowouts, gloss treatments, and more. Book what you need, skip what you don’t. View services ›"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "A-LA-CARTE Sometimes you just need a quick fix, not the full experience. These services are fast, affordable, and totally customizable. Beard Trim Blowout Shampoo & Style Toner Only Facial Hair Grooming Conditioning Treatments Find Your Bishops"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "kind": {
+        "value": "service",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/",
+            "snippet": "A-LA-CARTE Beard trims, blowouts, gloss treatments, and more. Book what you need, skip what you don’t. View services ›"
+          },
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "A-LA-CARTE Sometimes you just need a quick fix, not the full experience. These services are fast, affordable, and totally customizable. Beard Trim Blowout Shampoo & Style Toner Only Facial Hair Grooming Conditioning Treatments Find Your Bishops"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "features": {
+        "value": [
+          "Beard Trim",
+          "Blowout",
+          "Shampoo & Style",
+          "Toner Only",
+          "Facial Hair Grooming",
+          "Conditioning Treatments"
+        ],
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://bishops.co/services/",
+            "snippet": "A-LA-CARTE Sometimes you just need a quick fix, not the full experience. These services are fast, affordable, and totally customizable. Beard Trim Blowout Shampoo & Style Toner Only Facial Hair Grooming Conditioning Treatments Find Your Bishops"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:42.642Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.642Z"
+        }
+      }
+    }
+  ],
+  "content": {
+    "topics": [],
+    "faqs": [
+      {
+        "id": "f6dfbc9d-07a0-4840-ab82-0b0817e4ec94",
+        "question": {
+          "value": "Do I need an appointment?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do I need an appointment? Nope. We’re walk-in friendly at all locations, though some services (especially color) are easier to book in advance. Use the “Book Now” button to lock in your time if you’re on a schedule."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Nope. We’re walk-in friendly at all locations, though some services (especially color) are easier to book in advance. Use the “Book Now” button to lock in your time if you’re on a schedule.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do I need an appointment? Nope. We’re walk-in friendly at all locations, though some services (especially color) are easier to book in advance. Use the “Book Now” button to lock in your time if you’re on a schedule."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "031909ae-189b-4a30-a76b-fef778184bea",
+        "question": {
+          "value": "What kind of salon is Bishops?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "What kind of salon is Bishops? We’re a hybrid between a barbershop and a salon—but with way better playlists. Think expert cuts, creative color, and an unpretentious, inclusive vibe. All ages. All hair types. All welcome."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "We’re a hybrid between a barbershop and a salon—but with way better playlists. Think expert cuts, creative color, and an unpretentious, inclusive vibe. All ages. All hair types. All welcome.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "What kind of salon is Bishops? We’re a hybrid between a barbershop and a salon—but with way better playlists. Think expert cuts, creative color, and an unpretentious, inclusive vibe. All ages. All hair types. All welcome."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "94ed78ff-a96d-4881-8a42-65878563deb9",
+        "question": {
+          "value": "Do you cut curly/textured hair?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you cut curly/textured hair? Yes, absolutely. Many of our stylists are trained in curl-specific cutting and styling techniques. If you have a particular request, we recommend giving us a call, booking in advance, and leaving a note so we can match you with the right stylist that will get your cut just right."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Yes, absolutely. Many of our stylists are trained in curl-specific cutting and styling techniques. If you have a particular request, we recommend giving us a call, booking in advance, and leaving a note so we can match you with the right stylist that will get your cut just right.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you cut curly/textured hair? Yes, absolutely. Many of our stylists are trained in curl-specific cutting and styling techniques. If you have a particular request, we recommend giving us a call, booking in advance, and leaving a note so we can match you with the right stylist that will get your cut just right."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "c92ec353-a691-492b-81ee-1b2f5dc1a0a2",
+        "question": {
+          "value": "Are your stylists licensed?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Are your stylists licensed? Yep. Every Bishops stylist is fully licensed by their state and regularly trained on current techniques, trends, and client care."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Yep. Every Bishops stylist is fully licensed by their state and regularly trained on current techniques, trends, and client care.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Are your stylists licensed? Yep. Every Bishops stylist is fully licensed by their state and regularly trained on current techniques, trends, and client care."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "ce5fcf35-c69b-4b78-98c1-57138557777f",
+        "question": {
+          "value": "Do you sell hair products?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you sell hair products? Yes—and we only stock what we actually use. Ask your stylist for recs based on your hair goals. No pressure, just solid advice."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Yes—and we only stock what we actually use. Ask your stylist for recs based on your hair goals. No pressure, just solid advice.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you sell hair products? Yes—and we only stock what we actually use. Ask your stylist for recs based on your hair goals. No pressure, just solid advice."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "75ce0045-b8dd-46fa-a197-e0525145cb62",
+        "question": {
+          "value": "Can I bring a picture of the look I want?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Can I bring a picture of the look I want? Definitely. Bring screenshots, inspo pics, or your Pinterest board. We’ll talk it through and help you get as close as possible based on your hair type and condition."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Definitely. Bring screenshots, inspo pics, or your Pinterest board. We’ll talk it through and help you get as close as possible based on your hair type and condition.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Can I bring a picture of the look I want? Definitely. Bring screenshots, inspo pics, or your Pinterest board. We’ll talk it through and help you get as close as possible based on your hair type and condition."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "968edbb1-6db3-422c-8315-b8be16f0a3a0",
+        "question": {
+          "value": "Do you do perms or relaxers?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you do perms or relaxers? Some locations and stylists do. Reach out to your local Bishops directly, or call ahead to check."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Some locations and stylists do. Reach out to your local Bishops directly, or call ahead to check.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you do perms or relaxers? Some locations and stylists do. Reach out to your local Bishops directly, or call ahead to check."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "ce01af30-70ca-4080-bc5c-25572a766d91",
+        "question": {
+          "value": "How long do services take?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "How long do services take? Cuts usually take 30–45 minutes. Color services vary depending on complexity. For full bleach-outs or vivid transformations, plan for 2–3 hours or more. We’ll give you an estimate during your consultation."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Cuts usually take 30–45 minutes. Color services vary depending on complexity. For full bleach-outs or vivid transformations, plan for 2–3 hours or more. We’ll give you an estimate during your consultation.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "How long do services take? Cuts usually take 30–45 minutes. Color services vary depending on complexity. For full bleach-outs or vivid transformations, plan for 2–3 hours or more. We’ll give you an estimate during your consultation."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "fe318ef8-afd5-4625-a516-60655e721ec5",
+        "question": {
+          "value": "Do you cut kids’ hair?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you cut kids’ hair? Absolutely. We love helping kids feel confident about their style. Our stylists are trained to work with all ages and make first-time cuts feel fun and low-stress."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Absolutely. We love helping kids feel confident about their style. Our stylists are trained to work with all ages and make first-time cuts feel fun and low-stress.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you cut kids’ hair? Absolutely. We love helping kids feel confident about their style. Our stylists are trained to work with all ages and make first-time cuts feel fun and low-stress."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "cdf9d9ce-fb7a-47f6-8d98-c4ced3f9187b",
+        "question": {
+          "value": "How much is a haircut?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "How much is a haircut? Pricing varies by shop and service. For the most accurate details, visit your local Bishops location page."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Pricing varies by shop and service. For the most accurate details, visit your local Bishops location page.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "How much is a haircut? Pricing varies by shop and service. For the most accurate details, visit your local Bishops location page."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "79aa7000-7d6f-4adc-ad0b-5e5c31ac18a7",
+        "question": {
+          "value": "How much does color cost?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "How much does color cost? Every head of hair is different, and the cost depends on the look you’re going for—whether it’s a root touch-up, gloss, full bleach-and-tone, or balayage. That’s why we recommend starting with a FREE consultation. Our stylists will sit down with you, talk through your goals, review your hair’s history and condition, and create a custom plan just for you."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Every head of hair is different, and the cost depends on the look you’re going for—whether it’s a root touch-up, gloss, full bleach-and-tone, or balayage. That’s why we recommend starting with a FREE consultation. Our stylists will sit down with you, talk through your goals, review your hair’s history and condition, and create a custom plan just for you.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "How much does color cost? Every head of hair is different, and the cost depends on the look you’re going for—whether it’s a root touch-up, gloss, full bleach-and-tone, or balayage. That’s why we recommend starting with a FREE consultation. Our stylists will sit down with you, talk through your goals, review your hair’s history and condition, and create a custom plan just for you."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "c9af6f28-55a3-4bfd-9b30-aafb757393c8",
+        "question": {
+          "value": "Do you charge by gender?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you charge by gender? Never. Our pricing is based on time, technique, and length—not identity. Hair is hair."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Never. Our pricing is based on time, technique, and length—not identity. Hair is hair.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you charge by gender? Never. Our pricing is based on time, technique, and length—not identity. Hair is hair."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "2c7567b4-b482-426e-bb2e-69cb9c721144",
+        "question": {
+          "value": "Are consultations free?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Are consultations free? Yes. Always. Book online or stop in for a quick chat."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Yes. Always. Book online or stop in for a quick chat.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Are consultations free? Yes. Always. Book online or stop in for a quick chat."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "59ae077f-2f80-418d-addd-88511b184c3b",
+        "question": {
+          "value": "What if I don’t know what color I want?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "What if I don’t know what color I want? Perfect. That’s what we’re here for. Book a free color consultation or come in with a few reference points, and your stylist will help guide the decision based on your goals, lifestyle, and hair health."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Perfect. That’s what we’re here for. Book a free color consultation or come in with a few reference points, and your stylist will help guide the decision based on your goals, lifestyle, and hair health.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "What if I don’t know what color I want? Perfect. That’s what we’re here for. Book a free color consultation or come in with a few reference points, and your stylist will help guide the decision based on your goals, lifestyle, and hair health."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "5b47059f-bd96-4230-8079-98650af1cf06",
+        "question": {
+          "value": "Can I go from black to blonde in one session?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Can I go from black to blonde in one session? It depends on your hair type and history—but probably not. We’ll prioritize hair health over speed. Multiple sessions may be needed for major changes."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "It depends on your hair type and history—but probably not. We’ll prioritize hair health over speed. Multiple sessions may be needed for major changes.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Can I go from black to blonde in one session? It depends on your hair type and history—but probably not. We’ll prioritize hair health over speed. Multiple sessions may be needed for major changes."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "e9746c7c-8b2a-4884-800b-b2cdfb6f65d6",
+        "question": {
+          "value": "Do you work with vivid/fantasy colors?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you work with vivid/fantasy colors? Absolutely. Pinks, purples, neons, iridescents—we do it all. And we know how to make it last."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Absolutely. Pinks, purples, neons, iridescents—we do it all. And we know how to make it last.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you work with vivid/fantasy colors? Absolutely. Pinks, purples, neons, iridescents—we do it all. And we know how to make it last."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "cd0c2791-002b-41d0-9fc1-784140c97fe4",
+        "question": {
+          "value": "Do you offer color correction / color overhaul?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you offer color correction / color overhaul? Yes! Come in for a FREE consultation so our color experts can assess whether it’s a correction, a refresh, or a full transformation. We’ll review the history and condition of your hair, talk through the change you’re looking for, and create a plan to get you there. From there, we’ll provide a custom recommendation and estimate to help you achieve your hair goals."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Yes! Come in for a FREE consultation so our color experts can assess whether it’s a correction, a refresh, or a full transformation. We’ll review the history and condition of your hair, talk through the change you’re looking for, and create a plan to get you there. From there, we’ll provide a custom recommendation and estimate to help you achieve your hair goals.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you offer color correction / color overhaul? Yes! Come in for a FREE consultation so our color experts can assess whether it’s a correction, a refresh, or a full transformation. We’ll review the history and condition of your hair, talk through the change you’re looking for, and create a plan to get you there. From there, we’ll provide a custom recommendation and estimate to help you achieve your hair goals."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "0b736fd5-1e73-4893-8a28-20b585c10875",
+        "question": {
+          "value": "Is Bishops gender-inclusive?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Is Bishops gender-inclusive? Always. We were one of the first salon brands to lead the charge in non-gendered pricing and inclusive service training. You belong here."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Always. We were one of the first salon brands to lead the charge in non-gendered pricing and inclusive service training. You belong here.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Is Bishops gender-inclusive? Always. We were one of the first salon brands to lead the charge in non-gendered pricing and inclusive service training. You belong here."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "e60630c9-fa7d-4744-9ca2-af9f2b1c1f66",
+        "question": {
+          "value": "Do you offer wheelchair-accessible stations?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you offer wheelchair-accessible stations? Most of our shops do. We recommend calling your nearest location to confirm ahead of time so we can reserve the best spot for you."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Most of our shops do. We recommend calling your nearest location to confirm ahead of time so we can reserve the best spot for you.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "Do you offer wheelchair-accessible stations? Most of our shops do. We recommend calling your nearest location to confirm ahead of time so we can reserve the best spot for you."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      },
+      {
+        "id": "47b51e0c-fdea-482e-85ea-f4e8d41b4811",
+        "question": {
+          "value": "What’s your cancellation policy?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "What’s your cancellation policy? Each shop manages its own scheduling. As a general rule, we appreciate 24-hour notice when possible. No-shows may be charged a fee."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "answer": {
+          "value": "Each shop manages its own scheduling. As a general rule, we appreciate 24-hour notice when possible. No-shows may be charged a fee.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/faq/",
+              "snippet": "What’s your cancellation policy? Each shop manages its own scheduling. As a general rule, we appreciate 24-hour notice when possible. No-shows may be charged a fee."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        }
+      }
+    ],
+    "testimonials": [],
+    "trustSignals": []
+  },
+  "marketing": {
+    "voice": {
+      "formality": "conversational",
+      "emoji": "none",
+      "length": "balanced",
+      "pronoun": null,
+      "callsCustomers": "",
+      "avoid": [],
+      "writingSamples": [],
+      "chosenAt": null
+    },
+    "claims": [
+      {
+        "id": "2c5e5796-dc35-4952-bfff-fdf3ce6531d3",
+        "text": {
+          "value": "Are your stylists licensed?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/services/",
+              "snippet": "Are your stylists licensed? Yep. Every Bishops stylist is fully licensed by their state and regularly trained on current techniques, trends, and client care."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "14741e2f-4203-401b-8bc2-e05963326446",
+        "text": {
+          "value": "Every Bishops stylist is fully licensed by their state and regularly trained on current techniques, trends, and client care.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/services/",
+              "snippet": "Are your stylists licensed? Yep. Every Bishops stylist is fully licensed by their state and regularly trained on current techniques, trends, and client care."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "96e20385-d993-41be-9fb3-d35a33c2c2b2",
+        "text": {
+          "value": "We recommend calling your nearest location to confirm ahead of time so we can reserve the best spot for you.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/services/",
+              "snippet": "Do you offer wheelchair-accessible stations? Most of our shops do. We recommend calling your nearest location to confirm ahead of time so we can reserve the best spot for you."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "01258aa6-2dd9-4cac-8683-28ebbcc2bba3",
+        "text": {
+          "value": "Unopened products can usually be returned or exchanged within 30 days.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/services/",
+              "snippet": "Unopened products can usually be returned or exchanged within 30 days. Reach out to your local shop for their exact policy."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "95d9b03b-d838-4836-b761-0f4531d0490d",
+        "text": {
+          "value": "If something isn’t right, reach out to the shop manager within 7 days and we’ll get you rescheduled.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://bishops.co/services/",
+              "snippet": "What if I’m unhappy with my service? We want you to love your hair. While we do not offer refunds, we do provide a 7-day window for any fixes or color adjustments to make sure you get the look you want. If something isn’t right, reach out to the shop manager within 7 days and we’ll get you rescheduled."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:42.644Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      }
+    ],
+    "promotions": [],
+    "preferredCallToAction": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "customersWanted": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "customersNotSuitable": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "triggerMoments": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:42.642Z"
+    },
+    "genericPhrasesToAvoid": []
+  },
+  "sources": [
+    {
+      "url": "https://bishops.co/",
+      "title": "Home - Bishops Cuts/Color",
+      "fetchedAt": "2026-10-19T01:42:47.136Z",
+      "headings": [
+        "YOU DESERVE A HAIRCUT THIS COOL",
+        "OUR SERVICES",
+        "CUTS",
+        "COLOR",
+        "A-LA-CARTE",
+        "A Good Haircut Was Expensive. An Affordable One Was Basic.",
+        "We Fixed That.",
+        "Why Bishops? Because Cookie-Cutter",
+        "ISN’T YOUR STYLE.",
+        "Come as You Are, Leave as Your Best",
+        "Step In. Stand Out.",
+        "FROM THE BLOG",
+        "LET'S GET SOCIAL",
+        "GET THE BISHOPS MOBILE APP"
+      ],
+      "paragraphs": [
+        "Come as you are. Bring your partner, your kid, or your own wild vision. Whether it’s their first haircut or your fifth bold color in a year, we’ve got the talent—and the attitude—to make it great.",
+        "Walk-in trims, back-to-school shape-ups, edgy transformations—we do it all. All ages. All hair types. No drama. View services ›",
+        "Full bleach-outs. Subtle lowlights. Neon green if that’s your thing. We’re not here to judge—we’re here to deliver. View services ›",
+        "Beard trims, blowouts, gloss treatments, and more. Book what you need, skip what you don’t. View services ›",
+        "Bishops was born from the idea that hair care should be high quality and accessible. We combine skilled stylists, great products, and a neighborhood vibe that works for everyone—families included. No pressure. No pretension. Just really good hair.",
+        "Bishops isn’t your typical salon. It’s a place where individuality is celebrated, not flattened out. Whether you’re in Portland, Austin, Denver, or anywhere else we call home, our shops are designed to feel like part creative studio, part neighborhood hangout.",
+        "Serious about style, allergic to attitude. We've mastered the rules so we know how to break them, delivering excellence without the ego.",
+        "Break free from the BS. We're real people, creating real connections, and celebrating real style. No masks, no pretense—just pure, unfiltered you."
+      ]
+    },
+    {
+      "url": "https://bishops.co/about/",
+      "title": "About Bishops Barbershop. Who we are. Hair cut. Color. Style. Shave.",
+      "fetchedAt": "2026-10-19T01:42:53.241Z",
+      "headings": [
+        "More than a haircut. This is a culture.",
+        "Our origin story",
+        "Born In Portland. Built for everyone.",
+        "What We Stand For",
+        "Hair Should Be Fun. So Should the Spot That Cuts It.",
+        "Who We Serve",
+        "You Don’t Fit in a Box—and That’s Exactly How We Like It.",
+        "What Makes Bishops Different",
+        "This Isn’t a Chain. It’s a Creative Studio.",
+        "JOIN THE MOVEMENT",
+        "GET THE BISHOPS MOBILE APP"
+      ],
+      "paragraphs": [
+        "Bishops started in Portland, Oregon with one chair, one mural, and one mission: to create a space where people could express themselves without fear, shame, or sticker shock. We were tired of overpriced salons with cold attitudes—and cheap chains that treated style like an afterthought. So, we built something better.",
+        "Since opening our first shop in 2001, Bishops has grown into a nationwide brand with 40+ locations—and zero desire to go mainstream. We’re here to shake up the industry, one killer cut at a time.",
+        "Our clients span generations, genders, zip codes, and playlists. From back-to-school buzzcuts and post-divorce dye jobs to everyday shape-ups and full-on reinventions—our chairs are for everyone.",
+        "We’re always looking for stylists, shop owners, and fellow humans who want to be part of something real. If you’re tired of stale service and surface-level style, welcome home."
+      ]
+    },
+    {
+      "url": "https://bishops.co/services/",
+      "title": "Bishops Barbershop Services - Cut. Color. Style. Shave.",
+      "fetchedAt": "2026-10-19T01:42:56.820Z",
+      "headings": [
+        "OUR SERVICES",
+        "CUTS",
+        "COLOR",
+        "A-LA-CARTE",
+        "FAQ",
+        "FROM THE BLOG",
+        "LET'S GET SOCIAL",
+        "GET THE BISHOPS MOBILE APP"
+      ],
+      "paragraphs": [
+        "Haircuts. Color. Touch-ups. Add-ons. Whether you want a whole new vibe or just a quick cleanup, we’ve got you. Bishops services are for everyone—kids, grownups, and anyone who wants to look sharp without the stress.",
+        "Go subtle or go neon. From root touch-ups to full-on transformations, Bishops color services are designed for creativity, precision, and long-lasting impact. Our stylists stay trained on the latest techniques and trends—so you leave with color that turns heads.",
+        "Sometimes you just need a quick fix, not the full experience. These services are fast, affordable, and totally customizable.",
+        "Do I need an appointment? Nope. We’re walk-in friendly at all locations, though some services (especially color) are easier to book in advance. Use the “Book Now” button to lock in your time if you’re on a schedule.",
+        "What kind of salon is Bishops? We’re a hybrid between a barbershop and a salon—but with way better playlists. Think expert cuts, creative color, and an unpretentious, inclusive vibe. All ages. All hair types. All welcome.",
+        "Do you cut curly/textured hair? Yes, absolutely. Many of our stylists are trained in curl-specific cutting and styling techniques. If you have a particular request, we recommend giving us a call, booking in advance, and leaving a note so we can match you with the right stylist that will get your cut just right.",
+        "Are your stylists licensed? Yep. Every Bishops stylist is fully licensed by their state and regularly trained on current techniques, trends, and client care.",
+        "Do you sell hair products? Yes—and we only stock what we actually use. Ask your stylist for recs based on your hair goals. No pressure, just solid advice.",
+        "Can I bring a picture of the look I want? Definitely. Bring screenshots, inspo pics, or your Pinterest board. We’ll talk it through and help you get as close as possible based on your hair type and condition.",
+        "Do you do perms or relaxers? Some locations and stylists do. Reach out to your local Bishops directly, or call ahead to check.",
+        "How long do services take? Cuts usually take 30–45 minutes. Color services vary depending on complexity. For full bleach-outs or vivid transformations, plan for 2–3 hours or more. We’ll give you an estimate during your consultation.",
+        "Do you cut kids’ hair? Absolutely. We love helping kids feel confident about their style. Our stylists are trained to work with all ages and make first-time cuts feel fun and low-stress.",
+        "How much is a haircut? Pricing varies by shop and service. For the most accurate details, visit your local Bishops location page.",
+        "How much does color cost? Every head of hair is different, and the cost depends on the look you’re going for—whether it’s a root touch-up, gloss, full bleach-and-tone, or balayage. That’s why we recommend starting with a FREE consultation. Our stylists will sit down with you, talk through your goals, review your hair’s history and condition, and create a custom plan just for you.",
+        "Do you charge by gender? Never. Our pricing is based on time, technique, and length—not identity. Hair is hair.",
+        "Are consultations free? Yes. Always. Book online or stop in for a quick chat.",
+        "What if I don’t know what color I want? Perfect. That’s what we’re here for. Book a free color consultation or come in with a few reference points, and your stylist will help guide the decision based on your goals, lifestyle, and hair health.",
+        "Can I go from black to blonde in one session? It depends on your hair type and history—but probably not. We’ll prioritize hair health over speed. Multiple sessions may be needed for major changes.",
+        "Do you work with vivid/fantasy colors? Absolutely. Pinks, purples, neons, iridescents—we do it all. And we know how to make it last.",
+        "Do you offer color correction / color overhaul? Yes! Come in for a FREE consultation so our color experts can assess whether it’s a correction, a refresh, or a full transformation. We’ll review the history and condition of your hair, talk through the change you’re looking for, and create a plan to get you there. From there, we’ll provide a custom recommendation and estimate to help you achieve your hair goals.",
+        "Is Bishops gender-inclusive? Always. We were one of the first salon brands to lead the charge in non-gendered pricing and inclusive service training. You belong here.",
+        "Do you offer wheelchair-accessible stations? Most of our shops do. We recommend calling your nearest location to confirm ahead of time so we can reserve the best spot for you.",
+        "What’s your cancellation policy? Each shop manages its own scheduling. As a general rule, we appreciate 24-hour notice when possible. No-shows may be charged a fee.",
+        "Unopened products can usually be returned or exchanged within 30 days. Reach out to your local shop for their exact policy.",
+        "What if I’m unhappy with my service? We want you to love your hair. While we do not offer refunds, we do provide a 7-day window for any fixes or color adjustments to make sure you get the look you want. If something isn’t right, reach out to the shop manager within 7 days and we’ll get you rescheduled."
+      ]
+    },
+    {
+      "url": "https://bishops.co/faq/",
+      "title": "Bishops FAQs: Get info about hours, appointments, walk ins, and more.",
+      "fetchedAt": "2026-10-19T01:43:00.819Z",
+      "headings": [
+        "FAQ",
+        "GET THE BISHOPS MOBILE APP"
+      ],
+      "paragraphs": [
+        "Do I need an appointment? Nope. We’re walk-in friendly at all locations, though some services (especially color) are easier to book in advance. Use the “Book Now” button to lock in your time if you’re on a schedule.",
+        "What kind of salon is Bishops? We’re a hybrid between a barbershop and a salon—but with way better playlists. Think expert cuts, creative color, and an unpretentious, inclusive vibe. All ages. All hair types. All welcome.",
+        "Do you cut curly/textured hair? Yes, absolutely. Many of our stylists are trained in curl-specific cutting and styling techniques. If you have a particular request, we recommend giving us a call, booking in advance, and leaving a note so we can match you with the right stylist that will get your cut just right.",
+        "Are your stylists licensed? Yep. Every Bishops stylist is fully licensed by their state and regularly trained on current techniques, trends, and client care.",
+        "Do you sell hair products? Yes—and we only stock what we actually use. Ask your stylist for recs based on your hair goals. No pressure, just solid advice.",
+        "Can I bring a picture of the look I want? Definitely. Bring screenshots, inspo pics, or your Pinterest board. We’ll talk it through and help you get as close as possible based on your hair type and condition.",
+        "Do you do perms or relaxers? Some locations and stylists do. Reach out to your local Bishops directly, or call ahead to check.",
+        "How long do services take? Cuts usually take 30–45 minutes. Color services vary depending on complexity. For full bleach-outs or vivid transformations, plan for 2–3 hours or more. We’ll give you an estimate during your consultation.",
+        "Do you cut kids’ hair? Absolutely. We love helping kids feel confident about their style. Our stylists are trained to work with all ages and make first-time cuts feel fun and low-stress.",
+        "How much is a haircut? Pricing varies by shop and service. For the most accurate details, visit your local Bishops location page.",
+        "How much does color cost? Every head of hair is different, and the cost depends on the look you’re going for—whether it’s a root touch-up, gloss, full bleach-and-tone, or balayage. That’s why we recommend starting with a FREE consultation. Our stylists will sit down with you, talk through your goals, review your hair’s history and condition, and create a custom plan just for you.",
+        "Do you charge by gender? Never. Our pricing is based on time, technique, and length—not identity. Hair is hair.",
+        "Are consultations free? Yes. Always. Book online or stop in for a quick chat.",
+        "What if I don’t know what color I want? Perfect. That’s what we’re here for. Book a free color consultation or come in with a few reference points, and your stylist will help guide the decision based on your goals, lifestyle, and hair health.",
+        "Can I go from black to blonde in one session? It depends on your hair type and history—but probably not. We’ll prioritize hair health over speed. Multiple sessions may be needed for major changes.",
+        "Do you work with vivid/fantasy colors? Absolutely. Pinks, purples, neons, iridescents—we do it all. And we know how to make it last.",
+        "Do you offer color correction / color overhaul? Yes! Come in for a FREE consultation so our color experts can assess whether it’s a correction, a refresh, or a full transformation. We’ll review the history and condition of your hair, talk through the change you’re looking for, and create a plan to get you there. From there, we’ll provide a custom recommendation and estimate to help you achieve your hair goals.",
+        "Is Bishops gender-inclusive? Always. We were one of the first salon brands to lead the charge in non-gendered pricing and inclusive service training. You belong here.",
+        "Do you offer wheelchair-accessible stations? Most of our shops do. We recommend calling your nearest location to confirm ahead of time so we can reserve the best spot for you.",
+        "What’s your cancellation policy? Each shop manages its own scheduling. As a general rule, we appreciate 24-hour notice when possible. No-shows may be charged a fee.",
+        "Unopened products can usually be returned or exchanged within 30 days. Reach out to your local shop for their exact policy.",
+        "What if I’m unhappy with my service? We want you to love your hair. While we do not offer refunds, we do provide a 7-day window for any fixes or color adjustments to make sure you get the look you want. If something isn’t right, reach out to the shop manager within 7 days and we’ll get you rescheduled."
+      ]
+    },
+    {
+      "url": "https://bishops.co/locations/",
+      "title": "Locations - Bishops Cuts/Color",
+      "fetchedAt": "2026-10-19T01:43:03.989Z",
+      "headings": [
+        "Great Hair Is Closer Than You Think",
+        "Why Bishops? Because Cookie-Cutter",
+        "ISN’T YOUR STYLE",
+        "FROM THE BLOG",
+        "LET'S GET SOCIAL",
+        "GET THE BISHOPS MOBILE APP"
+      ],
+      "paragraphs": [
+        "From bold color to clean fades, Bishops offers expert cuts and styling in cities across the country. Find your local shop, walk in, and walk out looking like yourself—only sharper.",
+        "Bishops isn’t your typical salon. It’s a place where individuality is celebrated, not flattened out. Whether you’re in Portland, Austin, Denver, or anywhere else we call home, our shops are designed to feel like part creative studio, part neighborhood hangout."
+      ]
+    },
+    {
+      "url": "https://bishops.co/contact/",
+      "title": "Contact Bishops. Press, Customer Service, Inquiries - Hair cut. Color. Style. Shave.",
+      "fetchedAt": "2026-10-19T01:43:07.236Z",
+      "headings": [
+        "Contact Bishops",
+        "WE CAN’T WAIT TO HEAR FROM YOU!",
+        "GET THE BISHOPS MOBILE APP"
+      ],
+      "paragraphs": [
+        "For any appointment booking/cancellation inquiries, please call your local shop to get the fastest response. For all other questions, a Bishops team member will respond to you within 24–48 hours, if not sooner. Thank you for reaching out!"
+      ]
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,2192 @@
+{
+  "schemaVersion": "1.0",
+  "id": "5d1c37a3-d01a-46f0-91fe-11ba48ffbb9d",
+  "createdAt": "2026-10-19T03:23:45.946Z",
+  "updatedAt": "2026-10-19T03:23:45.948Z",
+  "company": {
+    "name": {
+      "value": "Ugmonk",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "Ugmonk"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/about",
+          "snippet": "Ugmonk"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+          "snippet": "Ugmonk"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "Ugmonk"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/contact-us",
+          "snippet": "Ugmonk"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+          "snippet": "Ugmonk"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+          "snippet": "Ugmonk"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "description": {
+      "value": "Ugmonk designs analog tools for focused, intentional work. The best-selling Analog Card System is used by 50,000+ people worldwide. Designed in Pennsylvania since 2008.",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "Ugmonk designs analog tools for focused, intentional work. The best-selling Analog Card System is used by 50,000+ people worldwide. Designed in Pennsylvania since 2008."
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/about",
+          "snippet": "Ugmonk designs analog tools for focused, intentional work. The best-selling Analog Card System is used by 50,000+ people worldwide. Designed in Pennsylvania since 2008."
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+          "snippet": "Your best thinking happens off the screen. Analog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it. This kit includes: 15 Task Cards (Today, Next, Someday) 15 Large Dot Grid Cards Solid aluminum card stand Featur"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "Ugmonk designs analog tools for focused, intentional work. The best-selling Analog Card System is used by 50,000+ people worldwide. Designed in Pennsylvania since 2008."
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/contact-us",
+          "snippet": "A few links that might point you in the right direction: Returns &amp; Exchanges"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+          "snippet": "Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box. 16\" Analog Card Bar (Black) 1 pack Small Task Cards (3\" x 5\") 1 pack Small Dot Grid Cards (3\" x 5\") 1 pack Large Dot Grid Cards (5\" x 6.5\") 1 pack of Wee"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+          "snippet": "Meet Analog: The Simplest Productivity System. Analog is a physical companion for your digital tools that helps you prioritize and focus on your most important tasks. The Analog Starter Kit includes: 1 Month of Analog Task Cards 30 Today cards, 2 Next Day cards, 1 Someday card Wood Card Holder The wood card holder keep"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "website": {
+      "value": "https://ugmonk.com/",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "https://ugmonk.com/"
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "industry": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "businessModel": {
+      "value": "Direct product sales",
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+          "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/about",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/contact-us",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.948Z"
+    },
+    "companyRole": {
+      "value": "Product designer",
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "Ugmonk designs analog tools for focused, intentional work. The best-selling Analog Card System is used by 50,000+ people worldwide. Designed in Pennsylvania since 2008."
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/about",
+          "snippet": "Ugmonk designs analog tools for focused, intentional work. The best-selling Analog Card System is used by 50,000+ people worldwide. Designed in Pennsylvania since 2008."
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "Ugmonk designs analog tools for focused, intentional work. The best-selling Analog Card System is used by 50,000+ people worldwide. Designed in Pennsylvania since 2008."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.948Z"
+    },
+    "yearFounded": {
+      "value": 2008,
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/pages/about",
+          "snippet": "I started Ugmonk in 2008 because I couldn't find simple, well-made things. No investors. No exit strategy. Just a conviction that good design should outlast trends, and that the best products are the ones you never feel the need to replace."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "legalEntityType": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "employeeCount": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "mainAddress": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "otherLocations": [
+      {
+        "id": "332ebdc1-5d1c-412c-bd66-6c019ac2fa02",
+        "label": {
+          "value": null,
+          "origin": "owner",
+          "evidence": [],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.948Z"
+        },
+        "address": {
+          "value": "806 Dorlan Mill Rd., Downingtown, PA 19335",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/",
+              "snippet": "806 Dorlan Mill Rd. Downingtown, PA 19335"
+            },
+            {
+              "sourceUrl": "https://ugmonk.com/pages/about",
+              "snippet": "806 Dorlan Mill Rd. Downingtown, PA 19335"
+            },
+            {
+              "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+              "snippet": "806 Dorlan Mill Rd. Downingtown, PA 19335"
+            },
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "806 Dorlan Mill Rd. Downingtown, PA 19335"
+            },
+            {
+              "sourceUrl": "https://ugmonk.com/pages/contact-us",
+              "snippet": "806 Dorlan Mill Rd. Downingtown, PA 19335"
+            },
+            {
+              "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+              "snippet": "806 Dorlan Mill Rd. Downingtown, PA 19335"
+            },
+            {
+              "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+              "snippet": "806 Dorlan Mill Rd. Downingtown, PA 19335"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.948Z"
+        }
+      }
+    ],
+    "serviceAreas": {
+      "value": [
+        "We ship to almost every country in the world and have customers in over 75 countries. (We don't currently ship to: Albania, Algeria, Brazil, Colombia, Ecuador, Indonesia, Malaysia, Mexico, Morocco, Pakistan, Slovenia, Tunisia, Vietnam, and more)"
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "We ship to almost every country in the world and have customers in over 75 countries. (We don't currently ship to: Albania, Algeria, Brazil, Colombia, Ecuador, Indonesia, Malaysia, Mexico, Morocco, Pakistan, Slovenia, Tunisia, Vietnam, and more)"
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.948Z"
+    },
+    "alternativeNames": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    }
+  },
+  "positioning": {
+    "pitch": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "foundingStory": {
+      "value": "I started Ugmonk in 2008 because I couldn't find simple, well-made things. No investors. No exit strategy. Just a conviction that good design should outlast trends, and that the best products are the ones you never feel the need to replace.",
+      "origin": "extracted",
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/pages/about",
+          "snippet": "I started Ugmonk in 2008 because I couldn't find simple, well-made things. No investors. No exit strategy. Just a conviction that good design should outlast trends, and that the best products are the ones you never feel the need to replace."
+        }
+      ],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.949Z"
+    },
+    "differentiators": [
+      {
+        "value": "We've been slowly building for 17 years, taking our time to get each product right instead of chasing trends.",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "We've been slowly building for 17 years, taking our time to get each product right instead of chasing trends."
+          }
+        ],
+        "origin": "extracted",
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      }
+    ]
+  },
+  "market": {
+    "targetBuyers": {
+      "value": [
+        "Ugmonk creates premium analog tools for people who value intentional work and thoughtful design."
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "Ugmonk creates premium analog tools for people who value intentional work and thoughtful design."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.948Z"
+    },
+    "customerNeeds": {
+      "value": [
+        "We design products that help you think better on paper and bring more focus to your work and life."
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "We design products that help you think better on paper and bring more focus to your work and life."
+        }
+      ],
+      "origin": "extracted",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.948Z"
+    },
+    "idealCustomerPersona": {
+      "value": "Rule-based audience summary: Ugmonk creates premium analog tools for people who value intentional work and thoughtful design. Need: We design products that help you think better on paper and bring more focus to your work and life.",
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "Ugmonk creates premium analog tools for people who value intentional work and thoughtful design."
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "We design products that help you think better on paper and bring more focus to your work and life."
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.948Z"
+    },
+    "industryGroupings": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "industryOutlook": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "channels": {
+      "value": [
+        "Website ordering"
+      ],
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/about",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/faq",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/contact-us",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+          "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "Shop All New Arrivals → | href: /collections/new-arrivals"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "Shop Now → | href: /collections/analog"
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/pages/about",
+          "snippet": "Shop All Best Sellers → | href: /collections/best-sellers"
+        }
+      ],
+      "origin": "inferred",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.948Z"
+    },
+    "funnels": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "callsToAction": [
+      {
+        "value": "Shop Best Sellers →",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "Shop Best Sellers → | href: /collections/best-sellers"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "Contact Us →",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "Contact Us → | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "Contact Us → | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "Contact Us → | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "Contact Us → | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "Contact Us → | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "Contact Us → | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "Contact Us → | href: /pages/contact-us"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "Shop All New Arrivals →",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "Shop All New Arrivals → | href: /collections/new-arrivals"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "Shop Now →",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "Shop Now → | href: /collections/analog"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "Contact Us",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "Contact Us | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "Contact Us | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "Contact Us | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "Contact Us | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "Contact Us | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "Contact Us | href: /pages/contact-us"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "Contact Us | href: /pages/contact-us"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "Contact information",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "Contact information | href: /policies/contact-information"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "Contact information | href: /policies/contact-information"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "Contact information | href: /policies/contact-information"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "Contact information | href: /policies/contact-information"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "Contact information | href: /policies/contact-information"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "Contact information | href: /policies/contact-information"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "Contact information | href: /policies/contact-information"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "View all",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "View all | button"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "View all | button"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "View all | button"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "View all | button"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "View all | button"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "View all | href: /collections/analog-new-cards"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "View all | button"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "Shop All Best Sellers →",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "Shop All Best Sellers → | href: /collections/best-sellers"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "contact form",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "contact form | href: https://ugmonk.com/contact"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      }
+    ],
+    "suppliersAndPartners": []
+  },
+  "branding": {
+    "writingStyle": {
+      "value": "Measured website text: 20 paragraphs; about 10 words per sentence. 9 paragraphs address the reader as you/your. This describes language patterns, not owner-approved tone.",
+      "evidence": [
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "Your best work happens away from a screen. When you can write it, hold it, rearrange it. Less distraction. More focus."
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "I started Ugmonk in 2008 from my apartment with no business plan, no investors, and one idea: make things I'd actually want to use."
+        },
+        {
+          "sourceUrl": "https://ugmonk.com/",
+          "snippet": "Today, I still prototype every product here in our Pennsylvania studio, obsess over every detail, and won't ship anything I wouldn't use myself."
+        }
+      ],
+      "origin": "measured",
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.948Z"
+    },
+    "artStyle": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "fonts": [
+      {
+        "value": "\"Instrument Sans\"",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "font-family: \"Instrument Sans\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "font-family: \"Instrument Sans\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "font-family: \"Instrument Sans\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "font-family: \"Instrument Sans\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "font-family: \"Instrument Sans\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "font-family: \"Instrument Sans\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "font-family: \"Instrument Sans\""
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "\"Instrument Serif\"",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "font-family: \"Instrument Serif\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "font-family: \"Instrument Serif\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "font-family: \"Instrument Serif\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "font-family: \"Instrument Serif\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "font-family: \"Instrument Serif\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "font-family: \"Instrument Serif\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "font-family: \"Instrument Serif\""
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      }
+    ],
+    "colors": [
+      {
+        "value": "#F4F4F4",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "; background-color: #f4f4f4"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "#9B492C",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "; color: #9b492c"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "#080808",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "; color: #080808"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "#060606",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "; color: #060606"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "#C5E0E4",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "background-color: #c5e0e4"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "background-color: #c5e0e4"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "#1C1C22",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "; color: #1C1C22"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "; color: #1C1C22"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "#FFFFFF",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "; color: #ffffff"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "; color: #ffffff"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "#000000",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "; background-color: #000000"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "; background-color: #000000"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      },
+      {
+        "value": "#2A2A2A",
+        "origin": "measured",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "color:#2a2a2a"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      }
+    ],
+    "logoUrls": [
+      {
+        "value": "https://ugmonk.com/cdn/shop/files/ugmonk-logo-1000_049acf69-2410-4ebe-ba63-a576142eeb51.png?v=1739292625&width=500",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "JSON-LD logo: \"https://ugmonk.com/cdn/shop/files/ugmonk-logo-1000_049acf69-2410-4ebe-ba63-a576142eeb51.png?v=1739292625&width=500\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "JSON-LD logo: \"https://ugmonk.com/cdn/shop/files/ugmonk-logo-1000_049acf69-2410-4ebe-ba63-a576142eeb51.png?v=1739292625&width=500\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "JSON-LD logo: \"https://ugmonk.com/cdn/shop/files/ugmonk-logo-1000_049acf69-2410-4ebe-ba63-a576142eeb51.png?v=1739292625&width=500\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "JSON-LD logo: \"https://ugmonk.com/cdn/shop/files/ugmonk-logo-1000_049acf69-2410-4ebe-ba63-a576142eeb51.png?v=1739292625&width=500\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "JSON-LD logo: \"https://ugmonk.com/cdn/shop/files/ugmonk-logo-1000_049acf69-2410-4ebe-ba63-a576142eeb51.png?v=1739292625&width=500\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "JSON-LD logo: \"https://ugmonk.com/cdn/shop/files/ugmonk-logo-1000_049acf69-2410-4ebe-ba63-a576142eeb51.png?v=1739292625&width=500\""
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "JSON-LD logo: \"https://ugmonk.com/cdn/shop/files/ugmonk-logo-1000_049acf69-2410-4ebe-ba63-a576142eeb51.png?v=1739292625&width=500\""
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.948Z"
+      }
+    ]
+  },
+  "socialProfiles": [
+    {
+      "id": "42b59cdf-45b0-4b1e-89dc-2c3ab36cfd1a",
+      "platform": "Instagram",
+      "url": {
+        "value": "https://instagram.com/ugmonk",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "http://instagram.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "http://instagram.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "http://instagram.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "http://instagram.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "http://instagram.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "http://instagram.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "http://instagram.com/ugmonk"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      }
+    },
+    {
+      "id": "7360f8dc-bcbe-4374-a8c5-384c0e83cd1d",
+      "platform": "X",
+      "url": {
+        "value": "https://x.com/ugmonk",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "http://x.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "http://x.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "http://x.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/faq",
+            "snippet": "http://x.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/pages/contact-us",
+            "snippet": "http://x.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "http://x.com/ugmonk"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "http://x.com/ugmonk"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      }
+    }
+  ],
+  "people": [],
+  "offerings": [
+    {
+      "id": "f4e22291-7e4f-4582-a41a-9bfafcf5e491",
+      "name": {
+        "value": "Analog Starter Kit (Black)",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "description": {
+        "value": "Your best thinking happens off the screen. Analog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it. This kit includes: 15 Task Cards (Today, Next, Someday) 15 Large Dot Grid Cards Solid aluminum card stand Features: 15 Task Cards (Today, Next, Someday) 15 large Dot Grid Cards (notes, ideas, sketches) Solid aluminum stand with anodized finish Holds cards at optimal viewing angle Laser-etched Ugmonk logo Stand Dimensions: 3\" x 2\" x .25\"",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "category": {
+        "value": "Desktop Organizers",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "kind": {
+        "value": "product",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "features": {
+        "value": [
+          "15 Task Cards (Today, Next, Someday) 15 large Dot Grid Cards (notes, ideas, sketches) Solid aluminum stand with anodized finish Holds cards at optimal viewing angle Laser-etched Ugmonk logo Stand Dimensions: 3\" x 2\" x .25\""
+        ],
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "USD 29.00; http://schema.org/InStock",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/",
+              "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+            },
+            {
+              "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+              "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Your best thinking happens off the screen. \\nAnalog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.\\nThis kit includes:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 Large Dot Grid Cards\\nSolid aluminum card stand\\n\\nFeatures:\\n\\n15 Task Cards (Today, Next, Someday)\\n15 large Dot Grid Cards (notes, ideas, sketches)\\nSolid aluminum stand with anodized finish\\n\\nHolds cards at optimal viewing angle\\n\\nLaser-etched Ugmonk logo\\nStand Dimensions: 3\\\" x 2\\\" x .25\\\"\\n\\n\",\"image\":\"https://ugmonk.com/cdn/shop/files/sk-black-1-tags.jpg?v=1788890120&width=1920\",\"name\":\"Analog Starter Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-starter-kit-black?variant=46550006300822#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"29.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black?variant=46550006300822\"},\"sku\":\"sk-blk\",\"url\":\"https://ugmonk.com/products/analog-starter-kit-black\"}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.946Z"
+        }
+      }
+    },
+    {
+      "id": "c12b5e0b-a93a-4fb5-99ed-c00e9b4555cb",
+      "name": {
+        "value": "Analog Travel Case (Walnut)",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "Analog Travel Case (Walnut) Analog Travel Case Walnut $49 Sale price $49 Regular price Save $-49"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "description": {
+        "value": "Analog Travel Case Walnut",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "Analog Travel Case (Walnut) Analog Travel Case Walnut $49 Sale price $49 Regular price Save $-49"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "category": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "kind": {
+        "value": "product",
+        "origin": "inferred",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/",
+            "snippet": "Analog Travel Case (Walnut) Analog Travel Case Walnut $49 Sale price $49 Regular price Save $-49"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "features": {
+        "value": null,
+        "origin": "owner",
+        "evidence": [],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "$49",
+          "origin": "inferred",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/",
+              "snippet": "Analog Travel Case (Walnut) Analog Travel Case Walnut $49 Sale price $49 Regular price Save $-49"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.946Z"
+        }
+      }
+    },
+    {
+      "id": "958d15ea-665a-49db-8bf3-cb4d3244a885",
+      "name": {
+        "value": "Analog Daily Focus Kit (Walnut)",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "Analog Daily Focus Kit (Walnut) Analog Daily Focus Kit Walnut $69 Sale price $69 Regular price Save $-69"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Organizers\",\"description\":\"Meet Analog: The Simplest Productivity System. Analog is a physical companion for your digital tools that helps you prioritize and focus on your most important tasks.\\nThe Analog Starter Kit includes:\\n\\n\\n1 Month of Analog Task Cards\\n30 Today cards, 2 Next Day cards, 1 Someday card\\n\\n\\nWood Card Holder\\nThe wood card holder keeps your Today card in front of you while the open-back is designed to store your completed cards.\\n\\n\\nCard Divider\\nThe included tabbed divider gives you an easy way to separate your new and completed cards\\n\\n\\nInterested in buying in bulk for your whole team? Email us: orders@ugmonk.com\\nFeatures:\\n\\n1 Month of Analog Task Cards (30 Today, 2 Next, 1 Someday)\\n\\nPrinted on 100# smooth uncoated paper\\nDot grid pattern on back\\n\\nAmerican walnut card holder\\nLaser-engraved Ugmonk logo\\nNon-slip rubber feet\\nCard Holder Dimensions: 6.25\\\" x 3.55\\\" x 1.15\\\"\\n\\nCard Dimensions: 3″x5″\\n\\n\",\"gtin\":\"18748054\",\"image\":\"https://ugmonk.com/cdn/shop/files/new-solo.jpg?v=1771626446&width=1920\",\"name\":\"Analog Daily Focus Kit (Walnut)\",\"offers\":{\"@id\":\"/products/analog-starter-kit?variant=37022218748054#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"69.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit?variant=37022218748054\"},\"sku\":\"analog-sk-new\",\"url\":\"https://ugmonk.com/products/analog-starter-kit\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "description": {
+        "value": "Meet Analog: The Simplest Productivity System. Analog is a physical companion for your digital tools that helps you prioritize and focus on your most important tasks. The Analog Starter Kit includes: 1 Month of Analog Task Cards 30 Today cards, 2 Next Day cards, 1 Someday card Wood Card Holder The wood card holder keeps your Today card in front of you while the open-back is designed to store your completed cards. Card Divider The included tabbed divider gives you an easy way to separate your new and completed cards Interested in buying in bulk for your whole team? Email us: orders@ugmonk.com Features: 1 Month of Analog Task Cards (30 Today, 2 Next, 1 Someday) Printed on 100# smooth uncoated paper Dot grid pattern on back American walnut card holder Laser-engraved Ugmonk logo Non-slip rubber feet Card Holder Dimensions: 6.25\" x 3.55\" x 1.15\" Card Dimensions: 3″x5″",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "Analog Daily Focus Kit (Walnut) Analog Daily Focus Kit Walnut $69 Sale price $69 Regular price Save $-69"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Organizers\",\"description\":\"Meet Analog: The Simplest Productivity System. Analog is a physical companion for your digital tools that helps you prioritize and focus on your most important tasks.\\nThe Analog Starter Kit includes:\\n\\n\\n1 Month of Analog Task Cards\\n30 Today cards, 2 Next Day cards, 1 Someday card\\n\\n\\nWood Card Holder\\nThe wood card holder keeps your Today card in front of you while the open-back is designed to store your completed cards.\\n\\n\\nCard Divider\\nThe included tabbed divider gives you an easy way to separate your new and completed cards\\n\\n\\nInterested in buying in bulk for your whole team? Email us: orders@ugmonk.com\\nFeatures:\\n\\n1 Month of Analog Task Cards (30 Today, 2 Next, 1 Someday)\\n\\nPrinted on 100# smooth uncoated paper\\nDot grid pattern on back\\n\\nAmerican walnut card holder\\nLaser-engraved Ugmonk logo\\nNon-slip rubber feet\\nCard Holder Dimensions: 6.25\\\" x 3.55\\\" x 1.15\\\"\\n\\nCard Dimensions: 3″x5″\\n\\n\",\"gtin\":\"18748054\",\"image\":\"https://ugmonk.com/cdn/shop/files/new-solo.jpg?v=1771626446&width=1920\",\"name\":\"Analog Daily Focus Kit (Walnut)\",\"offers\":{\"@id\":\"/products/analog-starter-kit?variant=37022218748054#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"69.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit?variant=37022218748054\"},\"sku\":\"analog-sk-new\",\"url\":\"https://ugmonk.com/products/analog-starter-kit\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "category": {
+        "value": "Organizers",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Organizers\",\"description\":\"Meet Analog: The Simplest Productivity System. Analog is a physical companion for your digital tools that helps you prioritize and focus on your most important tasks.\\nThe Analog Starter Kit includes:\\n\\n\\n1 Month of Analog Task Cards\\n30 Today cards, 2 Next Day cards, 1 Someday card\\n\\n\\nWood Card Holder\\nThe wood card holder keeps your Today card in front of you while the open-back is designed to store your completed cards.\\n\\n\\nCard Divider\\nThe included tabbed divider gives you an easy way to separate your new and completed cards\\n\\n\\nInterested in buying in bulk for your whole team? Email us: orders@ugmonk.com\\nFeatures:\\n\\n1 Month of Analog Task Cards (30 Today, 2 Next, 1 Someday)\\n\\nPrinted on 100# smooth uncoated paper\\nDot grid pattern on back\\n\\nAmerican walnut card holder\\nLaser-engraved Ugmonk logo\\nNon-slip rubber feet\\nCard Holder Dimensions: 6.25\\\" x 3.55\\\" x 1.15\\\"\\n\\nCard Dimensions: 3″x5″\\n\\n\",\"gtin\":\"18748054\",\"image\":\"https://ugmonk.com/cdn/shop/files/new-solo.jpg?v=1771626446&width=1920\",\"name\":\"Analog Daily Focus Kit (Walnut)\",\"offers\":{\"@id\":\"/products/analog-starter-kit?variant=37022218748054#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"69.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit?variant=37022218748054\"},\"sku\":\"analog-sk-new\",\"url\":\"https://ugmonk.com/products/analog-starter-kit\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "kind": {
+        "value": "product",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/pages/about",
+            "snippet": "Analog Daily Focus Kit (Walnut) Analog Daily Focus Kit Walnut $69 Sale price $69 Regular price Save $-69"
+          },
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Organizers\",\"description\":\"Meet Analog: The Simplest Productivity System. Analog is a physical companion for your digital tools that helps you prioritize and focus on your most important tasks.\\nThe Analog Starter Kit includes:\\n\\n\\n1 Month of Analog Task Cards\\n30 Today cards, 2 Next Day cards, 1 Someday card\\n\\n\\nWood Card Holder\\nThe wood card holder keeps your Today card in front of you while the open-back is designed to store your completed cards.\\n\\n\\nCard Divider\\nThe included tabbed divider gives you an easy way to separate your new and completed cards\\n\\n\\nInterested in buying in bulk for your whole team? Email us: orders@ugmonk.com\\nFeatures:\\n\\n1 Month of Analog Task Cards (30 Today, 2 Next, 1 Someday)\\n\\nPrinted on 100# smooth uncoated paper\\nDot grid pattern on back\\n\\nAmerican walnut card holder\\nLaser-engraved Ugmonk logo\\nNon-slip rubber feet\\nCard Holder Dimensions: 6.25\\\" x 3.55\\\" x 1.15\\\"\\n\\nCard Dimensions: 3″x5″\\n\\n\",\"gtin\":\"18748054\",\"image\":\"https://ugmonk.com/cdn/shop/files/new-solo.jpg?v=1771626446&width=1920\",\"name\":\"Analog Daily Focus Kit (Walnut)\",\"offers\":{\"@id\":\"/products/analog-starter-kit?variant=37022218748054#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"69.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit?variant=37022218748054\"},\"sku\":\"analog-sk-new\",\"url\":\"https://ugmonk.com/products/analog-starter-kit\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "features": {
+        "value": [
+          "1 Month of Analog Task Cards (30 Today, 2 Next, 1 Someday) Printed on 100# smooth uncoated paper Dot grid pattern on back American walnut card holder Laser-engraved Ugmonk logo Non-slip rubber feet Card Holder Dimensions: 6.25\" x 3.55\" x 1.15\" Card Dimensions: 3″x5″"
+        ],
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Organizers\",\"description\":\"Meet Analog: The Simplest Productivity System. Analog is a physical companion for your digital tools that helps you prioritize and focus on your most important tasks.\\nThe Analog Starter Kit includes:\\n\\n\\n1 Month of Analog Task Cards\\n30 Today cards, 2 Next Day cards, 1 Someday card\\n\\n\\nWood Card Holder\\nThe wood card holder keeps your Today card in front of you while the open-back is designed to store your completed cards.\\n\\n\\nCard Divider\\nThe included tabbed divider gives you an easy way to separate your new and completed cards\\n\\n\\nInterested in buying in bulk for your whole team? Email us: orders@ugmonk.com\\nFeatures:\\n\\n1 Month of Analog Task Cards (30 Today, 2 Next, 1 Someday)\\n\\nPrinted on 100# smooth uncoated paper\\nDot grid pattern on back\\n\\nAmerican walnut card holder\\nLaser-engraved Ugmonk logo\\nNon-slip rubber feet\\nCard Holder Dimensions: 6.25\\\" x 3.55\\\" x 1.15\\\"\\n\\nCard Dimensions: 3″x5″\\n\\n\",\"gtin\":\"18748054\",\"image\":\"https://ugmonk.com/cdn/shop/files/new-solo.jpg?v=1771626446&width=1920\",\"name\":\"Analog Daily Focus Kit (Walnut)\",\"offers\":{\"@id\":\"/products/analog-starter-kit?variant=37022218748054#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"69.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit?variant=37022218748054\"},\"sku\":\"analog-sk-new\",\"url\":\"https://ugmonk.com/products/analog-starter-kit\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "USD 69.00; http://schema.org/InStock",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/about",
+              "snippet": "Analog Daily Focus Kit (Walnut) Analog Daily Focus Kit Walnut $69 Sale price $69 Regular price Save $-69"
+            },
+            {
+              "sourceUrl": "https://ugmonk.com/products/analog-starter-kit",
+              "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-starter-kit#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Organizers\",\"description\":\"Meet Analog: The Simplest Productivity System. Analog is a physical companion for your digital tools that helps you prioritize and focus on your most important tasks.\\nThe Analog Starter Kit includes:\\n\\n\\n1 Month of Analog Task Cards\\n30 Today cards, 2 Next Day cards, 1 Someday card\\n\\n\\nWood Card Holder\\nThe wood card holder keeps your Today card in front of you while the open-back is designed to store your completed cards.\\n\\n\\nCard Divider\\nThe included tabbed divider gives you an easy way to separate your new and completed cards\\n\\n\\nInterested in buying in bulk for your whole team? Email us: orders@ugmonk.com\\nFeatures:\\n\\n1 Month of Analog Task Cards (30 Today, 2 Next, 1 Someday)\\n\\nPrinted on 100# smooth uncoated paper\\nDot grid pattern on back\\n\\nAmerican walnut card holder\\nLaser-engraved Ugmonk logo\\nNon-slip rubber feet\\nCard Holder Dimensions: 6.25\\\" x 3.55\\\" x 1.15\\\"\\n\\nCard Dimensions: 3″x5″\\n\\n\",\"gtin\":\"18748054\",\"image\":\"https://ugmonk.com/cdn/shop/files/new-solo.jpg?v=1771626446&width=1920\",\"name\":\"Analog Daily Focus Kit (Walnut)\",\"offers\":{\"@id\":\"/products/analog-starter-kit?variant=37022218748054#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"69.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-starter-kit?variant=37022218748054\"},\"sku\":\"analog-sk-new\",\"url\":\"https://ugmonk.com/products/analog-starter-kit\"}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.946Z"
+        }
+      }
+    },
+    {
+      "id": "022425e8-ee61-42bf-8b85-4c1d48630d00",
+      "name": {
+        "value": "Analog Card Bar - Pro Kit (Black)",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-card-bar-pro-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box.\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\n\\n\\nThe Analog Card Bar is precision milled from solid aluminum with a black beadblasted finish and displays your cards at the perfect viewing angle. Two slots give you versatility to arrange cards in various configurations, and the front conveniently doubles as a pen tray. At almost 1.5lbs with a rubber pad on the bottom, it stays firmly in place on your desk.\\nFeatures:\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\nSolid aluminum construction with matte black bead blasted finish\\nHolds multiple cards at optimal viewing angle\\nFront tray for pens or additional card storage\\nLaser-etched Ugmonk logo\\nDimensions: 16\\\" x 1.8\\\" x .63\\\"\\n\",\"gtin\":\"64777110\",\"image\":\"https://ugmonk.com/cdn/shop/files/pro-blk-new.jpg?v=1783626236&width=1920\",\"name\":\"Analog Card Bar - Pro Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-card-bar-pro-kit-black?variant=46270473961622#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"129.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black?variant=46270473961622\"},\"sku\":\"card-bar-pro-kit-black\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "description": {
+        "value": "Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box. 16\" Analog Card Bar (Black) 1 pack Small Task Cards (3\" x 5\") 1 pack Small Dot Grid Cards (3\" x 5\") 1 pack Large Dot Grid Cards (5\" x 6.5\") 1 pack of Weekly Cards (3\" x 8.5\") The Analog Card Bar is precision milled from solid aluminum with a black beadblasted finish and displays your cards at the perfect viewing angle. Two slots give you versatility to arrange cards in various configurations, and the front conveniently doubles as a pen tray. At almost 1.5lbs with a rubber pad on the bottom, it stays firmly in place on your desk. Features: 16\" Analog Card Bar (Black) 1 pack Small Task Cards (3\" x 5\") 1 pack Small Dot Grid Cards (3\" x 5\") 1 pack Large Dot Grid Cards (5\" x 6.5\") 1 pack of Weekly Cards (3\" x 8.5\") Solid aluminum construction with matte black bead blasted finish Holds multiple cards at optimal viewing angle Front tray for pens or additional card storage Laser-etched Ugmonk logo Dimensions: 16\" x 1.8\" x .63\"",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-card-bar-pro-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box.\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\n\\n\\nThe Analog Card Bar is precision milled from solid aluminum with a black beadblasted finish and displays your cards at the perfect viewing angle. Two slots give you versatility to arrange cards in various configurations, and the front conveniently doubles as a pen tray. At almost 1.5lbs with a rubber pad on the bottom, it stays firmly in place on your desk.\\nFeatures:\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\nSolid aluminum construction with matte black bead blasted finish\\nHolds multiple cards at optimal viewing angle\\nFront tray for pens or additional card storage\\nLaser-etched Ugmonk logo\\nDimensions: 16\\\" x 1.8\\\" x .63\\\"\\n\",\"gtin\":\"64777110\",\"image\":\"https://ugmonk.com/cdn/shop/files/pro-blk-new.jpg?v=1783626236&width=1920\",\"name\":\"Analog Card Bar - Pro Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-card-bar-pro-kit-black?variant=46270473961622#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"129.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black?variant=46270473961622\"},\"sku\":\"card-bar-pro-kit-black\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "category": {
+        "value": "Desktop Organizers",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-card-bar-pro-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box.\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\n\\n\\nThe Analog Card Bar is precision milled from solid aluminum with a black beadblasted finish and displays your cards at the perfect viewing angle. Two slots give you versatility to arrange cards in various configurations, and the front conveniently doubles as a pen tray. At almost 1.5lbs with a rubber pad on the bottom, it stays firmly in place on your desk.\\nFeatures:\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\nSolid aluminum construction with matte black bead blasted finish\\nHolds multiple cards at optimal viewing angle\\nFront tray for pens or additional card storage\\nLaser-etched Ugmonk logo\\nDimensions: 16\\\" x 1.8\\\" x .63\\\"\\n\",\"gtin\":\"64777110\",\"image\":\"https://ugmonk.com/cdn/shop/files/pro-blk-new.jpg?v=1783626236&width=1920\",\"name\":\"Analog Card Bar - Pro Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-card-bar-pro-kit-black?variant=46270473961622#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"129.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black?variant=46270473961622\"},\"sku\":\"card-bar-pro-kit-black\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "kind": {
+        "value": "product",
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-card-bar-pro-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box.\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\n\\n\\nThe Analog Card Bar is precision milled from solid aluminum with a black beadblasted finish and displays your cards at the perfect viewing angle. Two slots give you versatility to arrange cards in various configurations, and the front conveniently doubles as a pen tray. At almost 1.5lbs with a rubber pad on the bottom, it stays firmly in place on your desk.\\nFeatures:\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\nSolid aluminum construction with matte black bead blasted finish\\nHolds multiple cards at optimal viewing angle\\nFront tray for pens or additional card storage\\nLaser-etched Ugmonk logo\\nDimensions: 16\\\" x 1.8\\\" x .63\\\"\\n\",\"gtin\":\"64777110\",\"image\":\"https://ugmonk.com/cdn/shop/files/pro-blk-new.jpg?v=1783626236&width=1920\",\"name\":\"Analog Card Bar - Pro Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-card-bar-pro-kit-black?variant=46270473961622#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"129.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black?variant=46270473961622\"},\"sku\":\"card-bar-pro-kit-black\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "features": {
+        "value": [
+          "16\" Analog Card Bar (Black) 1 pack Small Task Cards (3\" x 5\") 1 pack Small Dot Grid Cards (3\" x 5\") 1 pack Large Dot Grid Cards (5\" x 6.5\") 1 pack of Weekly Cards (3\" x 8.5\") Solid aluminum construction with matte black bead blasted finish Holds multiple cards at optimal viewing angle Front tray for pens or additional card storage Laser-etched Ugmonk logo Dimensions: 16\" x 1.8\" x .63\""
+        ],
+        "origin": "extracted",
+        "evidence": [
+          {
+            "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+            "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-card-bar-pro-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box.\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\n\\n\\nThe Analog Card Bar is precision milled from solid aluminum with a black beadblasted finish and displays your cards at the perfect viewing angle. Two slots give you versatility to arrange cards in various configurations, and the front conveniently doubles as a pen tray. At almost 1.5lbs with a rubber pad on the bottom, it stays firmly in place on your desk.\\nFeatures:\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\nSolid aluminum construction with matte black bead blasted finish\\nHolds multiple cards at optimal viewing angle\\nFront tray for pens or additional card storage\\nLaser-etched Ugmonk logo\\nDimensions: 16\\\" x 1.8\\\" x .63\\\"\\n\",\"gtin\":\"64777110\",\"image\":\"https://ugmonk.com/cdn/shop/files/pro-blk-new.jpg?v=1783626236&width=1920\",\"name\":\"Analog Card Bar - Pro Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-card-bar-pro-kit-black?variant=46270473961622#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"129.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black?variant=46270473961622\"},\"sku\":\"card-bar-pro-kit-black\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black\"}"
+          }
+        ],
+        "confirmedAt": null,
+        "updatedAt": "2026-10-19T03:23:45.946Z"
+      },
+      "marketing": {
+        "priority": "maintain",
+        "chosenAt": null,
+        "reviewAfter": null
+      },
+      "pricing": {
+        "type": null,
+        "text": {
+          "value": "USD 129.00; http://schema.org/InStock",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+              "snippet": "{\"@context\":\"http://schema.org/\",\"@id\":\"/products/analog-card-bar-pro-kit-black#product\",\"@type\":\"Product\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Ugmonk\"},\"category\":\"Desktop Organizers\",\"description\":\"Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box.\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\n\\n\\nThe Analog Card Bar is precision milled from solid aluminum with a black beadblasted finish and displays your cards at the perfect viewing angle. Two slots give you versatility to arrange cards in various configurations, and the front conveniently doubles as a pen tray. At almost 1.5lbs with a rubber pad on the bottom, it stays firmly in place on your desk.\\nFeatures:\\n\\n16\\\" Analog Card Bar (Black)\\n1 pack Small Task Cards (3\\\" x 5\\\")\\n1 pack Small Dot Grid Cards (3\\\" x 5\\\")\\n1 pack Large Dot Grid Cards (5\\\" x 6.5\\\")\\n1 pack of Weekly Cards (3\\\" x 8.5\\\")\\nSolid aluminum construction with matte black bead blasted finish\\nHolds multiple cards at optimal viewing angle\\nFront tray for pens or additional card storage\\nLaser-etched Ugmonk logo\\nDimensions: 16\\\" x 1.8\\\" x .63\\\"\\n\",\"gtin\":\"64777110\",\"image\":\"https://ugmonk.com/cdn/shop/files/pro-blk-new.jpg?v=1783626236&width=1920\",\"name\":\"Analog Card Bar - Pro Kit (Black)\",\"offers\":{\"@id\":\"/products/analog-card-bar-pro-kit-black?variant=46270473961622#offer\",\"@type\":\"Offer\",\"availability\":\"http://schema.org/InStock\",\"price\":\"129.00\",\"priceCurrency\":\"USD\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black?variant=46270473961622\"},\"sku\":\"card-bar-pro-kit-black\",\"url\":\"https://ugmonk.com/products/analog-card-bar-pro-kit-black\"}"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.946Z"
+        }
+      }
+    }
+  ],
+  "content": {
+    "topics": [],
+    "faqs": [
+      {
+        "id": "9ea1d594-8f50-41a1-9273-65f288f6c837",
+        "question": {
+          "value": "What is your return policy?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "What is your return policy? Items may be returned or exchanged within 30 days of delivery. Items returned used or not in original condition may be subject to a 15% restocking fee. We do not cover return shipping fee. \"Warehouse Items\" are final sale and may not be sent back for refund."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "Items may be returned or exchanged within 30 days of delivery. Items returned used or not in original condition may be subject to a 15% restocking fee. We do not cover return shipping fee. \"Warehouse Items\" are final sale and may not be sent back for refund.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "What is your return policy? Items may be returned or exchanged within 30 days of delivery. Items returned used or not in original condition may be subject to a 15% restocking fee. We do not cover return shipping fee. \"Warehouse Items\" are final sale and may not be sent back for refund."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "08fca519-0e68-42dc-a12c-5ab12368c2f1",
+        "question": {
+          "value": "How do I return or exchange an item?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "How do I return or exchange an item? To return or exchange an item please follow the steps below: 1. Include a copy of the packing slip or confirmation email from your order and note the new size or item desired. (We cannot guarantee all items and sizes will be in stock for exchanges.) Mail your return to: Ugmonk Attn: Returns/Exchanges 806 Dorlan Mill Rd. Downingtown, PA 19335 Once your return is received, your new item(s) will be shipped out at no additional cost or your refund will be issued. For any questions, please email us: info@ugmonk.com"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "To return or exchange an item please follow the steps below: 1. Include a copy of the packing slip or confirmation email from your order and note the new size or item desired. (We cannot guarantee all items and sizes will be in stock for exchanges.) Mail your return to: Ugmonk Attn: Returns/Exchanges 806 Dorlan Mill Rd. Downingtown, PA 19335 Once your return is received, your new item(s) will be shipped out at no additional cost or your refund will be issued. For any questions, please email us: info@ugmonk.com",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "How do I return or exchange an item? To return or exchange an item please follow the steps below: 1. Include a copy of the packing slip or confirmation email from your order and note the new size or item desired. (We cannot guarantee all items and sizes will be in stock for exchanges.) Mail your return to: Ugmonk Attn: Returns/Exchanges 806 Dorlan Mill Rd. Downingtown, PA 19335 Once your return is received, your new item(s) will be shipped out at no additional cost or your refund will be issued. For any questions, please email us: info@ugmonk.com"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "42319fa3-55e7-4ace-9fc5-c2bdc8d6412a",
+        "question": {
+          "value": "Where do you ship from?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Where do you ship from? All orders are shipped directly from the Ugmonk HQ in Downingtown, Pennsylvania, USA. We hand pick and pack every order. Our small team has shipped over 150,000 orders."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "All orders are shipped directly from the Ugmonk HQ in Downingtown, Pennsylvania, USA. We hand pick and pack every order. Our small team has shipped over 150,000 orders.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Where do you ship from? All orders are shipped directly from the Ugmonk HQ in Downingtown, Pennsylvania, USA. We hand pick and pack every order. Our small team has shipped over 150,000 orders."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "1890ec15-4b68-4dec-b007-090b8410d309",
+        "question": {
+          "value": "What countries do you ship to?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "What countries do you ship to? We ship to almost every country in the world and have customers in over 75 countries. (We don't currently ship to: Albania, Algeria, Brazil, Colombia, Ecuador, Indonesia, Malaysia, Mexico, Morocco, Pakistan, Slovenia, Tunisia, Vietnam, and more)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "We ship to almost every country in the world and have customers in over 75 countries. (We don't currently ship to: Albania, Algeria, Brazil, Colombia, Ecuador, Indonesia, Malaysia, Mexico, Morocco, Pakistan, Slovenia, Tunisia, Vietnam, and more)",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "What countries do you ship to? We ship to almost every country in the world and have customers in over 75 countries. (We don't currently ship to: Albania, Algeria, Brazil, Colombia, Ecuador, Indonesia, Malaysia, Mexico, Morocco, Pakistan, Slovenia, Tunisia, Vietnam, and more)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "8a86c2e2-f6fb-4b54-93e8-892e9b716f98",
+        "question": {
+          "value": "If I live outside of the USA will I be charged additional custom fees?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "If I live outside of the USA will I be charged additional custom fees? We do not pre-pay or cover any import fees so you may need to pay additional fees when it arrives. Every country has different regulations on how they handle imported goods. We recommended you this Duty Calculator to get an idea of what you will be charged when the package arrives. (Keep in mind this is just an estimator and not an exact amount)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "We do not pre-pay or cover any import fees so you may need to pay additional fees when it arrives. Every country has different regulations on how they handle imported goods. We recommended you this Duty Calculator to get an idea of what you will be charged when the package arrives. (Keep in mind this is just an estimator and not an exact amount)",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "If I live outside of the USA will I be charged additional custom fees? We do not pre-pay or cover any import fees so you may need to pay additional fees when it arrives. Every country has different regulations on how they handle imported goods. We recommended you this Duty Calculator to get an idea of what you will be charged when the package arrives. (Keep in mind this is just an estimator and not an exact amount)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "7b466d5b-6aad-4efa-8e19-c6e0c17fee80",
+        "question": {
+          "value": "How long does shipping take?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "How long does shipping take? We ship orders via FedEx, UPS, or USPS depending on the location. Please allow 2-4 business days for orders to be processed after your purchase is complete. USA Shipping: Standard Shipping (USPS Ground Advantage, FedEx, or UPS): 5-10 business days Express Shipping (FedEx Express or UPS): 2-3 business days ------- International Shipping (varies per country): Fedex International: 1-2 weeks (customs processing times vary) Orders shipped internationally are not sent on a duties-paid basis (DDU). This means your order will likely be subject to import VAT, customs duties, and carrier handling fees upon arrival. These charges are determined by your local customs authority and the shipping carrier, and are the responsibility of the customer. We do not collect or control these fees and cannot predict the exact amount. Please note that courier services (such as DHL, FedEx, or local postal services) may also apply additional clearance or handling fees. For UK customers: Orders over £135 will typically incur import VAT, customs duties, and a courier handling fee before delivery."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "We ship orders via FedEx, UPS, or USPS depending on the location. Please allow 2-4 business days for orders to be processed after your purchase is complete. USA Shipping: Standard Shipping (USPS Ground Advantage, FedEx, or UPS): 5-10 business days Express Shipping (FedEx Express or UPS): 2-3 business days ------- International Shipping (varies per country): Fedex International: 1-2 weeks (customs processing times vary) Orders shipped internationally are not sent on a duties-paid basis (DDU). This means your order will likely be subject to import VAT, customs duties, and carrier handling fees upon arrival. These charges are determined by your local customs authority and the shipping carrier, and are the responsibility of the customer. We do not collect or control these fees and cannot predict the exact amount. Please note that courier services (such as DHL, FedEx, or local postal services) may also apply additional clearance or handling fees. For UK customers: Orders over £135 will typically incur import VAT, customs duties, and a courier handling fee before delivery.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "How long does shipping take? We ship orders via FedEx, UPS, or USPS depending on the location. Please allow 2-4 business days for orders to be processed after your purchase is complete. USA Shipping: Standard Shipping (USPS Ground Advantage, FedEx, or UPS): 5-10 business days Express Shipping (FedEx Express or UPS): 2-3 business days ------- International Shipping (varies per country): Fedex International: 1-2 weeks (customs processing times vary) Orders shipped internationally are not sent on a duties-paid basis (DDU). This means your order will likely be subject to import VAT, customs duties, and carrier handling fees upon arrival. These charges are determined by your local customs authority and the shipping carrier, and are the responsibility of the customer. We do not collect or control these fees and cannot predict the exact amount. Please note that courier services (such as DHL, FedEx, or local postal services) may also apply additional clearance or handling fees. For UK customers: Orders over £135 will typically incur import VAT, customs duties, and a courier handling fee before delivery."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "69aec573-8187-4fe9-b0cc-51f5d4ab030a",
+        "question": {
+          "value": "How do I track my order?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "How do I track my order? We typically ship orders in 2-4 business days after they are placed. When your order ships, you will receive an email with a USPS tracking link. Please allow 24 hours for the link to activate. International customers, once your packages leaves the US, the tracking links may not update but your package is still on its way. If you have any questions about your order, email info@ugmonk.com."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "We typically ship orders in 2-4 business days after they are placed. When your order ships, you will receive an email with a USPS tracking link. Please allow 24 hours for the link to activate. International customers, once your packages leaves the US, the tracking links may not update but your package is still on its way. If you have any questions about your order, email info@ugmonk.com.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "How do I track my order? We typically ship orders in 2-4 business days after they are placed. When your order ships, you will receive an email with a USPS tracking link. Please allow 24 hours for the link to activate. International customers, once your packages leaves the US, the tracking links may not update but your package is still on its way. If you have any questions about your order, email info@ugmonk.com."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "9a9ddd73-239a-48ae-8108-941a9a061102",
+        "question": {
+          "value": "What methods of payments do you accept?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "What methods of payments do you accept? We accept major credit cards such as Visa, MasterCard, American Express, and Discover or direct payments through PayPal or ApplePay."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "We accept major credit cards such as Visa, MasterCard, American Express, and Discover or direct payments through PayPal or ApplePay.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "What methods of payments do you accept? We accept major credit cards such as Visa, MasterCard, American Express, and Discover or direct payments through PayPal or ApplePay."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "8243a9ca-888d-4483-8d36-4ad52b07d3cc",
+        "question": {
+          "value": "Do you sell Gift Cards?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Do you sell Gift Cards? Yes, we certainly do. You can purchase Ugmonk Gift Cards here. The gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees or expiration dates."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "Yes, we certainly do. You can purchase Ugmonk Gift Cards here. The gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees or expiration dates.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Do you sell Gift Cards? Yes, we certainly do. You can purchase Ugmonk Gift Cards here. The gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees or expiration dates."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "fcdbcd2e-55d1-42e4-8b0e-85349c604089",
+        "question": {
+          "value": "Where are your products manufactured?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Where are your products manufactured? Our products are thoughtfully manufactured both domestically in the USA and overseas, depending on what allows us to achieve the best quality for each item and meet the Ugmonk quality standard."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "Our products are thoughtfully manufactured both domestically in the USA and overseas, depending on what allows us to achieve the best quality for each item and meet the Ugmonk quality standard.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Where are your products manufactured? Our products are thoughtfully manufactured both domestically in the USA and overseas, depending on what allows us to achieve the best quality for each item and meet the Ugmonk quality standard."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "01c73dbc-6bf1-4291-baeb-1f5fc7b61613",
+        "question": {
+          "value": "Do you offer custom bulk orders for my business?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Do you offer custom bulk orders for my business? Yes, we'd love to! Please drop us an email with information about what you are looking for and our team will get back to you. info@ugmonk.com"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "Yes, we'd love to! Please drop us an email with information about what you are looking for and our team will get back to you. info@ugmonk.com",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Do you offer custom bulk orders for my business? Yes, we'd love to! Please drop us an email with information about what you are looking for and our team will get back to you. info@ugmonk.com"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "16976694-4968-4bf0-b066-98ffe938ec16",
+        "question": {
+          "value": "What is Ugmonk?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "What is Ugmonk? Ugmonk creates premium analog tools for people who value intentional work and thoughtful design. What started as a side project in 2008 has grown into a family-run business where we obsess over every detail. We design products that help you think better on paper and bring more focus to your work and life. Click here to read our full story"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "Ugmonk creates premium analog tools for people who value intentional work and thoughtful design. What started as a side project in 2008 has grown into a family-run business where we obsess over every detail. We design products that help you think better on paper and bring more focus to your work and life. Click here to read our full story",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "What is Ugmonk? Ugmonk creates premium analog tools for people who value intentional work and thoughtful design. What started as a side project in 2008 has grown into a family-run business where we obsess over every detail. We design products that help you think better on paper and bring more focus to your work and life. Click here to read our full story"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "32f2340b-cff5-4a42-8942-d588ba099c8d",
+        "question": {
+          "value": "How do you pronounce Ugmonk?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "How do you pronounce Ugmonk? One word: \"ugg-munk\""
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "One word: \"ugg-munk\"",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "How do you pronounce Ugmonk? One word: \"ugg-munk\""
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "a8ea994f-9bde-4cdc-bedf-bfbe19dc9b02",
+        "question": {
+          "value": "Where are you located?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Where are you located? We are located in Downingtown, Pennsylvania, USA (near Philadelphia)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "We are located in Downingtown, Pennsylvania, USA (near Philadelphia)",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Where are you located? We are located in Downingtown, Pennsylvania, USA (near Philadelphia)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      },
+      {
+        "id": "32ad8f3b-5c62-44eb-a7d1-461b474c2313",
+        "question": {
+          "value": "Still have other questions?",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Still have other questions? For additional information about Ugmonk please use the contact form or email info@ugmonk.com."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "answer": {
+          "value": "For additional information about Ugmonk please use the contact form or email info@ugmonk.com.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Still have other questions? For additional information about Ugmonk please use the contact form or email info@ugmonk.com."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        }
+      }
+    ],
+    "testimonials": [],
+    "trustSignals": []
+  },
+  "marketing": {
+    "voice": {
+      "formality": "conversational",
+      "emoji": "none",
+      "length": "balanced",
+      "pronoun": null,
+      "callsCustomers": "",
+      "avoid": [],
+      "writingSamples": [],
+      "chosenAt": null
+    },
+    "claims": [
+      {
+        "id": "9970d09e-751b-4cf2-9494-7072a5b97bc5",
+        "text": {
+          "value": "Just a conviction that good design should outlast trends, and that the best products are the ones you never feel the need to replace.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/about",
+              "snippet": "I started Ugmonk in 2008 because I couldn't find simple, well-made things. No investors. No exit strategy. Just a conviction that good design should outlast trends, and that the best products are the ones you never feel the need to replace."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "3ece67e6-1ea5-448f-84ce-ffe0ef66ca56",
+        "text": {
+          "value": "Items may be returned or exchanged within 30 days of delivery.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/products/analog-starter-kit-black",
+              "snippet": "We want you to be 100% satisfied with your Ugmonk purchase. Items may be returned or exchanged within 30 days of delivery.Items returned used or not in original condition may be subject to a 15% restocking fee"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "90c96922-d1a7-49f1-9a3c-046ab99c3361",
+        "text": {
+          "value": "(We cannot guarantee all items and sizes will be in stock for exchanges.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "1. Include a copy of the packing slip or confirmation email from your order and note the new size or item desired. (We cannot guarantee all items and sizes will be in stock for exchanges.)"
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "6fa1a506-bb3a-4cb3-b65d-c7c7ab40cb9c",
+        "text": {
+          "value": "Our products are thoughtfully manufactured both domestically in the USA and overseas, depending on what allows us to achieve the best quality for each item and meet the Ugmonk quality standard.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/pages/faq",
+              "snippet": "Our products are thoughtfully manufactured both domestically in the USA and overseas, depending on what allows us to achieve the best quality for each item and meet the Ugmonk quality standard."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      },
+      {
+        "id": "56768c3e-ca10-4bf9-81c8-c5dcaa8bf20f",
+        "text": {
+          "value": "Save $17 with this best-selling Analog Kit.",
+          "origin": "extracted",
+          "evidence": [
+            {
+              "sourceUrl": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+              "snippet": "Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box."
+            }
+          ],
+          "confirmedAt": null,
+          "updatedAt": "2026-10-19T03:23:45.949Z"
+        },
+        "status": "needs_proof",
+        "reviewAfter": null
+      }
+    ],
+    "promotions": [],
+    "preferredCallToAction": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "customersWanted": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "customersNotSuitable": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "triggerMoments": {
+      "value": null,
+      "origin": "owner",
+      "evidence": [],
+      "confirmedAt": null,
+      "updatedAt": "2026-10-19T03:23:45.946Z"
+    },
+    "genericPhrasesToAvoid": []
+  },
+  "sources": [
+    {
+      "url": "https://ugmonk.com/",
+      "title": "Ugmonk",
+      "fetchedAt": "2026-10-19T01:42:56.534Z",
+      "headings": [
+        "Ugmonk",
+        "Country/Region",
+        "Your cart is empty",
+        "Clear Your Head. Own Your Day.",
+        "Think Better on Paper.",
+        "Analog Card Bar Kit",
+        "Daily Focus Kit",
+        "Discbound Journal",
+        "See It in Action",
+        "17 Years Obsessing Over the Details",
+        "Designed and Shipped in Pennsylvania",
+        "Featured product",
+        "The Analog Starter Kit",
+        "Analog Travel Case (Walnut)",
+        "Analog Card Sleeves - Small (Bright)",
+        "Analog Card Sleeves - Small (Monochrome)",
+        "Analog Card Sleeves - Small (Earth)",
+        "Analog Card Sleeves - Large (Bright)",
+        "Analog Card Sleeves - Large (Earth)",
+        "Analog Card Sleeves - Large (Monochromatic)",
+        "Analog Card Sleeve Multipack - Large (Set of 18)",
+        "Analog Card Sleeve Multipack - Small (Set of 18)",
+        "Layflat Notebook Bundle (Series 2 - Set of 3)",
+        "Layflat Notebook (Charcoal)",
+        "Layflat Notebook (Maroon)",
+        "Layflat Notebook (Navy)",
+        "Layflat Notebook (Green)",
+        "Layflat Notebook (Yellow)",
+        "Ugmonk Brass Dice",
+        "Two Systems. One Goal.",
+        "Analog Card System",
+        "Discbound Journal System",
+        "The Ugmonk Newsletter",
+        "Search"
+      ],
+      "paragraphs": [
+        "Your best work happens away from a screen. When you can write it, hold it, rearrange it. Less distraction. More focus.",
+        "I started Ugmonk in 2008 from my apartment with no business plan, no investors, and one idea: make things I'd actually want to use.",
+        "Today, I still prototype every product here in our Pennsylvania studio, obsess over every detail, and won't ship anything I wouldn't use myself.",
+        "If you care about the details too, you're in the right place.",
+        "No investors. No shortcuts. Just a 4-person team building products we'd use ourselves.",
+        "We take our time to get it right, not just get it out.",
+        "Every order packed by hand by our team in Downingtown.",
+        "Analog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it."
+      ]
+    },
+    {
+      "url": "https://ugmonk.com/pages/about",
+      "title": "About – Ugmonk",
+      "fetchedAt": "2026-10-19T01:43:00.695Z",
+      "headings": [
+        "Country/Region",
+        "Your cart is empty",
+        "I’m more so the fisherman.",
+        "Ugmonk exists to be that wink.",
+        "Explore Our Best Sellers",
+        "Analog Daily Focus Kit (Walnut)",
+        "Analog Card Bar (Large 16\" – Silver)",
+        "Analog Capture Kit - Small & Large (Black Aluminum)",
+        "Analog Weekly Planning Kit (Walnut)",
+        "Analog Card Organizer (Black Aluminum)",
+        "Analog Travel Case (Walnut)",
+        "Warehouse Item - Analog Travel Case (Walnut)",
+        "Designed and Shipped in Pennsylvania",
+        "The Ugmonk Newsletter",
+        "Search"
+      ],
+      "paragraphs": [
+        "In a moment, I will tell you everything you need to know about Ugmonk.",
+        "Once upon a time, a fisherman taught a banker a lesson that would change his life.",
+        "The banker was vacationing in a small coastal village when a fisherman docked beside him with a beautiful catch of tuna. The banker complimented him and asked how long it took.",
+        "The banker asked why he didn't stay out longer and catch more.",
+        "\"Because I have enough to support my family,\" the fisherman replied. \"I enjoy sleeping late, playing with my children, taking afternoon naps with my wife, and strolling into the village in the evenings to sip wine and play guitar with my friends.\"",
+        "The banker scoffed. \"Spend more time fishing. Buy a bigger boat. Then several boats. Eventually you'll have a fleet, move to a big city, build a real business.\"",
+        "\"Then you announce an IPO, sell your stock, become a millionaire.\"",
+        "\"Then you retire. Move to a small coastal village — sleep late, spend time with your family, sip wine with friends in the evenings.\"",
+        "The fisherman smiled, winked, threw the tuna over his shoulder, and carried his catch into town.",
+        "I'm a designer by trade and an entrepreneur by accident.",
+        "I started Ugmonk in 2008 because I couldn't find simple, well-made things. No investors. No exit strategy. Just a conviction that good design should outlast trends, and that the best products are the ones you never feel the need to replace.",
+        "Seventeen years later, that conviction remains true. In a world drowning in notifications and digital noise, the most intentional thing you can do is slow down, pick up a pen, and think on paper.",
+        "A simple card-based system for capturing what matters, planning your day, and staying present. No app. No battery. No algorithm deciding what you see next. Just you, a pen, and a card.",
+        "We're a small 4-person team in Downingtown, Pennsylvania. We take months (sometimes years) getting each product right. We obsess over materials, tolerances, and the feeling of a thing in your hand. We ship everything ourselves and reply directly to every email.",
+        "Shopping from Ugmonk is a lot like buying from your neighborhood corner store. You're supporting our family and the craftspeople who share our obsession with getting every detail right.",
+        "Each idea goes through countless prototypes to perfect the design",
+        "In the design studio, where every product takes shape",
+        "Crafted from premium natural materials that stand the test of time",
+        "Every order packed by hand by our team in Downingtown."
+      ]
+    },
+    {
+      "url": "https://ugmonk.com/products/analog-starter-kit-black",
+      "title": "Analog Starter Kit (Black) – Ugmonk",
+      "fetchedAt": "2026-10-19T01:43:04.225Z",
+      "headings": [
+        "Country/Region",
+        "Your cart is empty",
+        "Analog Starter Kit",
+        "Add to your kit:",
+        "Think Better on Paper",
+        "17 Years Obsessing Over the Details",
+        "Designed and Shipped in Pennsylvania",
+        "Customer Reviews",
+        "Find the perfect setup:",
+        "The Ugmonk Newsletter",
+        "Search"
+      ],
+      "paragraphs": [
+        "The perfect way to try out Analog. Includes everything you need to get started: 15 Task Cards, 15 Dot Grid Cards, and Aluminum Stand.",
+        "Analog is a paper card system for capturing ideas, clearing your head, and focusing on what matters most. This Starter Kit gives you everything you need to try it.",
+        "All orders are shipped from our headquarters in Downingtown, Pennsylvania, USA.",
+        "Shipping rates are calculated at checkout based on the weight and destination of your order.",
+        "Orders shipped internationally are not sent on a duties-paid basis(DDU). This means your order will likely be subject to import VAT, customs duties, and carrier handling fees upon arrival.",
+        "These charges are determined by your local customs authority and the shipping carrier, and are the responsibility of the customer.",
+        "We do not collect or control these fees and cannot predict the exact amount.",
+        "Please note that courier services(such as DHL, FedEx, or local postal services) may also apply additional clearance or handling fees.",
+        "For UK customers: Orders over £135 will typically incur import VAT, customs duties, and a courier handling fee before delivery.",
+        "We want you to be 100% satisfied with your Ugmonk purchase. Items may be returned or exchanged within 30 days of delivery.Items returned used or not in original condition may be subject to a 15% restocking fee",
+        "A card system built for the way you actually think.",
+        "I started Ugmonk in 2008 from my apartment with no business plan, no investors, and one idea: make things I'd actually want to use.",
+        "Today, I still prototype every product here in our Pennsylvania studio, obsess over every detail, and won't ship anything I wouldn't use myself.",
+        "If you care about the details too, you're in the right place.",
+        "Every order packed by hand by our team in Downingtown.",
+        "These principles guide everything we design, make, and ship.",
+        "We believe in investing in fewer, better things that are well made and delightful to use.",
+        "We choose materials and construction that hold up for years, not just for the first unboxing.",
+        "Every detail is considered on purpose. Nothing ships until it's earned its place in the final design."
+      ]
+    },
+    {
+      "url": "https://ugmonk.com/pages/faq",
+      "title": "FAQ – Ugmonk",
+      "fetchedAt": "2026-10-19T01:43:07.280Z",
+      "headings": [
+        "Country/Region",
+        "Your cart is empty",
+        "FAQ",
+        "Frequently asked questions",
+        "Shipping & Returns",
+        "Payments",
+        "Products",
+        "About Ugmonk",
+        "The Ugmonk Newsletter",
+        "Search"
+      ],
+      "paragraphs": [
+        "If you have a question that isn't answered below, feel free to email us directly: info@ugmonk.com",
+        "Items may be returned or exchanged within 30 days of delivery. Items returned used or not in original condition may be subject to a 15% restocking fee. We do not cover return shipping fee.",
+        "\"Warehouse Items\" are final sale and may not be sent back for refund.",
+        "To return or exchange an item please follow the steps below:",
+        "1. Include a copy of the packing slip or confirmation email from your order and note the new size or item desired. (We cannot guarantee all items and sizes will be in stock for exchanges.)",
+        "Ugmonk Attn: Returns/Exchanges 806 Dorlan Mill Rd. Downingtown, PA 19335",
+        "Once your return is received, your new item(s) will be shipped out at no additional cost or your refund will be issued.",
+        "For any questions, please email us: info@ugmonk.com",
+        "All orders are shipped directly from the Ugmonk HQ in Downingtown, Pennsylvania, USA.",
+        "We hand pick and pack every order. Our small team has shipped over 150,000 orders.",
+        "We ship to almost every country in the world and have customers in over 75 countries. (We don't currently ship to: Albania, Algeria, Brazil, Colombia, Ecuador, Indonesia, Malaysia, Mexico, Morocco, Pakistan, Slovenia, Tunisia, Vietnam, and more)",
+        "We do not pre-pay or cover any import fees so you may need to pay additional fees when it arrives. Every country has different regulations on how they handle imported goods. We recommended you this Duty Calculator to get an idea of what you will be charged when the package arrives. (Keep in mind this is just an estimator and not an exact amount)",
+        "We ship orders via FedEx, UPS, or USPS depending on the location. Please allow 2-4 business days for orders to be processed after your purchase is complete.",
+        "Standard Shipping (USPS Ground Advantage, FedEx, or UPS): 5-10 business days Express Shipping (FedEx Express or UPS): 2-3 business days",
+        "------- International Shipping (varies per country):",
+        "Fedex International: 1-2 weeks (customs processing times vary)",
+        "Orders shipped internationally are not sent on a duties-paid basis (DDU). This means your order will likely be subject to import VAT, customs duties, and carrier handling fees upon arrival.",
+        "These charges are determined by your local customs authority and the shipping carrier, and are the responsibility of the customer. We do not collect or control these fees and cannot predict the exact amount.",
+        "Please note that courier services (such as DHL, FedEx, or local postal services) may also apply additional clearance or handling fees.",
+        "For UK customers: Orders over £135 will typically incur import VAT, customs duties, and a courier handling fee before delivery.",
+        "We typically ship orders in 2-4 business days after they are placed. When your order ships, you will receive an email with a USPS tracking link.",
+        "International customers, once your packages leaves the US, the tracking links may not update but your package is still on its way.",
+        "If you have any questions about your order, email info@ugmonk.com.",
+        "We accept major credit cards such as Visa, MasterCard, American Express, and Discover or direct payments through PayPal or ApplePay.",
+        "Yes, we certainly do. You can purchase Ugmonk Gift Cards here. The gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees or expiration dates.",
+        "Our products are thoughtfully manufactured both domestically in the USA and overseas, depending on what allows us to achieve the best quality for each item and meet the Ugmonk quality standard.",
+        "Yes, we'd love to! Please drop us an email with information about what you are looking for and our team will get back to you. info@ugmonk.com",
+        "Ugmonk creates premium analog tools for people who value intentional work and thoughtful design. What started as a side project in 2008 has grown into a family-run business where we obsess over every detail. We design products that help you think better on paper and bring more focus to your work and life.",
+        "We are located in Downingtown, Pennsylvania, USA (near Philadelphia)",
+        "For additional information about Ugmonk please use the contact form or email info@ugmonk.com."
+      ]
+    },
+    {
+      "url": "https://ugmonk.com/pages/contact-us",
+      "title": "Have a question? We're here to help. – Ugmonk",
+      "fetchedAt": "2026-10-19T01:43:10.917Z",
+      "headings": [
+        "Country/Region",
+        "Your cart is empty",
+        "We'd love to hear from you.",
+        "Contact Us",
+        "The Ugmonk Newsletter",
+        "Search"
+      ],
+      "paragraphs": [
+        "If you have a question, need help with your order, email us at: info@ugmonk.com",
+        "Ugmonk 806 Dorlan Mill Rd. Downingtown, PA 19335 USA"
+      ]
+    },
+    {
+      "url": "https://ugmonk.com/products/analog-card-bar-pro-kit-black",
+      "title": "Analog Card Bar - Pro Kit (Black) – Ugmonk",
+      "fetchedAt": "2026-10-19T01:43:14.844Z",
+      "headings": [
+        "Country/Region",
+        "Your cart is empty",
+        "Analog Card Bar - Pro Kit",
+        "Complete Your Kit",
+        "Designed and Shipped in Pennsylvania",
+        "Explore Analog Card Formats",
+        "Analog Task Cards - Small",
+        "Analog Dot Grid Cards - Small",
+        "Analog Lined Cards - Small",
+        "Analog Graph Cards - Small",
+        "Analog Blank Cards - Small",
+        "Analog Task Cards - Large",
+        "Customer Reviews",
+        "The Ugmonk Newsletter",
+        "Search"
+      ],
+      "paragraphs": [
+        "Our most popular kit. The fastest way to build the Analog habit.",
+        "Save $17 with this best-selling Analog Kit. Everything you need to get started with Analog. Plan your days, capture ideas, and manage your week, right out of the box.",
+        "The Analog Card Bar is precision milled from solid aluminum with a black beadblasted finish and displays your cards at the perfect viewing angle. Two slots give you versatility to arrange cards in various configurations, and the front conveniently doubles as a pen tray. At almost 1.5lbs with a rubber pad on the bottom, it stays firmly in place on your desk.",
+        "All orders are shipped from our headquarters in Downingtown, Pennsylvania, USA.",
+        "Shipping rates are calculated at checkout based on the weight and destination of your order.",
+        "Orders shipped internationally are not sent on a duties-paid basis(DDU). This means your order will likely be subject to import VAT, customs duties, and carrier handling fees upon arrival.",
+        "These charges are determined by your local customs authority and the shipping carrier, and are the responsibility of the customer.",
+        "We do not collect or control these fees and cannot predict the exact amount.",
+        "Please note that courier services(such as DHL, FedEx, or local postal services) may also apply additional clearance or handling fees.",
+        "For UK customers: Orders over £135 will typically incur import VAT, customs duties, and a courier handling fee before delivery.",
+        "We want you to be 100% satisfied with your Ugmonk purchase. Items may be returned or exchanged within 30 days of delivery.Items returned used or not in original condition may be subject to a 15% restocking fee",
+        "These principles guide everything we design, make, and ship.",
+        "We believe in investing in fewer, better things that are well made and delightful to use.",
+        "We've been slowly building for 17 years, taking our time to get each product right instead of chasing trends.",
+        "We sweat the small stuff: the weight, the feel, the materials. Because that's where good design actually lives.",
+        "Every order packed by hand by our team in Downingtown."
+      ]
+    },
+    {
+      "url": "https://ugmonk.com/products/analog-starter-kit",
+      "title": "Analog Daily Focus Kit (Walnut) – Ugmonk",
+      "fetchedAt": "2026-10-19T01:43:18.833Z",
+      "headings": [
+        "Country/Region",
+        "Your cart is empty",
+        "Analog Daily Focus Kit",
+        "Learn the Analog System in 60 Seconds",
+        "You might also like...",
+        "Designed and Shipped in Pennsylvania",
+        "Customer Reviews",
+        "The Ugmonk Newsletter",
+        "Search"
+      ],
+      "paragraphs": [
+        "Everything you need to build the Analog habit. Solid walnut card holder + 1 Month of Task Cards",
+        "Meet Analog: The Simplest Productivity System. Analog is a physical companion for your digital tools that helps you prioritize and focus on your most important tasks.",
+        "The wood card holder keeps your Today card in front of you while the open-back is designed to store your completed cards.",
+        "The included tabbed divider gives you an easy way to separate your new and completed cards",
+        "Interested in buying in bulk for your whole team? Email us: orders@ugmonk.com",
+        "All orders are shipped from our headquarters in Downingtown, Pennsylvania, USA.",
+        "Shipping rates are calculated at checkout based on the weight and destination of your order.",
+        "Orders shipped internationally are not sent on a duties-paid basis(DDU). This means your order will likely be subject to import VAT, customs duties, and carrier handling fees upon arrival.",
+        "These charges are determined by your local customs authority and the shipping carrier, and are the responsibility of the customer.",
+        "We do not collect or control these fees and cannot predict the exact amount.",
+        "Please note that courier services(such as DHL, FedEx, or local postal services) may also apply additional clearance or handling fees.",
+        "For UK customers: Orders over £135 will typically incur import VAT, customs duties, and a courier handling fee before delivery.",
+        "We want you to be 100% satisfied with your Ugmonk purchase. Items may be returned or exchanged within 30 days of delivery.Items returned used or not in original condition may be subject to a 15% restocking fee",
+        "These principles guide everything we design, make, and ship.",
+        "We believe in investing in fewer, better things that are well made and delightful to use.",
+        "We choose materials and construction that hold up for years, not just for the first unboxing.",
+        "Every detail is considered on purpose. Nothing ships until it's earned its place in the final design.",
+        "Every order packed by hand by our team in Downingtown."
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "url": "https://ugmonk.com/",
+      "message": "Different descriptions were found. The first value was selected for review."
+    }
+  ]
+}
