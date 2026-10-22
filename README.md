@@ -1,3 +1,8 @@
+## Live demo
+
+[Try MoKnowledge](https://moknowledge-mp4xa5pjn-danaytedesta.vercel.app)
+
+Enter a business website, review the extracted information, and save or export a profile. Saved profiles stay in your current browser.
 # MoKnowledge
 
 MoKnowledge turns a business website into an editable knowledge profile. I built this for the MoFlo interview assignment while learning TypeScript, with AI assistance. It helps a small-business owner review useful information once and reuse it in instructions for social posts, emails, and blog articles.
